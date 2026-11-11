@@ -1,0 +1,74 @@
+<SKILLS_1_NATURAL>
+  <SKILL-FCP_KEEN_EYES Rarity="0">
+    <DescriptionInfo Name="Keen Eyes" Description="Improves perception." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_PERCEPTION" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_KEEN_EYES>
+  <SKILL-FCP_ANCIENT_WISDOM Rarity="0">
+    <DescriptionInfo Name="Ancient Wisdom" Description="Improves wisdom." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_ANCIENT_WISDOM>
+  <SKILL-FCP_WATER_BREATHING Rarity="0">
+    <DescriptionInfo Name="Water Breathing" Description="Grants a small bonus to spirit shielding." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_SPIRIT" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_WATER_BREATHING>
+  <SKILL-FCP_FIRE_IMMUNE Rarity="0">
+    <DescriptionInfo Name="Fire Immune" Description="Grants a small bonus to physical shielding." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_PHYSICAL" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_FIRE_IMMUNE>
+  <SKILL-FCP_MOON_BLESSED Rarity="0">
+    <DescriptionInfo Name="Moon Blessed" Description="Improves destiny." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_MOON_BLESSED>
+  <SKILL-FCP_STONE_BARK Rarity="0">
+    <DescriptionInfo Name="Stone Bark" Description="Grants a small bonus to physical shielding." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_PHYSICAL" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_STONE_BARK>
+  <SKILL-FCP_POISON_SKIN Rarity="0">
+    <DescriptionInfo Name="Poison Skin" Description="Adds a venomous bite." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-POISON_BITE" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_POISON_SKIN>
+  <SKILL-FCP_NIGHT_HUNTER Rarity="0">
+    <DescriptionInfo Name="Night Hunter" Description="Improves perception." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_VWEAK_ADD_PERCEPTION" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_NIGHT_HUNTER>
+  <SKILL-FCP_SWIFT_WINGS Rarity="0">
+    <DescriptionInfo Name="Swift Wings" Description="Improves movement range." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CONST_WEAK_ADD_MOVEMENT" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_SWIFT_WINGS>
+  <SKILL-FCP_DEEP_SIGHT Rarity="0">
+    <DescriptionInfo Name="Deep Sight" Description="Improves perception." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_DEEP_SIGHT>
+  <SKILL-FCP_EMBER_HEART Rarity="0">
+    <DescriptionInfo Name="Ember Heart" Description="A burst of flame scorches the enemy." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FIREBALL" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_EMBER_HEART>
+  <SKILL-FCP_FOREST_GUARDIAN Rarity="0">
+    <DescriptionInfo Name="Forest Guardian" Description="Improves gathering." IconName="ClassMythical" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_GATHERING" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_FOREST_GUARDIAN>
+</SKILLS_1_NATURAL>

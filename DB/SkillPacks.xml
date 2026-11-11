@@ -1,0 +1,72 @@
+<SKILLS_PACKS>
+  <SKILL_PACK-FCP_GRIFFIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CELESTIAL_DIVE" />
+    <GuarantedSkill Value="SKILL-FCP_STORM_TALONS" />
+    <GuarantedSkill Value="SKILL-FCP_KEEN_EYES" />
+    <GuarantedSkill Value="SKILL-FCP_SWIFT_WINGS" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_GRIFFIN>
+  <SKILL_PACK-FCP_KIRIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_ANCESTRAL_BLESSING" />
+    <GuarantedSkill Value="SKILL-FCP_ANCIENT_WISDOM" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_KIRIN>
+  <SKILL_PACK-FCP_MERMAID>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_ABYSSAL_SONG" />
+    <GuarantedSkill Value="SKILL-FCP_WATER_BREATHING" />
+    <GuarantedSkill Value="SKILL-FCP_DEEP_SIGHT" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_MERMAID>
+  <SKILL_PACK-FCP_PHOENIX>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_REBIRTH_IN_FLAMES" />
+    <GuarantedSkill Value="SKILL-FCP_EMBER_BURST" />
+    <GuarantedSkill Value="SKILL-FCP_FIRE_IMMUNE" />
+    <GuarantedSkill Value="SKILL-FCP_EMBER_HEART" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_PHOENIX>
+  <SKILL_PACK-FCP_UNICORN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_LUNAR_HEALING" />
+    <GuarantedSkill Value="SKILL-FCP_MOON_BLESSED" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_UNICORN>
+  <SKILL_PACK-FCP_ENT>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_ROOT_GRASP" />
+    <GuarantedSkill Value="SKILL-FCP_STONE_BARK" />
+    <GuarantedSkill Value="SKILL-FCP_FOREST_GUARDIAN" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_ENT>
+  <SKILL_PACK-FCP_BASILISK>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_PETRIFYING_GAZE" />
+    <GuarantedSkill Value="SKILL-FCP_POISON_SKIN" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_BASILISK>
+  <SKILL_PACK-FCP_WOLF>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_MOON_HOWL" />
+    <GuarantedSkill Value="SKILL-FCP_NIGHT_HUNTER" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WOLF>
+</SKILLS_PACKS>

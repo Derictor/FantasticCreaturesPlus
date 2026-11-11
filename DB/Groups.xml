@@ -1,0 +1,322 @@
+<GROUP>
+  <GROUP-FCP_GRIFFIN_L5>
+    <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
+    <DescriptionInfo Name="Griffin Celestial" Description="A group of Griffin Celestial creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_GRIFFIN" />
+      <MemberCount MinimumCount="1" MaximumCount="3" />
+    </Member>
+  </GROUP-FCP_GRIFFIN_L5>
+  <GROUP-FCP_GRIFFIN_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Griffin Celestial" Description="A group of Griffin Celestial creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_GRIFFIN" />
+      <MemberCount MinimumCount="1" MaximumCount="3" />
+    </Member>
+  </GROUP-FCP_GRIFFIN_L6>
+  <GROUP-FCP_GRIFFIN_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Griffin Celestial" Description="A group of Griffin Celestial creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_GRIFFIN" />
+      <MemberCount MinimumCount="1" MaximumCount="3" />
+    </Member>
+  </GROUP-FCP_GRIFFIN_L7>
+  <GROUP-FCP_GRIFFIN_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Griffin Celestial" Description="A group of Griffin Celestial creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_GRIFFIN" />
+      <MemberCount MinimumCount="1" MaximumCount="3" />
+    </Member>
+  </GROUP-FCP_GRIFFIN_L8>
+  <GROUP-FCP_KIRIN_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Kirin Ancient" Description="A group of Kirin Ancient creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_KIRIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_KIRIN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_KIRIN_L6>
+  <GROUP-FCP_KIRIN_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Kirin Ancient" Description="A group of Kirin Ancient creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_KIRIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_KIRIN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_KIRIN_L7>
+  <GROUP-FCP_KIRIN_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Kirin Ancient" Description="A group of Kirin Ancient creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_KIRIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_KIRIN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_KIRIN_L8>
+  <GROUP-FCP_KIRIN_L9>
+    <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
+    <DescriptionInfo Name="Kirin Ancient" Description="A group of Kirin Ancient creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_KIRIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_KIRIN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_KIRIN_L9>
+  <GROUP-FCP_MERMAID_L4>
+    <ChallengeLvl Physical="4" Mental="4" Spirit="4" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="A group of Abyssal Mermaid creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_MERMAID" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_MERMAID" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_MERMAID_L4>
+  <GROUP-FCP_MERMAID_L5>
+    <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="A group of Abyssal Mermaid creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_MERMAID" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_MERMAID" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_MERMAID_L5>
+  <GROUP-FCP_MERMAID_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="A group of Abyssal Mermaid creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_MERMAID" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_MERMAID" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_MERMAID_L6>
+  <GROUP-FCP_MERMAID_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="A group of Abyssal Mermaid creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_MERMAID" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_MERMAID" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_MERMAID_L7>
+  <GROUP-FCP_PHOENIX_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Ember Phoenix" Description="A group of Ember Phoenix creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_PHOENIX" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_PHOENIX_L7>
+  <GROUP-FCP_PHOENIX_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Ember Phoenix" Description="A group of Ember Phoenix creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_PHOENIX" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_PHOENIX_L8>
+  <GROUP-FCP_PHOENIX_L9>
+    <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
+    <DescriptionInfo Name="Ember Phoenix" Description="A group of Ember Phoenix creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_PHOENIX" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_PHOENIX_L9>
+  <GROUP-FCP_PHOENIX_L10>
+    <ChallengeLvl Physical="10" Mental="10" Spirit="10" />
+    <DescriptionInfo Name="Ember Phoenix" Description="A group of Ember Phoenix creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_PHOENIX" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_PHOENIX_L10>
+  <GROUP-FCP_UNICORN_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="A group of Lunar Unicorn creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_UNICORN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_UNICORN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_UNICORN_L6>
+  <GROUP-FCP_UNICORN_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="A group of Lunar Unicorn creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_UNICORN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_UNICORN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_UNICORN_L7>
+  <GROUP-FCP_UNICORN_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="A group of Lunar Unicorn creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_UNICORN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_UNICORN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_UNICORN_L8>
+  <GROUP-FCP_UNICORN_L9>
+    <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="A group of Lunar Unicorn creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_UNICORN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_UNICORN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_UNICORN_L9>
+  <GROUP-FCP_ENT_L5>
+    <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
+    <DescriptionInfo Name="Ancient Ent" Description="A group of Ancient Ent creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_ENT" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_ENT" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_ENT_L5>
+  <GROUP-FCP_ENT_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Ancient Ent" Description="A group of Ancient Ent creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_ENT" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_ENT" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_ENT_L6>
+  <GROUP-FCP_ENT_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Ancient Ent" Description="A group of Ancient Ent creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_ENT" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_ENT" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_ENT_L7>
+  <GROUP-FCP_ENT_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Ancient Ent" Description="A group of Ancient Ent creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_ENT" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_ENT" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_ENT_L8>
+  <GROUP-FCP_BASILISK_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Basilisk" Description="A group of Basilisk creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_BASILISK" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_BASILISK" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_BASILISK_L6>
+  <GROUP-FCP_BASILISK_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Basilisk" Description="A group of Basilisk creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_BASILISK" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_BASILISK" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_BASILISK_L7>
+  <GROUP-FCP_BASILISK_L8>
+    <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
+    <DescriptionInfo Name="Basilisk" Description="A group of Basilisk creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_BASILISK" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_BASILISK" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_BASILISK_L8>
+  <GROUP-FCP_BASILISK_L9>
+    <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
+    <DescriptionInfo Name="Basilisk" Description="A group of Basilisk creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_BASILISK" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_BASILISK" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_BASILISK_L9>
+  <GROUP-FCP_WOLF_L4>
+    <ChallengeLvl Physical="4" Mental="4" Spirit="4" />
+    <DescriptionInfo Name="Lunar Wolf" Description="A group of Lunar Wolf creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_WOLF" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_WOLF" />
+      <MemberCount MinimumCount="2" MaximumCount="4" />
+    </Member>
+  </GROUP-FCP_WOLF_L4>
+  <GROUP-FCP_WOLF_L5>
+    <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
+    <DescriptionInfo Name="Lunar Wolf" Description="A group of Lunar Wolf creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_WOLF" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_WOLF" />
+      <MemberCount MinimumCount="2" MaximumCount="4" />
+    </Member>
+  </GROUP-FCP_WOLF_L5>
+  <GROUP-FCP_WOLF_L6>
+    <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
+    <DescriptionInfo Name="Lunar Wolf" Description="A group of Lunar Wolf creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_WOLF" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_WOLF" />
+      <MemberCount MinimumCount="2" MaximumCount="4" />
+    </Member>
+  </GROUP-FCP_WOLF_L6>
+  <GROUP-FCP_WOLF_L7>
+    <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
+    <DescriptionInfo Name="Lunar Wolf" Description="A group of Lunar Wolf creatures." IconName="IconPlaceholder" />
+    <EventsRoaming Value="EVENTC-FCP_WOLF" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_WOLF" />
+      <MemberCount MinimumCount="2" MaximumCount="4" />
+    </Member>
+  </GROUP-FCP_WOLF_L7>
+</GROUP>

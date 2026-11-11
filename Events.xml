@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MODULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FantasticCreaturesPlus" lastEventIndex="8" allowToUse="true" uniqueModuleID="-4830194">
+  <Adventure name="Event_Find_Griffin" uniqueID="1" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />You hear a scream in the mountains. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Kirin" uniqueID="2" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />An ancient light flickers in the forest. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Mermaid" uniqueID="3" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A voice rises from the lake. Do you follow it?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Phoenix" uniqueID="4" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A plume of fire coils above the volcanic ash. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Unicorn" uniqueID="5" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A silver shape moves through the moonlit forest. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Ent" uniqueID="6" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />The oldest tree shifts and watches you. What do you do?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Basilisk" uniqueID="7" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A rasp echoes from the dark cave. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Lunar_Wolf" uniqueID="8" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A pack howls beneath the moon. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The creature is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The creature joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The creature resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The creature accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+</MODULE>

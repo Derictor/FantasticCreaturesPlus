@@ -1,0 +1,139 @@
+<SETTLEMENT>
+  <SET-FCP_GRIFFIN Rarity="12">
+    <DescriptionInfo Name="Mountain Peaks" Description="A place where Griffin Celestial creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_GRIFFIN" />
+    <SpawnGroup Group="GROUP-FCP_GRIFFIN_L5" />
+    <DefaultDefender Group="GROUP-FCP_GRIFFIN_L5" />
+    <SpawnGroup Group="GROUP-FCP_GRIFFIN_L6" />
+    <DefaultDefender Group="GROUP-FCP_GRIFFIN_L6" />
+    <SpawnGroup Group="GROUP-FCP_GRIFFIN_L7" />
+    <DefaultDefender Group="GROUP-FCP_GRIFFIN_L7" />
+    <SpawnGroup Group="GROUP-FCP_GRIFFIN_L8" />
+    <DefaultDefender Group="GROUP-FCP_GRIFFIN_L8" />
+    <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN1_METALLIC" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MOUNTAIN1_METALLIC" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN_ANCIENT1" Requirement="OptionalType" />
+  </SET-FCP_GRIFFIN>
+  <SET-FCP_KIRIN Rarity="12">
+    <DescriptionInfo Name="Ancient Forest" Description="A place where Kirin Ancient creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="ElfSacredGrove1" />
+    <EventsCollection Value="EVENTC-FCP_KIRIN" />
+    <SpawnGroup Group="GROUP-FCP_KIRIN_L6" />
+    <DefaultDefender Group="GROUP-FCP_KIRIN_L6" />
+    <SpawnGroup Group="GROUP-FCP_KIRIN_L7" />
+    <DefaultDefender Group="GROUP-FCP_KIRIN_L7" />
+    <SpawnGroup Group="GROUP-FCP_KIRIN_L8" />
+    <DefaultDefender Group="GROUP-FCP_KIRIN_L8" />
+    <SpawnGroup Group="GROUP-FCP_KIRIN_L9" />
+    <DefaultDefender Group="GROUP-FCP_KIRIN_L9" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT3" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT4" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT5" Requirement="OptionalType" />
+  </SET-FCP_KIRIN>
+  <SET-FCP_MERMAID Rarity="12">
+    <DescriptionInfo Name="Deep Lake" Description="A place where Abyssal Mermaid creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Ruins1" />
+    <EventsCollection Value="EVENTC-FCP_MERMAID" />
+    <SpawnGroup Group="GROUP-FCP_MERMAID_L4" />
+    <DefaultDefender Group="GROUP-FCP_MERMAID_L4" />
+    <SpawnGroup Group="GROUP-FCP_MERMAID_L5" />
+    <DefaultDefender Group="GROUP-FCP_MERMAID_L5" />
+    <SpawnGroup Group="GROUP-FCP_MERMAID_L6" />
+    <DefaultDefender Group="GROUP-FCP_MERMAID_L6" />
+    <SpawnGroup Group="GROUP-FCP_MERMAID_L7" />
+    <DefaultDefender Group="GROUP-FCP_MERMAID_L7" />
+    <SpawnTerrain Terrain="TERRAIN-SEA" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT3" Requirement="OptionalType" />
+  </SET-FCP_MERMAID>
+  <SET-FCP_PHOENIX Rarity="12">
+    <DescriptionInfo Name="Volcanic Ash" Description="A place where Ember Phoenix creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_PHOENIX" />
+    <SpawnGroup Group="GROUP-FCP_PHOENIX_L7" />
+    <DefaultDefender Group="GROUP-FCP_PHOENIX_L7" />
+    <SpawnGroup Group="GROUP-FCP_PHOENIX_L8" />
+    <DefaultDefender Group="GROUP-FCP_PHOENIX_L8" />
+    <SpawnGroup Group="GROUP-FCP_PHOENIX_L9" />
+    <DefaultDefender Group="GROUP-FCP_PHOENIX_L9" />
+    <SpawnGroup Group="GROUP-FCP_PHOENIX_L10" />
+    <DefaultDefender Group="GROUP-FCP_PHOENIX_L10" />
+    <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC2" Requirement="OptionalType" />
+  </SET-FCP_PHOENIX>
+  <SET-FCP_UNICORN Rarity="12">
+    <DescriptionInfo Name="Moonlit Forest" Description="A place where Lunar Unicorn creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="ElfSacredGrove1" />
+    <EventsCollection Value="EVENTC-FCP_UNICORN" />
+    <SpawnGroup Group="GROUP-FCP_UNICORN_L6" />
+    <DefaultDefender Group="GROUP-FCP_UNICORN_L6" />
+    <SpawnGroup Group="GROUP-FCP_UNICORN_L7" />
+    <DefaultDefender Group="GROUP-FCP_UNICORN_L7" />
+    <SpawnGroup Group="GROUP-FCP_UNICORN_L8" />
+    <DefaultDefender Group="GROUP-FCP_UNICORN_L8" />
+    <SpawnGroup Group="GROUP-FCP_UNICORN_L9" />
+    <DefaultDefender Group="GROUP-FCP_UNICORN_L9" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS3" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS4" Requirement="OptionalType" />
+  </SET-FCP_UNICORN>
+  <SET-FCP_ENT Rarity="12">
+    <DescriptionInfo Name="Oldest Tree" Description="A place where Ancient Ent creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Woods1" />
+    <EventsCollection Value="EVENTC-FCP_ENT" />
+    <SpawnGroup Group="GROUP-FCP_ENT_L5" />
+    <DefaultDefender Group="GROUP-FCP_ENT_L5" />
+    <SpawnGroup Group="GROUP-FCP_ENT_L6" />
+    <DefaultDefender Group="GROUP-FCP_ENT_L6" />
+    <SpawnGroup Group="GROUP-FCP_ENT_L7" />
+    <DefaultDefender Group="GROUP-FCP_ENT_L7" />
+    <SpawnGroup Group="GROUP-FCP_ENT_L8" />
+    <DefaultDefender Group="GROUP-FCP_ENT_L8" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT3" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT4" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT5" Requirement="OptionalType" />
+  </SET-FCP_ENT>
+  <SET-FCP_BASILISK Rarity="12">
+    <DescriptionInfo Name="Dark Cave" Description="A place where Basilisk creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Ruins1" />
+    <EventsCollection Value="EVENTC-FCP_BASILISK" />
+    <SpawnGroup Group="GROUP-FCP_BASILISK_L6" />
+    <DefaultDefender Group="GROUP-FCP_BASILISK_L6" />
+    <SpawnGroup Group="GROUP-FCP_BASILISK_L7" />
+    <DefaultDefender Group="GROUP-FCP_BASILISK_L7" />
+    <SpawnGroup Group="GROUP-FCP_BASILISK_L8" />
+    <DefaultDefender Group="GROUP-FCP_BASILISK_L8" />
+    <SpawnGroup Group="GROUP-FCP_BASILISK_L9" />
+    <DefaultDefender Group="GROUP-FCP_BASILISK_L9" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_DIRT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_DIRT2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_DIRT3" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_DIRT4" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-SWAMP1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-SWAMP2" Requirement="OptionalType" />
+  </SET-FCP_BASILISK>
+  <SET-FCP_WOLF Rarity="12">
+    <DescriptionInfo Name="Moon Pack" Description="A place where Lunar Wolf creatures may be found." IconName="IconPlaceholder" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_WOLF" />
+    <SpawnGroup Group="GROUP-FCP_WOLF_L4" />
+    <DefaultDefender Group="GROUP-FCP_WOLF_L4" />
+    <SpawnGroup Group="GROUP-FCP_WOLF_L5" />
+    <DefaultDefender Group="GROUP-FCP_WOLF_L5" />
+    <SpawnGroup Group="GROUP-FCP_WOLF_L6" />
+    <DefaultDefender Group="GROUP-FCP_WOLF_L6" />
+    <SpawnGroup Group="GROUP-FCP_WOLF_L7" />
+    <DefaultDefender Group="GROUP-FCP_WOLF_L7" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS3" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS4" Requirement="OptionalType" />
+  </SET-FCP_WOLF>
+</SETTLEMENT>

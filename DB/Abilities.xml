@@ -1,0 +1,62 @@
+<SKILLS_1_NATURAL>
+  <SKILL-FCP_CELESTIAL_DIVE Rarity="0">
+    <DescriptionInfo Name="Celestial Dive" Description="A swift diving strike that claws at a foe." IconName="SkillClawHit" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_CELESTIAL_DIVE>
+  <SKILL-FCP_ANCESTRAL_BLESSING Rarity="0">
+    <DescriptionInfo Name="Ancestral Blessing" Description="Restores physical health to allied creatures." IconName="SkillHealWounds" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_ANCESTRAL_BLESSING>
+  <SKILL-FCP_ABYSSAL_SONG Rarity="0">
+    <DescriptionInfo Name="Abyssal Song" Description="A haunting song delays the actions of enemies." IconName="SkillBite" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_ABYSSAL_SONG>
+  <SKILL-FCP_REBIRTH_IN_FLAMES Rarity="0">
+    <DescriptionInfo Name="Rebirth in Flames" Description="The phoenix recovers health as it strikes its foes." IconName="SkillFireball" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-HEAL_ON_DMG" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_REBIRTH_IN_FLAMES>
+  <SKILL-FCP_LUNAR_HEALING Rarity="0">
+    <DescriptionInfo Name="Lunar Healing" Description="Restores physical health to allied creatures." IconName="SkillHealWounds" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_LUNAR_HEALING>
+  <SKILL-FCP_ROOT_GRASP Rarity="0">
+    <DescriptionInfo Name="Root Grasp" Description="Grasping roots delay the actions of enemies." IconName="SkillBite" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_ROOT_GRASP>
+  <SKILL-FCP_PETRIFYING_GAZE Rarity="0">
+    <DescriptionInfo Name="Petrifying Gaze" Description="A chilling gaze slows enemies and delays their actions." IconName="SkillBite" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_PETRIFYING_GAZE>
+  <SKILL-FCP_MOON_HOWL Rarity="0">
+    <DescriptionInfo Name="Moon Howl" Description="A rallying howl bolsters the wolf pack." IconName="SkillBite" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-WAR_SHOUT" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_MOON_HOWL>
+  <SKILL-FCP_STORM_TALONS Rarity="0">
+    <DescriptionInfo Name="Storm Talons" Description="Sharp talons strike a foe with a flurry of claws." IconName="SkillClawHit" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_STORM_TALONS>
+  <SKILL-FCP_EMBER_BURST Rarity="0">
+    <DescriptionInfo Name="Ember Burst" Description="A burst of flame scorches the enemy." IconName="SkillFireball" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FIREBALL" />
+    <SkillGroupFilter Value="Fallback" />
+  </SKILL-FCP_EMBER_BURST>
+</SKILLS_1_NATURAL>

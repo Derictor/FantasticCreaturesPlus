@@ -1,0 +1,50 @@
+<CHARACTER_NAMES>
+  <NAME_COLLECTION-FCPGRIFFIN>
+    <Race Value="RACE-FCPGRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_GRIFFIN" />
+    <CharacterMale Value="Griffin Celestial" />
+    <CharacterFemale Value="Griffin Celestial" />
+  </NAME_COLLECTION-FCPGRIFFIN>
+  <NAME_COLLECTION-FCPKIRIN>
+    <Race Value="RACE-FCPKIRIN" />
+    <Subrace Value="SUBRACE-FCP_KIRIN" />
+    <CharacterMale Value="Kirin Ancient" />
+    <CharacterFemale Value="Kirin Ancient" />
+  </NAME_COLLECTION-FCPKIRIN>
+  <NAME_COLLECTION-FCPMERMAID>
+    <Race Value="RACE-FCPMERMAID" />
+    <Subrace Value="SUBRACE-FCP_MERMAID" />
+    <CharacterMale Value="Abyssal Mermaid" />
+    <CharacterFemale Value="Abyssal Mermaid" />
+  </NAME_COLLECTION-FCPMERMAID>
+  <NAME_COLLECTION-FCPPHOENIX>
+    <Race Value="RACE-FCPPHOENIX" />
+    <Subrace Value="SUBRACE-FCP_PHOENIX" />
+    <CharacterMale Value="Ember Phoenix" />
+    <CharacterFemale Value="Ember Phoenix" />
+  </NAME_COLLECTION-FCPPHOENIX>
+  <NAME_COLLECTION-FCPUNICORN>
+    <Race Value="RACE-FCPUNICORN" />
+    <Subrace Value="SUBRACE-FCP_UNICORN" />
+    <CharacterMale Value="Lunar Unicorn" />
+    <CharacterFemale Value="Lunar Unicorn" />
+  </NAME_COLLECTION-FCPUNICORN>
+  <NAME_COLLECTION-FCPENT>
+    <Race Value="RACE-FCPENT" />
+    <Subrace Value="SUBRACE-FCP_ENT" />
+    <CharacterMale Value="Ancient Ent" />
+    <CharacterFemale Value="Ancient Ent" />
+  </NAME_COLLECTION-FCPENT>
+  <NAME_COLLECTION-FCPBASILISK>
+    <Race Value="RACE-FCPBASILISK" />
+    <Subrace Value="SUBRACE-FCP_BASILISK" />
+    <CharacterMale Value="Basilisk" />
+    <CharacterFemale Value="Basilisk" />
+  </NAME_COLLECTION-FCPBASILISK>
+  <NAME_COLLECTION-FCPWOLF>
+    <Race Value="RACE-FCPWOLF" />
+    <Subrace Value="SUBRACE-FCP_WOLF" />
+    <CharacterMale Value="Lunar Wolf" />
+    <CharacterFemale Value="Lunar Wolf" />
+  </NAME_COLLECTION-FCPWOLF>
+</CHARACTER_NAMES>

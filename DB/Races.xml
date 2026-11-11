@@ -1,0 +1,26 @@
+<RACES>
+  <RACE-FCPGRIFFIN>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPGRIFFIN>
+  <RACE-FCPKIRIN>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPKIRIN>
+  <RACE-FCPMERMAID>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPMERMAID>
+  <RACE-FCPPHOENIX>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPPHOENIX>
+  <RACE-FCPUNICORN>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPUNICORN>
+  <RACE-FCPENT>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPENT>
+  <RACE-FCPBASILISK>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPBASILISK>
+  <RACE-FCPWOLF>
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+  </RACE-FCPWOLF>
+</RACES>

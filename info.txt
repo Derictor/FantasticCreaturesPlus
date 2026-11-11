@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Fantastic Creatures Plus" Graphic="preview.jpg" Visibility="2">
+  <STORY_MODULE>Events.xml</STORY_MODULE>
+  <DB>DB/DATABASE_DES_NAMES_FCP.xml</DB>
+  <DB>DB/DATABASE_EVENT_COLLECTIONS_FCP.xml</DB>
+  <DB>DB/Groups.xml</DB>
+  <DB>DB/Weapons.xml</DB>
+  <DB>DB/Races.xml</DB>
+  <DB>DB/Settlements.xml</DB>
+  <DB>DB/Abilities.xml</DB>
+  <DB>DB/SkillPacks.xml</DB>
+  <DB>DB/Creatures.xml</DB>
+  <DB>DB/Traits.xml</DB>
+  <IMAGE Name="FCPGriffin" Model="CrowRoyal" Path="Images/Portraits/griffin_celestial.png" Path2="Images/Portraits/griffin_celestial.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPKirin" Model="Wolf1" Path="Images/Portraits/kirin_ancient.png" Path2="Images/Portraits/kirin_ancient.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPMermaid" Model="HumanWitchF1" Path="Images/Portraits/abyssal_mermaid.png" Path2="Images/Portraits/abyssal_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPPhoenix" Model="BeeDragon" Path="Images/Portraits/ember_phoenix.png" Path2="Images/Portraits/ember_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPUnicorn" Model="Wolf1" Path="Images/Portraits/lunar_unicorn.png" Path2="Images/Portraits/lunar_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPEnt" Model="Pineconette" Path="Images/Portraits/ancient_ent.png" Path2="Images/Portraits/ancient_ent.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPBasilisk" Model="Snake" Path="Images/Portraits/basilisk.png" Path2="Images/Portraits/basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPWolf" Model="Wolf1" Path="Images/Portraits/lunar_wolf.png" Path2="Images/Portraits/lunar_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  Adds 8 creature races, 8 portraits, 8 weapon profiles, 10 abilities, 12 traits, biome encounters and events to Thea 2.
+</ModInfo>

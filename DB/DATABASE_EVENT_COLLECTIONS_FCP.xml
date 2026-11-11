@@ -1,0 +1,26 @@
+<EVENT_COLLECTIONS>
+  <EVENTC-FCP_GRIFFIN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="1" />
+  </EVENTC-FCP_GRIFFIN>
+  <EVENTC-FCP_KIRIN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="2" />
+  </EVENTC-FCP_KIRIN>
+  <EVENTC-FCP_MERMAID>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="3" />
+  </EVENTC-FCP_MERMAID>
+  <EVENTC-FCP_PHOENIX>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="4" />
+  </EVENTC-FCP_PHOENIX>
+  <EVENTC-FCP_UNICORN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="5" />
+  </EVENTC-FCP_UNICORN>
+  <EVENTC-FCP_ENT>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="6" />
+  </EVENTC-FCP_ENT>
+  <EVENTC-FCP_BASILISK>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="7" />
+  </EVENTC-FCP_BASILISK>
+  <EVENTC-FCP_WOLF>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="8" />
+  </EVENTC-FCP_WOLF>
+</EVENT_COLLECTIONS>

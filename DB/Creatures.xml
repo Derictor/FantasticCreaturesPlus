@@ -1,0 +1,186 @@
+<SUBRACES>
+  <SUBRACE-FCP_GRIFFIN>
+    <DescriptionInfo Name="Griffin Celestial" Description="Born in Mountain Peaks. A celestial griffin of the high mountain peaks." IconName="ClassMythical" />
+    <Race Value="RACE-FCPGRIFFIN" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="14" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="14" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="11" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="65" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="6" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_GRIFFIN" />
+    <GraphicMale Value="FCPGriffin" />
+    <GraphicFemale Value="FCPGriffin" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_GRIFFIN_TALON_BLADE" />
+  </SUBRACE-FCP_GRIFFIN>
+  <SUBRACE-FCP_KIRIN>
+    <DescriptionInfo Name="Kirin Ancient" Description="Born in Ancient Forest. An ancient and wise kirin of the old forest." IconName="ClassMythical" />
+    <Race Value="RACE-FCPKIRIN" />
+    <MainSubraceAttributes Amount="10" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="55" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="35" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_KIRIN" />
+    <GraphicMale Value="FCPKirin" />
+    <GraphicFemale Value="FCPKirin" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_KIRIN_HORN_STAFF" />
+  </SUBRACE-FCP_KIRIN>
+  <SUBRACE-FCP_MERMAID>
+    <DescriptionInfo Name="Abyssal Mermaid" Description="Born in Deep Lake. A mermaid from the deep waters of a hidden lake." IconName="ClassMythical" />
+    <Race Value="RACE-FCPMERMAID" />
+    <MainSubraceAttributes Amount="9" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="11" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="10" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="50" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="35" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="40" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_MERMAID" />
+    <GraphicMale Value="FCPMermaid" />
+    <GraphicFemale Value="FCPMermaid" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_ABYSSAL_TRIDENT" />
+  </SUBRACE-FCP_MERMAID>
+  <SUBRACE-FCP_PHOENIX>
+    <DescriptionInfo Name="Ember Phoenix" Description="Born in Volcanic Ash. An ember phoenix reborn among volcanic ashes." IconName="ClassMythical" />
+    <Race Value="RACE-FCPPHOENIX" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="15" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="9" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="10" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="14" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="55" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="25" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="6" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_PHOENIX" />
+    <GraphicMale Value="FCPPhoenix" />
+    <GraphicFemale Value="FCPPhoenix" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_PHOENIX_FEATHER_BOW" />
+  </SUBRACE-FCP_PHOENIX>
+  <SUBRACE-FCP_UNICORN>
+    <DescriptionInfo Name="Lunar Unicorn" Description="Born in Moonlit Forest. A lunar unicorn born beneath the moonlit forest canopy." IconName="ClassMythical" />
+    <Race Value="RACE-FCPUNICORN" />
+    <MainSubraceAttributes Amount="10" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="14" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="60" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="35" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="6" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_UNICORN" />
+    <GraphicMale Value="FCPUnicorn" />
+    <GraphicFemale Value="FCPUnicorn" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_LUNAR_HORN_LANCE" />
+  </SUBRACE-FCP_UNICORN>
+  <SUBRACE-FCP_ENT>
+    <DescriptionInfo Name="Ancient Ent" Description="Born in Oldest Tree. An ancient ent born from the oldest tree in the forest." IconName="ClassMythical" />
+    <Race Value="RACE-FCPENT" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="15" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="6" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="10" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="9" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="75" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="25" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="300" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_ENT" />
+    <GraphicMale Value="FCPEnt" />
+    <GraphicFemale Value="FCPEnt" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_BRANCH_MACE" />
+  </SUBRACE-FCP_ENT>
+  <SUBRACE-FCP_BASILISK>
+    <DescriptionInfo Name="Basilisk" Description="Born in Dark Cave. A basilisk born in a dark cave beneath the old hills." IconName="ClassMythical" />
+    <Race Value="RACE-FCPBASILISK" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="14" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="6" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="8" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="9" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="60" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_BASILISK" />
+    <GraphicMale Value="FCPBasilisk" />
+    <GraphicFemale Value="FCPBasilisk" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_BASILISK_FANG_DAGGER" />
+  </SUBRACE-FCP_BASILISK>
+  <SUBRACE-FCP_WOLF>
+    <DescriptionInfo Name="Lunar Wolf" Description="Born in Moon Pack. A lunar wolf born to run with the moon pack." IconName="ClassMythical" />
+    <Race Value="RACE-FCPWOLF" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="15" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="7" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="12" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="55" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="7" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <NaturalSkills Value="SKILL_PACK-FCP_WOLF" />
+    <GraphicMale Value="FCPWolf" />
+    <GraphicFemale Value="FCPWolf" />
+    <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_LUNAR_FANG_SWORD" />
+  </SUBRACE-FCP_WOLF>
+</SUBRACES>
