@@ -1,0 +1,15 @@
+FANTASTIC CREATURES PLUS - ENCOUNTER IMAGES
+===========================================
+The eight PNG files in Images/Events are the dedicated encounter backgrounds.
+
+Image-to-event mapping:
+- encounter_griffin.png -> Event_Encounter_Griffin
+- encounter_kirin.png -> Event_Encounter_Kirin
+- encounter_mermaid.png -> Event_Encounter_Mermaid
+- encounter_phoenix.png -> Event_Encounter_Phoenix
+- encounter_unicorn.png -> Event_Encounter_Unicorn
+- encounter_ent.png -> Event_Encounter_Ent
+- encounter_basilisk.png -> Event_Encounter_Basilisk
+- encounter_wolf.png -> Event_Encounter_Wolf
+
+Do not use the game's Event014 image or reuse creature portraits as backgrounds.

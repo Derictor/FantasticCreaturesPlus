@@ -1,39 +1,39 @@
-<CHARACTER_NAMES>
+﻿<CHARACTER_NAMES>
   <NAME_COLLECTION-FCPGRIFFIN>
     <Race Value="RACE-FCPGRIFFIN" />
     <Subrace Value="SUBRACE-FCP_GRIFFIN" />
-    <CharacterMale Value="Griffin Celestial" />
-    <CharacterFemale Value="Griffin Celestial" />
+    <CharacterMale Value="Griffin" />
+    <CharacterFemale Value="Griffin" />
   </NAME_COLLECTION-FCPGRIFFIN>
   <NAME_COLLECTION-FCPKIRIN>
     <Race Value="RACE-FCPKIRIN" />
     <Subrace Value="SUBRACE-FCP_KIRIN" />
-    <CharacterMale Value="Kirin Ancient" />
-    <CharacterFemale Value="Kirin Ancient" />
+    <CharacterMale Value="Kirin" />
+    <CharacterFemale Value="Kirin" />
   </NAME_COLLECTION-FCPKIRIN>
   <NAME_COLLECTION-FCPMERMAID>
     <Race Value="RACE-FCPMERMAID" />
     <Subrace Value="SUBRACE-FCP_MERMAID" />
-    <CharacterMale Value="Abyssal Mermaid" />
-    <CharacterFemale Value="Abyssal Mermaid" />
+    <CharacterMale Value="Mermaid" />
+    <CharacterFemale Value="Mermaid" />
   </NAME_COLLECTION-FCPMERMAID>
   <NAME_COLLECTION-FCPPHOENIX>
     <Race Value="RACE-FCPPHOENIX" />
     <Subrace Value="SUBRACE-FCP_PHOENIX" />
-    <CharacterMale Value="Ember Phoenix" />
-    <CharacterFemale Value="Ember Phoenix" />
+    <CharacterMale Value="Phoenix" />
+    <CharacterFemale Value="Phoenix" />
   </NAME_COLLECTION-FCPPHOENIX>
   <NAME_COLLECTION-FCPUNICORN>
     <Race Value="RACE-FCPUNICORN" />
     <Subrace Value="SUBRACE-FCP_UNICORN" />
-    <CharacterMale Value="Lunar Unicorn" />
-    <CharacterFemale Value="Lunar Unicorn" />
+    <CharacterMale Value="Unicorn" />
+    <CharacterFemale Value="Unicorn" />
   </NAME_COLLECTION-FCPUNICORN>
   <NAME_COLLECTION-FCPENT>
     <Race Value="RACE-FCPENT" />
     <Subrace Value="SUBRACE-FCP_ENT" />
-    <CharacterMale Value="Ancient Ent" />
-    <CharacterFemale Value="Ancient Ent" />
+    <CharacterMale Value="Ent" />
+    <CharacterFemale Value="Ent" />
   </NAME_COLLECTION-FCPENT>
   <NAME_COLLECTION-FCPBASILISK>
     <Race Value="RACE-FCPBASILISK" />
@@ -44,7 +44,104 @@
   <NAME_COLLECTION-FCPWOLF>
     <Race Value="RACE-FCPWOLF" />
     <Subrace Value="SUBRACE-FCP_WOLF" />
-    <CharacterMale Value="Lunar Wolf" />
-    <CharacterFemale Value="Lunar Wolf" />
+    <CharacterMale Value="Wolf" />
+    <CharacterFemale Value="Wolf" />
   </NAME_COLLECTION-FCPWOLF>
+  <NAME_COLLECTION-FCPCHILDGRIFFIN>
+    <Race Value="RACE-FCPCHILDGRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_CHILD_GRIFFIN" />
+    <CharacterMale Value="Griffin Chick" />
+    <CharacterFemale Value="Griffin Chick" />
+  </NAME_COLLECTION-FCPCHILDGRIFFIN>
+  <NAME_COLLECTION-FCPCHILDKIRIN>
+    <Race Value="RACE-FCPCHILDKIRIN" />
+    <Subrace Value="SUBRACE-FCP_CHILD_KIRIN" />
+    <CharacterMale Value="Kirin Foal" />
+    <CharacterFemale Value="Kirin Foal" />
+  </NAME_COLLECTION-FCPCHILDKIRIN>
+  <NAME_COLLECTION-FCPCHILDMERMAID>
+    <Race Value="RACE-FCPCHILDMERMAID" />
+    <Subrace Value="SUBRACE-FCP_CHILD_MERMAID" />
+    <CharacterMale Value="Mermaid Spawn" />
+    <CharacterFemale Value="Mermaid Spawn" />
+  </NAME_COLLECTION-FCPCHILDMERMAID>
+  <NAME_COLLECTION-FCPCHILDPHOENIX>
+    <Race Value="RACE-FCPCHILDPHOENIX" />
+    <Subrace Value="SUBRACE-FCP_CHILD_PHOENIX" />
+    <CharacterMale Value="Phoenix Hatchling" />
+    <CharacterFemale Value="Phoenix Hatchling" />
+  </NAME_COLLECTION-FCPCHILDPHOENIX>
+  <NAME_COLLECTION-FCPCHILDUNICORN>
+    <Race Value="RACE-FCPCHILDUNICORN" />
+    <Subrace Value="SUBRACE-FCP_CHILD_UNICORN" />
+    <CharacterMale Value="Unicorn Foal" />
+    <CharacterFemale Value="Unicorn Foal" />
+  </NAME_COLLECTION-FCPCHILDUNICORN>
+  <NAME_COLLECTION-FCPCHILDENT>
+    <Race Value="RACE-FCPCHILDENT" />
+    <Subrace Value="SUBRACE-FCP_CHILD_ENT" />
+    <CharacterMale Value="Ent Sapling" />
+    <CharacterFemale Value="Ent Sapling" />
+  </NAME_COLLECTION-FCPCHILDENT>
+  <NAME_COLLECTION-FCPCHILDBASILISK>
+    <Race Value="RACE-FCPCHILDBASILISK" />
+    <Subrace Value="SUBRACE-FCP_CHILD_BASILISK" />
+    <CharacterMale Value="Basilisk Hatchling" />
+    <CharacterFemale Value="Basilisk Hatchling" />
+  </NAME_COLLECTION-FCPCHILDBASILISK>
+  <NAME_COLLECTION-FCPCHILDWOLF>
+    <Race Value="RACE-FCPCHILDWOLF" />
+    <Subrace Value="SUBRACE-FCP_CHILD_WOLF" />
+    <CharacterMale Value="Wolf Pup" />
+    <CharacterFemale Value="Wolf Pup" />
+  </NAME_COLLECTION-FCPCHILDWOLF>
+  <NAME_COLLECTION-FCPYOUNGGRIFFIN>
+    <Race Value="RACE-FCPYOUNGGRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_GRIFFIN" />
+    <CharacterMale Value="Young Griffin" />
+    <CharacterFemale Value="Young Griffin" />
+  </NAME_COLLECTION-FCPYOUNGGRIFFIN>
+  <NAME_COLLECTION-FCPYOUNGKIRIN>
+    <Race Value="RACE-FCPYOUNGKIRIN" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_KIRIN" />
+    <CharacterMale Value="Young Kirin" />
+    <CharacterFemale Value="Young Kirin" />
+  </NAME_COLLECTION-FCPYOUNGKIRIN>
+  <NAME_COLLECTION-FCPYOUNGMERMAID>
+    <Race Value="RACE-FCPYOUNGMERMAID" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_MERMAID" />
+    <CharacterMale Value="Young Mermaid" />
+    <CharacterFemale Value="Young Mermaid" />
+  </NAME_COLLECTION-FCPYOUNGMERMAID>
+  <NAME_COLLECTION-FCPYOUNGPHOENIX>
+    <Race Value="RACE-FCPYOUNGPHOENIX" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_PHOENIX" />
+    <CharacterMale Value="Young Phoenix" />
+    <CharacterFemale Value="Young Phoenix" />
+  </NAME_COLLECTION-FCPYOUNGPHOENIX>
+  <NAME_COLLECTION-FCPYOUNGUNICORN>
+    <Race Value="RACE-FCPYOUNGUNICORN" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_UNICORN" />
+    <CharacterMale Value="Young Unicorn" />
+    <CharacterFemale Value="Young Unicorn" />
+  </NAME_COLLECTION-FCPYOUNGUNICORN>
+  <NAME_COLLECTION-FCPYOUNGENT>
+    <Race Value="RACE-FCPYOUNGENT" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_ENT" />
+    <CharacterMale Value="Young Ent" />
+    <CharacterFemale Value="Young Ent" />
+  </NAME_COLLECTION-FCPYOUNGENT>
+  <NAME_COLLECTION-FCPYOUNGBASILISK>
+    <Race Value="RACE-FCPYOUNGBASILISK" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_BASILISK" />
+    <CharacterMale Value="Young Basilisk" />
+    <CharacterFemale Value="Young Basilisk" />
+  </NAME_COLLECTION-FCPYOUNGBASILISK>
+  <NAME_COLLECTION-FCPYOUNGWOLF>
+    <Race Value="RACE-FCPYOUNGWOLF" />
+    <Subrace Value="SUBRACE-FCP_YOUNG_WOLF" />
+    <CharacterMale Value="Young Wolf" />
+    <CharacterFemale Value="Young Wolf" />
+  </NAME_COLLECTION-FCPYOUNGWOLF>
 </CHARACTER_NAMES>
+

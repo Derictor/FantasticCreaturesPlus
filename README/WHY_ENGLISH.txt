@@ -7,12 +7,13 @@ game data. Creature origins are included in each creature description.
 The mod includes:
 - Eight custom creature races and portraits
 - Ten abilities and twelve traits
-- Eight weapon cargo profiles
+- Eight named, themed weapons with fixed item skills
 - Eight encounter sets with biome-specific terrain
-- Eight story events with Fight, Tame, Recruit, and Flee choices
+- Sixteen story events with Fight, Tame, Recruit, and Flee choices
 
-Weapon profiles select the matching weapon category from the game's item
-generator. The game generates the final item name and bonuses.
+Weapons use hidden item recipes, custom item tags, guaranteed skill packs, and
+one-item cargo profiles. Adult creatures recruited through encounters receive
+their default cargo, including their named weapon.
 
 Traits are implemented as innate skills using supported game effects. The base
 database has no direct fire immunity or underwater breathing effect, so those
@@ -23,5 +24,5 @@ The active mod files are listed in info.txt. Database files are in DB/, and
 creature portraits are in Images/Portraits/. No extra text file is placed in
 the mod root.
 
-For a clean rescan, close the game and Steam before restarting the game. Keep
-any settings backup unless you are certain it is safe to remove.
+Close Thea 2 before testing updated files; Steam can remain open. The XML and
+reference checks do not replace an in-game load test.

@@ -1,0 +1,50 @@
+<TAGS>
+  <TAG-FCP_WEAPON_GRIFFIN_SUN_BLADE Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_GRIFFIN_SUN_BLADE>
+  <TAG-FCP_WEAPON_KIRIN_MOON_STAFF Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_KIRIN_MOON_STAFF>
+  <TAG-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
+  <TAG-FCP_WEAPON_PHOENIX_ASHES_BOW Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_PHOENIX_ASHES_BOW>
+  <TAG-FCP_WEAPON_UNICORN_STARLIGHT_LANCE Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
+  <TAG-FCP_WEAPON_ENT_ROOT_MACE Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_ENT_ROOT_MACE>
+  <TAG-FCP_WEAPON_BASILISK_PETRIFY_DAGGER Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
+  <TAG-FCP_WEAPON_WOLF_MOON_FANG_SWORD Visible="FALSE">
+    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <TagType Value="ItemType" />
+    <Parent Value="TAG-ITEM" />
+    <Parent Value="TAG-EQUIPMENT" />
+  </TAG-FCP_WEAPON_WOLF_MOON_FANG_SWORD>
+</TAGS>

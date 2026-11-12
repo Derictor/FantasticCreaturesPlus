@@ -1,0 +1,174 @@
+﻿<DATABASE_DES_LOCALIZATION-NO_HSH>
+  <LOC_LIBRARY-EN_FCP Language="English">
+    <Entry Key="DES_FCP_CREATURE_GRIFFIN" Val="Nascido nos Picos da Montanha. Um grifo celestial das altas montanhas." />
+    <Entry Key="DES_FCP_CREATURE_KIRIN" Val="Nascido na Floresta Antiga. Um kirin ancestral e sábio que habita a mata antiga." />
+    <Entry Key="DES_FCP_CREATURE_MERMAID" Val="Nascida no Lago Profundo. Uma sereia das águas profundas de um lago escondido." />
+    <Entry Key="DES_FCP_CREATURE_PHOENIX" Val="Nascida nas Cinzas Vulcânicas. Uma fênix renascida entre as cinzas vulcânicas." />
+    <Entry Key="DES_FCP_CREATURE_UNICORN" Val="Nascido na Floresta ao Luar. Um unicórnio lunar sob a copa iluminada pela lua." />
+    <Entry Key="DES_FCP_CREATURE_ENT" Val="Nascido na Árvore Mais Antiga. Um ent ancestral que surgiu da árvore mais antiga da floresta." />
+    <Entry Key="DES_FCP_CREATURE_BASILISK" Val="Nascido na Caverna Escura. Um basilisco que habita uma caverna nas colinas antigas." />
+    <Entry Key="DES_FCP_CREATURE_WOLF" Val="Nascido na Matilha Lunar. Um lobo lunar criado para correr com sua matilha." />
+    <Entry Key="DES_FCP_RACE_GRIFFIN" Val="Criatura alada que habita os picos das montanhas." />
+    <Entry Key="DES_FCP_RACE_KIRIN" Val="Criatura ancestral associada às florestas antigas." />
+    <Entry Key="DES_FCP_RACE_MERMAID" Val="Criatura aquática que habita lagos profundos." />
+    <Entry Key="DES_FCP_RACE_PHOENIX" Val="Ave lendária que renasce das cinzas." />
+    <Entry Key="DES_FCP_RACE_UNICORN" Val="Criatura mística ligada às florestas iluminadas pela lua." />
+    <Entry Key="DES_FCP_RACE_ENT" Val="Guardião arbóreo das florestas antigas." />
+    <Entry Key="DES_FCP_RACE_BASILISK" Val="Réptil lendário que habita cavernas escuras." />
+    <Entry Key="DES_FCP_RACE_WOLF" Val="Predador que percorre a floresta em matilha." />
+    <Entry Key="DES_FCP_ABILITY_CELESTIAL_DIVE" Val="Um mergulho veloz que atinge o inimigo com as garras." />
+    <Entry Key="DES_FCP_ABILITY_ANCESTRAL_BLESSING" Val="Restaura a saúde física das criaturas aliadas." />
+    <Entry Key="DES_FCP_ABILITY_ABYSSAL_SONG" Val="Uma canção inquietante atrasa as ações dos inimigos." />
+    <Entry Key="DES_FCP_ABILITY_REBIRTH_IN_FLAMES" Val="A fênix recupera saúde ao atacar os inimigos." />
+    <Entry Key="DES_FCP_ABILITY_LUNAR_HEALING" Val="Restaura a saúde física das criaturas aliadas." />
+    <Entry Key="DES_FCP_ABILITY_ROOT_GRASP" Val="Raízes que agarram atrasam as ações dos inimigos." />
+    <Entry Key="DES_FCP_ABILITY_PETRIFYING_GAZE" Val="Um olhar gélido desacelera os inimigos e atrasa suas ações." />
+    <Entry Key="DES_FCP_ABILITY_MOON_HOWL" Val="Um uivo de incentivo fortalece a matilha." />
+    <Entry Key="DES_FCP_ABILITY_STORM_TALONS" Val="Garras afiadas atingem o inimigo em uma sequência de golpes." />
+    <Entry Key="DES_FCP_ABILITY_EMBER_BURST" Val="Uma explosão de chamas queima o inimigo." />
+    <Entry Key="DES_FCP_TRAIT_KEEN_EYES" Val="Aumenta a Percepção." />
+    <Entry Key="DES_FCP_TRAIT_ANCIENT_WISDOM" Val="Aumenta a Sabedoria." />
+    <Entry Key="DES_FCP_TRAIT_WATER_BREATHING" Val="Concede um pequeno bônus à Proteção Espiritual." />
+    <Entry Key="DES_FCP_TRAIT_FIRE_IMMUNE" Val="Concede um pequeno bônus à Proteção Física." />
+    <Entry Key="DES_FCP_TRAIT_MOON_BLESSED" Val="Aumenta o Destino." />
+    <Entry Key="DES_FCP_TRAIT_STONE_BARK" Val="Concede um pequeno bônus à Proteção Física." />
+    <Entry Key="DES_FCP_TRAIT_POISON_SKIN" Val="Adiciona uma mordida venenosa." />
+    <Entry Key="DES_FCP_TRAIT_NIGHT_HUNTER" Val="Aumenta ligeiramente a Percepção." />
+    <Entry Key="DES_FCP_TRAIT_SWIFT_WINGS" Val="Aumenta o alcance de movimento." />
+    <Entry Key="DES_FCP_TRAIT_DEEP_SIGHT" Val="Aumenta a Percepção." />
+    <Entry Key="DES_FCP_TRAIT_EMBER_HEART" Val="Uma explosão de chamas queima o inimigo." />
+    <Entry Key="DES_FCP_TRAIT_FOREST_GUARDIAN" Val="Aumenta a coleta de recursos." />
+    <Entry Key="DES_FCP_GROUP_GRIFFIN" Val="Um grupo de criaturas Griffin Celestial." />
+    <Entry Key="DES_FCP_GROUP_KIRIN" Val="Um grupo de criaturas Kirin Ancient." />
+    <Entry Key="DES_FCP_GROUP_MERMAID" Val="Um grupo de criaturas Abyssal Mermaid." />
+    <Entry Key="DES_FCP_GROUP_PHOENIX" Val="Um grupo de criaturas Ember Phoenix." />
+    <Entry Key="DES_FCP_GROUP_UNICORN" Val="Um grupo de criaturas Lunar Unicorn." />
+    <Entry Key="DES_FCP_GROUP_ENT" Val="Um grupo de criaturas Ancient Ent." />
+    <Entry Key="DES_FCP_GROUP_BASILISK" Val="Um grupo de criaturas Basilisk." />
+    <Entry Key="DES_FCP_GROUP_WOLF" Val="Um grupo de criaturas Lunar Wolf." />
+    <Entry Key="DES_FCP_SETTLEMENT_GRIFFIN" Val="Um local onde criaturas Griffin Celestial podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_KIRIN" Val="Um local onde criaturas Kirin Ancient podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_MERMAID" Val="Um local onde criaturas Abyssal Mermaid podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_PHOENIX" Val="Um local onde criaturas Ember Phoenix podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_UNICORN" Val="Um local onde criaturas Lunar Unicorn podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_ENT" Val="Um local onde criaturas Ancient Ent podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_BASILISK" Val="Um local onde criaturas Basilisk podem ser encontradas." />
+    <Entry Key="DES_FCP_SETTLEMENT_WOLF" Val="Um local onde criaturas Lunar Wolf podem ser encontradas." />
+    <Entry Key="DES_FCP_CARD_ADD_WOLF" Val="Comece com um personagem adicional: Lunar Wolf." />
+    <Entry Key="DES_FCP_CARD_ADD_GRIFFIN" Val="Comece com um personagem adicional: Griffin Celestial." />
+    <Entry Key="DES_FCP_CARD_ADD_KIRIN" Val="Comece com um personagem adicional: Kirin Ancient." />
+    <Entry Key="DES_FCP_CARD_ADD_MERMAID" Val="Comece com um personagem adicional: Abyssal Mermaid." />
+    <Entry Key="DES_FCP_CARD_ADD_PHOENIX" Val="Comece com um personagem adicional: Ember Phoenix." />
+    <Entry Key="DES_FCP_CARD_ADD_UNICORN" Val="Comece com um personagem adicional: Lunar Unicorn." />
+    <Entry Key="DES_FCP_CARD_ADD_ENT" Val="Comece com um personagem adicional: Ancient Ent." />
+    <Entry Key="DES_FCP_CARD_ADD_BASILISK" Val="Comece com um personagem adicional: Basilisk." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_GRIFFIN" Val="Um filhote de grifo celestial, pequeno mas feroz." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_KIRIN" Val="Um potro de kirin ancestral, sábio além de sua idade." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_MERMAID" Val="Um rebento de sereia abissal, nascido nas profundezas." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_PHOENIX" Val="Uma cria de fênix, renascida das cinzas com fogo nos olhos." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_UNICORN" Val="Um potro de unicórnio lunar, brilhando sob a luz da lua." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_ENT" Val="Um rebento de ent ancestral, crescendo da terra mais antiga." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_BASILISK" Val="Uma cria de basilisco, com olhar já petrificante." />
+    <Entry Key="DES_FCP_CREATURE_CHILD_WOLF" Val="Um filhote de lobo lunar, uivando para a lua nascente." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW" Val="O filhote cresce forte, ganhando força e percepção." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_KIRIN_GROW" Val="O potro amadurece, ganhando sabedoria e misticismo." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_MERMAID_GROW" Val="O rebento se desenvolve, ganhando inteligência e misticismo." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_PHOENIX_GROW" Val="A cria se fortalece, seu destino queima com fogo." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_UNICORN_GROW" Val="O potro cresce, seu destino e sabedoria aumentam." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_ENT_GROW" Val="O rebento cresce forte como carvalho, ganhando força." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_BASILISK_GROW" Val="A cria amadurece, seu olhar se torna petrificante." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_WOLF_GROW" Val="O filhote cresce rápido e forte, ganhando velocidade." />
+    <Entry Key="DES_FCP_ABILITY_PHOENIX_ASHES_T3" Val="As cinzas da fênix queimam os inimigos com fogo puro." />
+    <Entry Key="DES_FCP_ABILITY_KIRIN_BLESSING_T3" Val="A bênção do kirin cura e protege todos os aliados." />
+    <Entry Key="DES_FCP_ABILITY_BASILISK_VENOM_T3" Val="O veneno do basilisco corrói e enfraquece os inimigos." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_GRIFFIN" Val="Comece com um personagem adicional: Griffin Chick." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_KIRIN" Val="Comece com um personagem adicional: Kirin Foal." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_MERMAID" Val="Comece com um personagem adicional: Mermaid Spawn." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_PHOENIX" Val="Comece com um personagem adicional: Phoenix Hatchling." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_UNICORN" Val="Comece com um personagem adicional: Unicorn Foal." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_ENT" Val="Comece com um personagem adicional: Ent Sapling." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_BASILISK" Val="Comece com um personagem adicional: Basilisk Hatchling." />
+    <Entry Key="DES_FCP_CARD_ADD_CHILD_WOLF" Val="Comece com um personagem adicional: Wolf Pup." />
+    <Entry Key="DES_FCP_WEAPON_GRIFFIN_SUN_BLADE_T3" Val="Lâmina forjada com a luz do sol, brilha contra as trevas." />
+    <Entry Key="DES_FCP_WEAPON_KIRIN_MOON_STAFF_T3" Val="Cajado lunar que canaliza a sabedoria ancestral." />
+    <Entry Key="DES_FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT_T3" Val="Tridente das profundezas abissais, carrega o peso do oceano." />
+    <Entry Key="DES_FCP_WEAPON_PHOENIX_ASHES_BOW_T3" Val="Arco de cinzas de fênix, suas flechas queimam com fogo eterno." />
+    <Entry Key="DES_FCP_WEAPON_UNICORN_STARLIGHT_LANCE_T3" Val="Lança de luz estelar, perfura as trevas com luz pura." />
+    <Entry Key="DES_FCP_WEAPON_ENT_ROOT_MACE_T3" Val="Maça de raiz ancestral, esmaga com a força da terra." />
+    <Entry Key="DES_FCP_WEAPON_BASILISK_PETRIFY_DAGGER_T3" Val="Adaga de presa de basilisco, um golpe petrifica." />
+    <Entry Key="DES_FCP_WEAPON_WOLF_MOON_FANG_SWORD_T3" Val="Espada de presa lunar, corta com a ferocidade da matilha." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_GRIFFIN_SUN_BLADE" Val="Ao entrar em combate, desfere um ataque adicional contra um inimigo." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_KIRIN_MOON_STAFF" Val="Aumenta o Misticismo do portador." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_ABYSSAL_DEPTHS_TRIDENT" Val="Atrasa as ações de um inimigo com a força das marés." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_PHOENIX_ASHES_BOW" Val="Dispara uma labareda que causa dano de essência e atinge inimigos próximos." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_UNICORN_STARLIGHT_LANCE" Val="Aumenta as proteções Física e Mental do portador." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_ENT_ROOT_MACE" Val="Aumenta a saúde física máxima do portador." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_BASILISK_PETRIFY_DAGGER" Val="Atrasa as ações de um inimigo." />
+    <Entry Key="DES_FCP_SKILL_WEAPON_WOLF_MOON_FANG_SWORD" Val="Aumenta a Força do portador." />
+    <Entry Key="DES_FCP_RACE_CHILD_GRIFFIN" Val="Filhote de grifo celestial, nativo dos picos das montanhas." />
+    <Entry Key="DES_FCP_RACE_CHILD_KIRIN" Val="Filhote de kirin ancestral, ligado às florestas antigas." />
+    <Entry Key="DES_FCP_RACE_CHILD_MERMAID" Val="Filhote de sereia abissal, nascido nas águas profundas." />
+    <Entry Key="DES_FCP_RACE_CHILD_PHOENIX" Val="Filhote de fênix, renascido entre as cinzas vulcânicas." />
+    <Entry Key="DES_FCP_RACE_CHILD_UNICORN" Val="Filhote de unicórnio lunar, ligado às florestas ao luar." />
+    <Entry Key="DES_FCP_RACE_CHILD_ENT" Val="Broto de ent ancestral, guardião das florestas antigas." />
+    <Entry Key="DES_FCP_RACE_CHILD_BASILISK" Val="Filhote de basilisco, habitante de cavernas escuras." />
+    <Entry Key="DES_FCP_RACE_CHILD_WOLF" Val="Filhote de lobo lunar, criado para correr em matilha." />
+    <Entry Key="DES_FCP_GROUP_CHILD_GRIFFIN" Val="Um grupo de filhotes de Griffin Celestial." />
+    <Entry Key="DES_FCP_GROUP_CHILD_KIRIN" Val="Um grupo de filhotes de Kirin Ancient." />
+    <Entry Key="DES_FCP_GROUP_CHILD_MERMAID" Val="Um grupo de filhotes de Abyssal Mermaid." />
+    <Entry Key="DES_FCP_GROUP_CHILD_PHOENIX" Val="Um grupo de filhotes de Ember Phoenix." />
+    <Entry Key="DES_FCP_GROUP_CHILD_UNICORN" Val="Um grupo de filhotes de Lunar Unicorn." />
+    <Entry Key="DES_FCP_GROUP_CHILD_ENT" Val="Um grupo de brotos de Ancient Ent." />
+    <Entry Key="DES_FCP_GROUP_CHILD_BASILISK" Val="Um grupo de filhotes de Basilisk." />
+    <Entry Key="DES_FCP_GROUP_CHILD_WOLF" Val="Um grupo de filhotes de Lunar Wolf." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_GRIFFIN" Val="Um ninho onde filhotes de Griffin Celestial podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_KIRIN" Val="Uma clareira onde filhotes de Kirin Ancient podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_MERMAID" Val="Uma poça onde filhotes de Abyssal Mermaid podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_PHOENIX" Val="Uma cratera onde filhotes de Ember Phoenix podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_UNICORN" Val="Uma clareira onde filhotes de Lunar Unicorn podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_ENT" Val="Um bosque onde brotos de Ancient Ent podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_BASILISK" Val="Uma fenda onde filhotes de Basilisk podem ser encontrados." />
+    <Entry Key="DES_FCP_SETTLEMENT_CHILD_WOLF" Val="Uma toca onde filhotes de Lunar Wolf podem ser encontrados." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_GRIFFIN" Val="Um grifo jovem, mais forte e ágil, ainda a caminho da maturidade." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_KIRIN" Val="Um kirin jovem, cuja sabedoria ancestral começa a despertar." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_MERMAID" Val="Uma sereia jovem, já adaptada às profundezas e às suas correntes." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_PHOENIX" Val="Uma fênix jovem, cujas chamas crescem a cada renascimento." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_UNICORN" Val="Um unicórnio jovem, guiado pela luz lunar em direção à maturidade." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_ENT" Val="Um ent jovem, com raízes e vitalidade cada vez mais fortes." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_BASILISK" Val="Um basilisco jovem, cujo olhar e veneno estão se desenvolvendo." />
+    <Entry Key="DES_FCP_CREATURE_YOUNG_WOLF" Val="Um lobo jovem, rápido o bastante para acompanhar sua matilha." />
+    <Entry Key="DES_FCP_RACE_YOUNG_GRIFFIN" Val="Grifo em crescimento, habitante dos picos das montanhas." />
+    <Entry Key="DES_FCP_RACE_YOUNG_KIRIN" Val="Kirin em crescimento, ligado às florestas antigas." />
+    <Entry Key="DES_FCP_RACE_YOUNG_MERMAID" Val="Sereia em crescimento, adaptada às águas profundas." />
+    <Entry Key="DES_FCP_RACE_YOUNG_PHOENIX" Val="Fênix em crescimento, cujas chamas ainda estão amadurecendo." />
+    <Entry Key="DES_FCP_RACE_YOUNG_UNICORN" Val="Unicórnio em crescimento, ligado às florestas ao luar." />
+    <Entry Key="DES_FCP_RACE_YOUNG_ENT" Val="Ent em crescimento, guardião das florestas antigas." />
+    <Entry Key="DES_FCP_RACE_YOUNG_BASILISK" Val="Basilisco em crescimento, habitante de cavernas escuras." />
+    <Entry Key="DES_FCP_RACE_YOUNG_WOLF" Val="Lobo em crescimento, criado para correr em matilha." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW_UP" Val="A contagem indica quando o filhote de grifo passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_KIRIN_GROW_UP" Val="A contagem indica quando o filhote de kirin passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_MERMAID_GROW_UP" Val="A contagem indica quando a cria de sereia passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_PHOENIX_GROW_UP" Val="A contagem indica quando a cria de fênix passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_UNICORN_GROW_UP" Val="A contagem indica quando o filhote de unicórnio passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_ENT_GROW_UP" Val="A contagem indica quando o broto de ent passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_BASILISK_GROW_UP" Val="A contagem indica quando a cria de basilisco passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_WOLF_GROW_UP" Val="A contagem indica quando o filhote de lobo passará à fase jovem." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_GRIFFIN_GROW_UP" Val="A contagem indica quando o grifo jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_KIRIN_GROW_UP" Val="A contagem indica quando o kirin jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_MERMAID_GROW_UP" Val="A contagem indica quando a sereia jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_PHOENIX_GROW_UP" Val="A contagem indica quando a fênix jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_UNICORN_GROW_UP" Val="A contagem indica quando o unicórnio jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_ENT_GROW_UP" Val="A contagem indica quando o ent jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_BASILISK_GROW_UP" Val="A contagem indica quando o basilisco jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_WOLF_GROW_UP" Val="A contagem indica quando o lobo jovem alcançará a forma adulta." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_GRIFFIN_AWAKENING" Val="Aumenta a Força do jovem grifo." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_KIRIN_AWAKENING" Val="Aumenta a Sabedoria do jovem kirin." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_MERMAID_AWAKENING" Val="Aumenta o Misticismo da jovem sereia." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_PHOENIX_AWAKENING" Val="Aumenta o Destino da jovem fênix." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_UNICORN_AWAKENING" Val="Aumenta o Destino do jovem unicórnio." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_ENT_AWAKENING" Val="Aumenta a saúde física máxima do ent jovem." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_BASILISK_AWAKENING" Val="Aumenta a resistência a veneno do basilisco jovem." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_WOLF_AWAKENING" Val="Aumenta o alcance de movimento do lobo jovem." />
+  </LOC_LIBRARY-EN_FCP>
+</DATABASE_DES_LOCALIZATION-NO_HSH>
+

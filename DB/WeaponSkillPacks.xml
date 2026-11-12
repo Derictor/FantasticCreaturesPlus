@@ -1,0 +1,58 @@
+<SKILLS_PACKS>
+  <SKILL_PACK-FCP_WEAPON_GRIFFIN_SUN_BLADE>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_GRIFFIN_SUN_BLADE>
+  <SKILL_PACK-FCP_WEAPON_KIRIN_MOON_STAFF>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_KIRIN_MOON_STAFF" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_KIRIN_MOON_STAFF>
+  <SKILL_PACK-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
+  <SKILL_PACK-FCP_WEAPON_PHOENIX_ASHES_BOW>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_PHOENIX_ASHES_BOW" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_PHOENIX_ASHES_BOW>
+  <SKILL_PACK-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
+  <SKILL_PACK-FCP_WEAPON_ENT_ROOT_MACE>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_ENT_ROOT_MACE" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_ENT_ROOT_MACE>
+  <SKILL_PACK-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
+  <SKILL_PACK-FCP_WEAPON_WOLF_MOON_FANG_SWORD>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_WEAPON_WOLF_MOON_FANG_SWORD" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="None" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_WEAPON_WOLF_MOON_FANG_SWORD>
+</SKILLS_PACKS>

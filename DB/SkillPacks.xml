@@ -1,4 +1,4 @@
-<SKILLS_PACKS>
+﻿<SKILLS_PACKS>
   <SKILL_PACK-FCP_GRIFFIN>
     <RarityRange MinimumCount="0" MaximumCount="100" />
     <GuarantedSkill Value="SKILL-FCP_CELESTIAL_DIVE" />
@@ -69,4 +69,157 @@
       <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
     </SkillGroupFilters>
   </SKILL_PACK-FCP_WOLF>
+  <SKILL_PACK-FCP_CHILD_GRIFFIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_GRIFFIN_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_GRIFFIN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_GRIFFIN>
+  <SKILL_PACK-FCP_CHILD_KIRIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_KIRIN_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_KIRIN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_KIRIN>
+  <SKILL_PACK-FCP_CHILD_MERMAID>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_MERMAID_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_MERMAID_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_MERMAID>
+  <SKILL_PACK-FCP_CHILD_PHOENIX>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_PHOENIX_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_PHOENIX_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_PHOENIX>
+  <SKILL_PACK-FCP_CHILD_UNICORN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_UNICORN_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_UNICORN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_UNICORN>
+  <SKILL_PACK-FCP_CHILD_ENT>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_ENT_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_ENT_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_ENT>
+  <SKILL_PACK-FCP_CHILD_BASILISK>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_BASILISK_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_BASILISK_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_BASILISK>
+  <SKILL_PACK-FCP_CHILD_WOLF>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_WOLF_GROW" />
+    <GuarantedSkill Value="SKILL-FCP_CHILD_WOLF_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_CHILD_WOLF>
+  <SKILL_PACK-FCP_YOUNG_GRIFFIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_GRIFFIN_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_GRIFFIN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_GRIFFIN>
+  <SKILL_PACK-FCP_YOUNG_KIRIN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_KIRIN_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_KIRIN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_KIRIN>
+  <SKILL_PACK-FCP_YOUNG_MERMAID>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_MERMAID_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_MERMAID_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_MERMAID>
+  <SKILL_PACK-FCP_YOUNG_PHOENIX>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_PHOENIX_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_PHOENIX_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_PHOENIX>
+  <SKILL_PACK-FCP_YOUNG_UNICORN>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_UNICORN_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_UNICORN_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_UNICORN>
+  <SKILL_PACK-FCP_YOUNG_ENT>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_ENT_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_ENT_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_ENT>
+  <SKILL_PACK-FCP_YOUNG_BASILISK>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_BASILISK_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_BASILISK_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_BASILISK>
+  <SKILL_PACK-FCP_YOUNG_WOLF>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_WOLF_AWAKENING" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_WOLF_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_YOUNG_WOLF>
+  <SKILL_PACK-FCP_PHOENIX_T3>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_REBIRTH_IN_FLAMES" />
+    <GuarantedSkill Value="SKILL-FCP_EMBER_BURST" />
+    <GuarantedSkill Value="SKILL-FCP_PHOENIX_ASHES_T3" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_PHOENIX_T3>
+  <SKILL_PACK-FCP_KIRIN_T3>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_ANCESTRAL_BLESSING" />
+    <GuarantedSkill Value="SKILL-FCP_KIRIN_BLESSING_T3" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_KIRIN_T3>
+  <SKILL_PACK-FCP_BASILISK_T3>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_PETRIFYING_GAZE" />
+    <GuarantedSkill Value="SKILL-FCP_BASILISK_VENOM_T3" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_BASILISK_T3>
 </SKILLS_PACKS>

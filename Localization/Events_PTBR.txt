@@ -1,0 +1,903 @@
+-- [EVENT] --Event_Find_Griffin(0)
++[NODE]2
+[STORY]
+Você ouve um grito nas montanhas. Vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Kirin(1)
++[NODE]2
+[STORY]
+Uma luz ancestral cintila na floresta. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Mermaid(2)
++[NODE]2
+[STORY]
+Uma voz ecoa do lago. Você vai segui-la?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Phoenix(3)
++[NODE]2
+[STORY]
+Uma espiral de fogo dança sobre as cinzas vulcânicas. Você vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Unicorn(4)
++[NODE]2
+[STORY]
+Uma silhueta prateada atravessa a floresta ao luar. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Ent(5)
++[NODE]2
+[STORY]
+A árvore mais antiga se move e observa você. O que vai fazer?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Basilisk(6)
++[NODE]2
+[STORY]
+Um rosnado áspero ecoa da caverna escura. Você vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Lunar_Wolf(7)
++[NODE]2
+[STORY]
+Uma matilha uiva sob a luz da lua. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A criatura foi derrotada.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A criatura se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A criatura resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A criatura aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Griffin(8)
++[NODE]2
+[STORY]
+Você ouve o chamado de um jovem grifo nas montanhas. Vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O jovem grifo foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O jovem grifo se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O jovem grifo resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O jovem grifo aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Kirin(9)
++[NODE]2
+[STORY]
+A luz de um jovem kirin cintila entre as árvores. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O filhote de kirin foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O filhote de kirin se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O filhote de kirin resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O filhote de kirin aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Mermaid(10)
++[NODE]2
+[STORY]
+A voz de uma jovem sereia ecoa do lago. Você vai segui-la?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A jovem sereia foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A jovem sereia se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A jovem sereia resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A jovem sereia aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Phoenix(11)
++[NODE]2
+[STORY]
+Uma jovem fênix cintila entre as cinzas vulcânicas. Vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+A jovem fênix foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+A jovem fênix se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+A jovem fênix resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+A jovem fênix aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Unicorn(12)
++[NODE]2
+[STORY]
+Um jovem unicórnio cruza a floresta ao luar. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O filhote de unicórnio foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O filhote de unicórnio se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O filhote de unicórnio resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O filhote de unicórnio aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Ent(13)
++[NODE]2
+[STORY]
+Um jovem ent se move entre raízes antigas. Você vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O jovem ent foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O jovem ent se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O jovem ent resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O jovem ent aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Basilisk(14)
++[NODE]2
+[STORY]
+Um filhote de basilisco se esconde entre as pedras. Você se aproxima?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O filhote de basilisco foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O filhote de basilisco se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O filhote de basilisco resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O filhote de basilisco aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --Event_Find_Child_Wolf(15)
++[NODE]2
+[STORY]
+O uivo de um filhote de lobo corta a noite. Vai investigar?
+[/STORY]
+[OUT]Lutar
+[OUT]Domar
+[OUT]Recrutar
+[OUT]Fugir
+[/NODE]
++[NODE]3
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]4
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]5
+[OUT]Vitória
+[OUT]Derrota
+[OUT]Render-se
+[/NODE]
++[NODE]7
+[STORY]
+O filhote de lobo foi derrotado.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]8
+[STORY]
+O filhote de lobo se junta a você.
+[/STORY]
+[OUT]Continuar
+[/NODE]
++[NODE]9
+[STORY]
+O filhote de lobo resiste. Você luta ou foge?
+[/STORY]
+[OUT]Lutar
+[OUT]Fugir
+[/NODE]
++[NODE]10
+[STORY]
+O filhote de lobo aceita sua companhia.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Griffin(16)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Griffin alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Kirin(17)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Kirin alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Mermaid(18)
++[NODE]2
+[STORY]
+O ciclo de crescimento da Mermaid alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Phoenix(19)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Phoenix alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Unicorn(20)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Unicorn alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Ent(21)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Ent alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Basilisk(22)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Basilisk alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]
+
+-- [EVENT] --FCP_Growth_Wolf(23)
++[NODE]2
+[STORY]
+O ciclo de crescimento do Wolf alcançou uma nova etapa.
+[/STORY]
+[OUT]Continuar
+[/NODE]
+[/EVENT]

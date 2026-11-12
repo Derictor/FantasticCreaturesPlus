@@ -4,6 +4,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="5" MaximumCount="8" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
     <OptionalTag Value="TAG-SWORD_1H" />
   </ITEM_CARGO-FCP_GRIFFIN_TALON_BLADE>
   <ITEM_CARGO-FCP_KIRIN_HORN_STAFF TrashChance="0" MasterChance="20">
@@ -11,6 +12,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="6" MaximumCount="9" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_KIRIN_MOON_STAFF" />
     <OptionalTag Value="TAG-WAND" />
   </ITEM_CARGO-FCP_KIRIN_HORN_STAFF>
   <ITEM_CARGO-FCP_ABYSSAL_TRIDENT TrashChance="0" MasterChance="20">
@@ -18,6 +20,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="4" MaximumCount="7" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
     <OptionalTag Value="TAG-POLEARM_2H" />
   </ITEM_CARGO-FCP_ABYSSAL_TRIDENT>
   <ITEM_CARGO-FCP_PHOENIX_FEATHER_BOW TrashChance="0" MasterChance="20">
@@ -25,6 +28,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="7" MaximumCount="10" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_PHOENIX_ASHES_BOW" />
     <OptionalTag Value="TAG-BOW" />
   </ITEM_CARGO-FCP_PHOENIX_FEATHER_BOW>
   <ITEM_CARGO-FCP_LUNAR_HORN_LANCE TrashChance="0" MasterChance="20">
@@ -32,6 +36,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="6" MaximumCount="9" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
     <OptionalTag Value="TAG-POLEARM_2H" />
   </ITEM_CARGO-FCP_LUNAR_HORN_LANCE>
   <ITEM_CARGO-FCP_BRANCH_MACE TrashChance="0" MasterChance="20">
@@ -39,6 +44,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="5" MaximumCount="8" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_ENT_ROOT_MACE" />
     <OptionalTag Value="TAG-CLUB_2H" />
   </ITEM_CARGO-FCP_BRANCH_MACE>
   <ITEM_CARGO-FCP_BASILISK_FANG_DAGGER TrashChance="0" MasterChance="20">
@@ -46,6 +52,7 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="6" MaximumCount="9" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
     <OptionalTag Value="TAG-SWORD_1H" />
   </ITEM_CARGO-FCP_BASILISK_FANG_DAGGER>
   <ITEM_CARGO-FCP_LUNAR_FANG_SWORD TrashChance="0" MasterChance="20">
@@ -53,6 +60,71 @@
     <SkillRarityRange MinimumCount="20" MaximumCount="40" />
     <LevelRange MinimumCount="4" MaximumCount="7" />
     <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_WOLF_MOON_FANG_SWORD" />
     <OptionalTag Value="TAG-SWORD_1H" />
   </ITEM_CARGO-FCP_LUNAR_FANG_SWORD>
+  <ITEM_CARGO-FCP_GRIFFIN_SUN_BLADE_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="11" MaximumCount="14" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
+    <OptionalTag Value="TAG-SWORD_1H" />
+  </ITEM_CARGO-FCP_GRIFFIN_SUN_BLADE_T3>
+  <ITEM_CARGO-FCP_KIRIN_MOON_STAFF_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="12" MaximumCount="15" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_KIRIN_MOON_STAFF" />
+    <OptionalTag Value="TAG-WAND" />
+  </ITEM_CARGO-FCP_KIRIN_MOON_STAFF_T3>
+  <ITEM_CARGO-FCP_ABYSSAL_DEPTHS_TRIDENT_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="11" MaximumCount="14" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
+    <OptionalTag Value="TAG-POLEARM_2H" />
+  </ITEM_CARGO-FCP_ABYSSAL_DEPTHS_TRIDENT_T3>
+  <ITEM_CARGO-FCP_PHOENIX_ASHES_BOW_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="13" MaximumCount="16" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_PHOENIX_ASHES_BOW" />
+    <OptionalTag Value="TAG-BOW" />
+  </ITEM_CARGO-FCP_PHOENIX_ASHES_BOW_T3>
+  <ITEM_CARGO-FCP_UNICORN_STARLIGHT_LANCE_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="12" MaximumCount="15" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
+    <OptionalTag Value="TAG-POLEARM_2H" />
+  </ITEM_CARGO-FCP_UNICORN_STARLIGHT_LANCE_T3>
+  <ITEM_CARGO-FCP_ENT_ROOT_MACE_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="11" MaximumCount="14" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_ENT_ROOT_MACE" />
+    <OptionalTag Value="TAG-CLUB_2H" />
+  </ITEM_CARGO-FCP_ENT_ROOT_MACE_T3>
+  <ITEM_CARGO-FCP_BASILISK_PETRIFY_DAGGER_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="12" MaximumCount="15" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
+    <OptionalTag Value="TAG-SWORD_1H" />
+  </ITEM_CARGO-FCP_BASILISK_PETRIFY_DAGGER_T3>
+  <ITEM_CARGO-FCP_WOLF_MOON_FANG_SWORD_T3 TrashChance="0" MasterChance="10">
+    <ResourceRarityRange MinimumCount="0" MaximumCount="100" />
+    <SkillRarityRange MinimumCount="40" MaximumCount="60" />
+    <LevelRange MinimumCount="11" MaximumCount="14" />
+    <NumberOfItems MinimumCount="1" MaximumCount="1" />
+    <RequiredTag Value="TAG-FCP_WEAPON_WOLF_MOON_FANG_SWORD" />
+    <OptionalTag Value="TAG-SWORD_1H" />
+  </ITEM_CARGO-FCP_WOLF_MOON_FANG_SWORD_T3>
 </ITEMS_CARGOS>

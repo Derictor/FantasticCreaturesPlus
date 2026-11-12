@@ -122,23 +122,6 @@
   <IMAGE Name="FCPHalfDemonEnt" Path="Images/Portraits/half_demon_ent.jpg" Path2="Images/Portraits/half_demon_ent.jpg" MemoryStorage="true" TagMode="false" EventImage="false"/>
   <IMAGE Name="FCPHalfDemonBasilisk" Path="Images/Portraits/half_demon_basilisk.jpg" Path2="Images/Portraits/half_demon_basilisk.jpg" MemoryStorage="true" TagMode="false" EventImage="false"/>
   <IMAGE Name="FCPHalfDemonWolf" Path="Images/Portraits/half_demon_wolf.jpg" Path2="Images/Portraits/half_demon_wolf.jpg" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  Adiciona 8 criaturas, retratos, armas, habilidades, características, encontros por bioma e eventos ao Thea 2.
-  <IMAGE Name="FCPGriffinChild" Model="CrowRoyal" Path="Images/Children/child_griffin.png" Path2="Images/Children/child_griffin.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPKirinChild" Model="Wolf1" Path="Images/Children/child_kirin.png" Path2="Images/Children/child_kirin.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPMermaidChild" Model="HumanWitchF1" Path="Images/Children/child_mermaid.png" Path2="Images/Children/child_mermaid.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPPhoenixChild" Model="BeeDragon" Path="Images/Children/child_phoenix.png" Path2="Images/Children/child_phoenix.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPUnicornChild" Model="Wolf1" Path="Images/Children/child_unicorn.png" Path2="Images/Children/child_unicorn.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPEntChild" Model="Pineconette" Path="Images/Children/child_ent.png" Path2="Images/Children/child_ent.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPBasiliskChild" Model="Snake" Path="Images/Children/child_basilisk.png" Path2="Images/Children/child_basilisk.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="FCPWolfChild" Model="Wolf1" Path="Images/Children/child_wolf.png" Path2="Images/Children/child_wolf.png" MemoryStorage="true" TagMode="false" />
-  <IMAGE Name="Event_Encounter_Child_Griffin" Path="Images/Events/encounter_griffin.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Kirin" Path="Images/Events/encounter_kirin.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Mermaid" Path="Images/Events/encounter_mermaid.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Phoenix" Path="Images/Events/encounter_phoenix.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Unicorn" Path="Images/Events/encounter_unicorn.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Ent" Path="Images/Events/encounter_ent.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Basilisk" Path="Images/Events/encounter_basilisk.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="Event_Encounter_Child_Wolf" Path="Images/Events/encounter_wolf.png" MemoryStorage="false" TagMode="false" EventImage="true" />
 </ModInfo>
 
 

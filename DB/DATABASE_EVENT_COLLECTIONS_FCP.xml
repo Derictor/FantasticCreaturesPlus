@@ -1,4 +1,4 @@
-<EVENT_COLLECTIONS>
+﻿<EVENT_COLLECTIONS>
   <EVENTC-FCP_GRIFFIN>
     <Event ModuleName="FantasticCreaturesPlus" EventID="1" />
   </EVENTC-FCP_GRIFFIN>
@@ -23,4 +23,28 @@
   <EVENTC-FCP_WOLF>
     <Event ModuleName="FantasticCreaturesPlus" EventID="8" />
   </EVENTC-FCP_WOLF>
+  <EVENTC-FCP_CHILD_GRIFFIN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="9" />
+  </EVENTC-FCP_CHILD_GRIFFIN>
+  <EVENTC-FCP_CHILD_KIRIN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="10" />
+  </EVENTC-FCP_CHILD_KIRIN>
+  <EVENTC-FCP_CHILD_MERMAID>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="11" />
+  </EVENTC-FCP_CHILD_MERMAID>
+  <EVENTC-FCP_CHILD_PHOENIX>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="12" />
+  </EVENTC-FCP_CHILD_PHOENIX>
+  <EVENTC-FCP_CHILD_UNICORN>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="13" />
+  </EVENTC-FCP_CHILD_UNICORN>
+  <EVENTC-FCP_CHILD_ENT>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="14" />
+  </EVENTC-FCP_CHILD_ENT>
+  <EVENTC-FCP_CHILD_BASILISK>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="15" />
+  </EVENTC-FCP_CHILD_BASILISK>
+  <EVENTC-FCP_CHILD_WOLF>
+    <Event ModuleName="FantasticCreaturesPlus" EventID="16" />
+  </EVENTC-FCP_CHILD_WOLF>
 </EVENT_COLLECTIONS>

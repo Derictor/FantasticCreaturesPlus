@@ -1,26 +1,74 @@
-<RACES>
+﻿<RACES>
   <RACE-FCPGRIFFIN>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin" Description="DES_FCP_RACE_GRIFFIN" IconName="IconPlaceholder" />
   </RACE-FCPGRIFFIN>
   <RACE-FCPKIRIN>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin" Description="DES_FCP_RACE_KIRIN" IconName="IconPlaceholder" />
   </RACE-FCPKIRIN>
   <RACE-FCPMERMAID>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Mermaid" Description="DES_FCP_RACE_MERMAID" IconName="IconPlaceholder" />
   </RACE-FCPMERMAID>
   <RACE-FCPPHOENIX>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Phoenix" Description="DES_FCP_RACE_PHOENIX" IconName="IconPlaceholder" />
   </RACE-FCPPHOENIX>
   <RACE-FCPUNICORN>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Unicorn" Description="DES_FCP_RACE_UNICORN" IconName="IconPlaceholder" />
   </RACE-FCPUNICORN>
   <RACE-FCPENT>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ent" Description="DES_FCP_RACE_ENT" IconName="IconPlaceholder" />
   </RACE-FCPENT>
   <RACE-FCPBASILISK>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_RACE_BASILISK" IconName="IconPlaceholder" />
   </RACE-FCPBASILISK>
   <RACE-FCPWOLF>
-    <DescriptionInfo Name="DES_PLACEHOLDER" Description="DES_PLACEHOLDER_DES" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Wolf" Description="DES_FCP_RACE_WOLF" IconName="IconPlaceholder" />
   </RACE-FCPWOLF>
+  <RACE-FCPCHILDGRIFFIN>
+    <DescriptionInfo Name="Griffin Chick" Description="DES_FCP_RACE_CHILD_GRIFFIN" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDGRIFFIN>
+  <RACE-FCPCHILDKIRIN>
+    <DescriptionInfo Name="Kirin Foal" Description="DES_FCP_RACE_CHILD_KIRIN" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDKIRIN>
+  <RACE-FCPCHILDMERMAID>
+    <DescriptionInfo Name="Mermaid Spawn" Description="DES_FCP_RACE_CHILD_MERMAID" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDMERMAID>
+  <RACE-FCPCHILDPHOENIX>
+    <DescriptionInfo Name="Phoenix Hatchling" Description="DES_FCP_RACE_CHILD_PHOENIX" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDPHOENIX>
+  <RACE-FCPCHILDUNICORN>
+    <DescriptionInfo Name="Unicorn Foal" Description="DES_FCP_RACE_CHILD_UNICORN" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDUNICORN>
+  <RACE-FCPCHILDENT>
+    <DescriptionInfo Name="Ent Sapling" Description="DES_FCP_RACE_CHILD_ENT" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDENT>
+  <RACE-FCPCHILDBASILISK>
+    <DescriptionInfo Name="Basilisk Hatchling" Description="DES_FCP_RACE_CHILD_BASILISK" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDBASILISK>
+  <RACE-FCPCHILDWOLF>
+    <DescriptionInfo Name="Wolf Pup" Description="DES_FCP_RACE_CHILD_WOLF" IconName="IconPlaceholder" />
+  </RACE-FCPCHILDWOLF>
+  <RACE-FCPYOUNGGRIFFIN>
+    <DescriptionInfo Name="Young Griffin" Description="DES_FCP_RACE_YOUNG_GRIFFIN" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGGRIFFIN>
+  <RACE-FCPYOUNGKIRIN>
+    <DescriptionInfo Name="Young Kirin" Description="DES_FCP_RACE_YOUNG_KIRIN" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGKIRIN>
+  <RACE-FCPYOUNGMERMAID>
+    <DescriptionInfo Name="Young Mermaid" Description="DES_FCP_RACE_YOUNG_MERMAID" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGMERMAID>
+  <RACE-FCPYOUNGPHOENIX>
+    <DescriptionInfo Name="Young Phoenix" Description="DES_FCP_RACE_YOUNG_PHOENIX" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGPHOENIX>
+  <RACE-FCPYOUNGUNICORN>
+    <DescriptionInfo Name="Young Unicorn" Description="DES_FCP_RACE_YOUNG_UNICORN" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGUNICORN>
+  <RACE-FCPYOUNGENT>
+    <DescriptionInfo Name="Young Ent" Description="DES_FCP_RACE_YOUNG_ENT" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGENT>
+  <RACE-FCPYOUNGBASILISK>
+    <DescriptionInfo Name="Young Basilisk" Description="DES_FCP_RACE_YOUNG_BASILISK" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGBASILISK>
+  <RACE-FCPYOUNGWOLF>
+    <DescriptionInfo Name="Young Wolf" Description="DES_FCP_RACE_YOUNG_WOLF" IconName="IconPlaceholder" />
+  </RACE-FCPYOUNGWOLF>
 </RACES>

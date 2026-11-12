@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<MODULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FantasticCreaturesPlus" lastEventIndex="8" allowToUse="true" uniqueModuleID="-4830194">
+<MODULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="FantasticCreaturesPlus" lastEventIndex="24" allowToUse="true" uniqueModuleID="-4830194">
   <Adventure name="Event_Find_Griffin" uniqueID="1" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Griffin">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -45,7 +44,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -64,7 +63,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -75,7 +74,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Kirin" uniqueID="2" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Kirin">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -119,7 +118,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -138,7 +137,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -149,7 +148,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Mermaid" uniqueID="3" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Mermaid">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -193,7 +192,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -212,7 +211,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -223,7 +222,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Phoenix" uniqueID="4" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Phoenix">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -267,7 +266,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -286,7 +285,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -297,7 +296,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Unicorn" uniqueID="5" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Unicorn">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -341,7 +340,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -360,7 +359,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -371,7 +370,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Ent" uniqueID="6" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Ent">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -415,7 +414,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -434,7 +433,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -445,7 +444,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Basilisk" uniqueID="7" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Basilisk">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -489,7 +488,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -508,7 +507,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -519,7 +518,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Event_Find_Lunar_Wolf" uniqueID="8" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
-    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Wolf">
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
@@ -563,7 +562,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -582,7 +581,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
+            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -592,4 +591,945 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
+  <Adventure name="Event_Find_Child_Griffin" uniqueID="9" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Griffin">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />You hear a young griffin calling from the mountains. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young griffin is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young griffin joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young griffin resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young griffin accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Kirin" uniqueID="10" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Kirin">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A young kirin's light flickers among the trees. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young kirin is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young kirin joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young kirin resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young kirin accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Mermaid" uniqueID="11" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Mermaid">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A young mermaid's voice echoes from the lake. Will you follow it?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young mermaid is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young mermaid joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young mermaid resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young mermaid accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Phoenix" uniqueID="12" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Phoenix">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A young phoenix flickers among the volcanic ashes. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young phoenix is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young phoenix joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young phoenix resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young phoenix accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Unicorn" uniqueID="13" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Unicorn">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A young unicorn crosses the moonlit forest. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young unicorn is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young unicorn joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young unicorn resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young unicorn accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Ent" uniqueID="14" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Ent">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A young ent stirs among the ancient roots. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young ent is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young ent joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young ent resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young ent accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Basilisk" uniqueID="15" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Child_Basilisk">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A basilisk hatchling rustles among the stones. Do you approach?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young basilisk is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young basilisk joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young basilisk resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young basilisk accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Event_Find_Child_Wolf" uniqueID="16" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Wolf">
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="960" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="2" targetID="3" fromX="725" fromY="-420" />
+      <outputs name="Tame" ownerID="2" targetID="4" fromX="725" fromY="-420" />
+      <outputs name="Recruit" ownerID="2" targetID="5" fromX="725" fromY="-420" />
+      <outputs name="Flee" ownerID="2" targetID="6" fromX="725" fromY="-420" />A wolf pup howls beneath the moon. Do you investigate?</nodes>
+    <nodes xsi:type="NodeChallenge" ID="3" positionX="1400" positionY="-120" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="3" targetID="7" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="3" targetID="12" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="3" targetID="12" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="4" positionX="1550" positionY="-120" width="500" height="726" challengeType="TypeSpirit" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="4" targetID="8" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="4" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="4" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1700" positionY="-120" width="500" height="726" challengeType="TypeMental" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="10" fromX="1359" fromY="-627" />
+      <outputs name="Lose" ownerID="5" targetID="9" fromX="1359" fromY="-707" />
+      <outputs name="Surrender" ownerID="5" targetID="9" fromX="1359" fromY="-787" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1200" positionY="-900" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="7" positionX="2360" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Continue" ownerID="7" targetID="11" fromX="725" fromY="-180" />The young wolf is defeated.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="2640" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="8" targetID="11" fromX="725" fromY="-180" />The young wolf joins you.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="9" positionX="2920" positionY="0" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Fight" ownerID="9" targetID="3" fromX="725" fromY="-260" />
+      <outputs name="Flee" ownerID="9" targetID="6" fromX="725" fromY="-260" />The young wolf resists. Fight, or flee?</nodes>
+    <nodes xsi:type="NodeAdventure" ID="10" positionX="3200" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continue" ownerID="10" targetID="11" fromX="725" fromY="-180" />The young wolf accepts your company.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2700" positionY="0" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="3140" fromY="-481" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3300" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Griffin" uniqueID="17" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Griffin">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_GRIFFIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Griffin alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Kirin" uniqueID="18" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Kirin">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_KIRIN" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_KIRIN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Kirin alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Mermaid" uniqueID="19" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Mermaid">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_MERMAID" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_MERMAID" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento da Mermaid alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Phoenix" uniqueID="20" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Phoenix">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_PHOENIX" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Phoenix alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Unicorn" uniqueID="21" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Unicorn">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_UNICORN" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_UNICORN" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Unicorn alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Ent" uniqueID="22" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Ent">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_ENT" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_ENT" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_ENT" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_ENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Ent alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Basilisk" uniqueID="23" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Basilisk">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_BASILISK" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_BASILISK" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Basilisk alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="FCP_Growth_Wolf" uniqueID="24" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event_Encounter_Wolf">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="growing" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+          </LogicFilter>
+          <LogicFilter name="child">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_WOLF" />
+          </LogicFilter>
+          <LogicFilter name="young">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_WOLF" />
+          </LogicFilter>
+          <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="readyYoung" makePublic="true" list1="growing" list2="young">
+            <scriptCallWithTag scriptName="FLP_AandB" />
+          </LogicProcessing>
+          <LogicProcessing name="ready" list1="readyChild" list2="readyYoung">
+            <scriptCallWithTag scriptName="FLP_AorB" />
+          </LogicProcessing>
+          <LogicResultAction list="ready">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="500" positionY="0" width="350" height="805">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="readyChild">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_WOLF" />
+          </LogicModifiers>
+          <LogicModifiers list="readyYoung">
+            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_WOLF" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Continuar" ownerID="2" targetID="3" fromX="725" fromY="-180" />O ciclo de crescimento do Wolf alcançou uma nova etapa.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="900" positionY="0" width="350" height="530" linkedEventUniqueID="0" />
+  </Adventure>
 </MODULE>
+
+
+
+
+

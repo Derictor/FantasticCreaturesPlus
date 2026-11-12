@@ -1,0 +1,50 @@
+<SKILLS_CHALLENGES_ITEMS>
+  <SKILL-FCP_WEAPON_GRIFFIN_SUN_BLADE Rarity="0">
+    <DescriptionInfo Name="Solar Edge" Description="DES_FCP_SKILL_WEAPON_GRIFFIN_SUN_BLADE" IconName="SkillFirstClassBlades" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FIRST_STRIKE_DMG_M_S" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_GRIFFIN_SUN_BLADE>
+  <SKILL-FCP_WEAPON_KIRIN_MOON_STAFF Rarity="0">
+    <DescriptionInfo Name="Lunar Insight" Description="DES_FCP_SKILL_WEAPON_KIRIN_MOON_STAFF" IconName="SkillNaturalKnowledge" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_WEAK_MYSTICISM" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_KIRIN_MOON_STAFF>
+  <SKILL-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT Rarity="0">
+    <DescriptionInfo Name="Undertow" Description="DES_FCP_SKILL_WEAPON_ABYSSAL_DEPTHS_TRIDENT" IconName="SkillAngryWaves" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMY" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
+  <SKILL-FCP_WEAPON_PHOENIX_ASHES_BOW Rarity="0">
+    <DescriptionInfo Name="Ashen Flame" Description="DES_FCP_SKILL_WEAPON_PHOENIX_ASHES_BOW" IconName="SkillDragonBreath" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FIRE_GLANCE" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_PHOENIX_ASHES_BOW>
+  <SKILL-FCP_WEAPON_UNICORN_STARLIGHT_LANCE Rarity="0">
+    <DescriptionInfo Name="Starlight Ward" Description="DES_FCP_SKILL_WEAPON_UNICORN_STARLIGHT_LANCE" IconName="SkillBlessedArmour" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_WEAK_SHIELDING_PHYSICAL_MENTAL" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
+  <SKILL-FCP_WEAPON_ENT_ROOT_MACE Rarity="0">
+    <DescriptionInfo Name="Rooted Vitality" Description="DES_FCP_SKILL_WEAPON_ENT_ROOT_MACE" IconName="SkillNaturalArmour" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CONST_WEAK_ADD_HEALTH_PHYSICAL" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_ENT_ROOT_MACE>
+  <SKILL-FCP_WEAPON_BASILISK_PETRIFY_DAGGER Rarity="0">
+    <DescriptionInfo Name="Petrifying Gaze" Description="DES_FCP_SKILL_WEAPON_BASILISK_PETRIFY_DAGGER" IconName="SkillHypnosis" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMY" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
+  <SKILL-FCP_WEAPON_WOLF_MOON_FANG_SWORD Rarity="0">
+    <DescriptionInfo Name="Pack Hunter" Description="DES_FCP_SKILL_WEAPON_WOLF_MOON_FANG_SWORD" IconName="SkillWolf" />
+    <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_WEAK_STRENGTH" />
+    <SkillGroupFilter Value="Item" />
+  </SKILL-FCP_WEAPON_WOLF_MOON_FANG_SWORD>
+</SKILLS_CHALLENGES_ITEMS>

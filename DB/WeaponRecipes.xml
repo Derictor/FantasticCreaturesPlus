@@ -1,0 +1,303 @@
+<RECIPES_ITEMS>
+  <ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE ItemsAmount="0" WeightMultiplier="1.0">
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Griffin Sun Blade" Description="DES_FCP_WEAPON_GRIFFIN_SUN_BLADE_T3" IconName="RecipeSword1H" />
+      <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="14">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="11">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="10">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="10">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="9">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="8">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="7">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_GRIFFIN_SUN_BLADE" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
+  </ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE>
+  <ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF ItemsAmount="0" WeightMultiplier="0.8">
+    <InventorySlot Value="LeftHand" />
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Kirin Moon Staff" Description="DES_FCP_WEAPON_KIRIN_MOON_STAFF_T3" IconName="RecipeWand" />
+      <CountedTag Tag="TAG-WAND" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="14">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="11">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="10">
+          <Resource Value="RES-BONE" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="10">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="9">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="8">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="7">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_KIRIN_MOON_STAFF" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_KIRIN_MOON_STAFF" />
+  </ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF>
+  <ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT ItemsAmount="0" WeightMultiplier="0.9">
+    <InventorySlot Value="LeftHand" />
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Abyssal Depths Trident" Description="DES_FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT_T3" IconName="RecipePolearm2H" />
+      <CountedTag Tag="TAG-POLEARM_2H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="25">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="23">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="20">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="18">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="18">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="16">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="14">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-WOOD" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
+  </ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
+  <ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW ItemsAmount="0" WeightMultiplier="1.0">
+    <InventorySlot Value="LeftHand" />
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Phoenix Ashes Bow" Description="DES_FCP_WEAPON_PHOENIX_ASHES_BOW_T3" IconName="RecipeBow" />
+      <CountedTag Tag="TAG-BOW" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="14">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="11">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="10">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="10">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="9">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="8">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="7">
+          <Resource Value="RES-WOOD" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_PHOENIX_ASHES_BOW" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_PHOENIX_ASHES_BOW" />
+  </ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW>
+  <ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE ItemsAmount="0" WeightMultiplier="0.9">
+    <InventorySlot Value="LeftHand" />
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Unicorn Starlight Lance" Description="DES_FCP_WEAPON_UNICORN_STARLIGHT_LANCE_T3" IconName="RecipePolearm2H" />
+      <CountedTag Tag="TAG-POLEARM_2H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="25">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="23">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="20">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="18">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="18">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="16">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="14">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-WOOD" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
+  </ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
+  <ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE ItemsAmount="0" WeightMultiplier="0.9">
+    <InventorySlot Value="LeftHand" />
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Ent Root Mace" Description="DES_FCP_WEAPON_ENT_ROOT_MACE_T3" IconName="RecipeClub2H" />
+      <CountedTag Tag="TAG-CLUB_2H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="25">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="23">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="20">
+          <Resource Value="RES-WOOD" />
+        </Material>
+        <Material ResourceCount="18">
+          <Resource Value="RES-AMBER" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="18">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="16">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="14">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-WOOD" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_ENT_ROOT_MACE" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_ENT_ROOT_MACE" />
+  </ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE>
+  <ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER ItemsAmount="0" WeightMultiplier="1.0">
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Basilisk Petrify Dagger" Description="DES_FCP_WEAPON_BASILISK_PETRIFY_DAGGER_T3" IconName="RecipeSword1H" />
+      <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="14">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="11">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="10">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="10">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="9">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="8">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="7">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
+  </ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
+  <ITEM_REC-FCP_WEAPON_WOLF_MOON_FANG_SWORD ItemsAmount="0" WeightMultiplier="1.0">
+    <InventorySlot Value="RightHand" />
+    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+      <DescriptionInfo Name="Wolf Moon Fang Sword" Description="DES_FCP_WEAPON_WOLF_MOON_FANG_SWORD_T3" IconName="RecipeSword1H" />
+      <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
+      <MaterialRow>
+        <Material ResourceCount="14">
+          <Resource Value="RES-IRON" />
+        </Material>
+        <Material ResourceCount="12">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+        <Material ResourceCount="11">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="10">
+          <Resource Value="RES-IRON" />
+        </Material>
+      </MaterialRow>
+      <MaterialRow>
+        <Material ResourceCount="10">
+          <Resource Value="RES-AMBER" />
+        </Material>
+        <Material ResourceCount="9">
+          <Resource Value="RES-BONE" />
+        </Material>
+        <Material ResourceCount="8">
+          <Resource Value="RES-LEATHER" />
+        </Material>
+        <Material ResourceCount="7">
+          <Resource Value="RES-SANDSTONE" />
+        </Material>
+      </MaterialRow>
+      <CountedTag Tag="TAG-FCP_WEAPON_WOLF_MOON_FANG_SWORD" Amount="1.0" />
+    </RecipeBase>
+    <Skills Value="SKILL_PACK-FCP_WEAPON_WOLF_MOON_FANG_SWORD" />
+  </ITEM_REC-FCP_WEAPON_WOLF_MOON_FANG_SWORD>
+</RECIPES_ITEMS>

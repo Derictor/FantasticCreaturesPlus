@@ -1,0 +1,83 @@
+﻿<TRAIT_CARD_CARDS>
+  <TRAIT_CARD-FCP_ADD_WOLF UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Lunar Wolf" Description="DES_FCP_CARD_ADD_WOLF" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_WOLF" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_WOLF>
+  <TRAIT_CARD-FCP_ADD_GRIFFIN UnlockCost="0" UseCost="2">
+    <DescriptionInfo Name="Add Character - Griffin Celestial" Description="DES_FCP_CARD_ADD_GRIFFIN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_GRIFFIN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_GRIFFIN>
+  <TRAIT_CARD-FCP_ADD_KIRIN UnlockCost="3" UseCost="2">
+    <DescriptionInfo Name="Add Character - Kirin Ancient" Description="DES_FCP_CARD_ADD_KIRIN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_KIRIN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_KIRIN>
+  <TRAIT_CARD-FCP_ADD_MERMAID UnlockCost="3" UseCost="2">
+    <DescriptionInfo Name="Add Character - Abyssal Mermaid" Description="DES_FCP_CARD_ADD_MERMAID" IconName="DomainMagic" />
+    <AddSubrace Value="SUBRACE-FCP_MERMAID" />
+    <DomainType Value="TAG-DOMAIN_MAGIC" />
+  </TRAIT_CARD-FCP_ADD_MERMAID>
+  <TRAIT_CARD-FCP_ADD_PHOENIX UnlockCost="3" UseCost="2">
+    <DescriptionInfo Name="Add Character - Ember Phoenix" Description="DES_FCP_CARD_ADD_PHOENIX" IconName="DomainMagic" />
+    <AddSubrace Value="SUBRACE-FCP_PHOENIX" />
+    <DomainType Value="TAG-DOMAIN_MAGIC" />
+  </TRAIT_CARD-FCP_ADD_PHOENIX>
+  <TRAIT_CARD-FCP_ADD_UNICORN UnlockCost="3" UseCost="2">
+    <DescriptionInfo Name="Add Character - Lunar Unicorn" Description="DES_FCP_CARD_ADD_UNICORN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_UNICORN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_UNICORN>
+  <TRAIT_CARD-FCP_ADD_ENT UnlockCost="5" UseCost="3">
+    <DescriptionInfo Name="Add Character - Ancient Ent" Description="DES_FCP_CARD_ADD_ENT" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_ENT" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_ENT>
+  <TRAIT_CARD-FCP_ADD_BASILISK UnlockCost="3" UseCost="2">
+    <DescriptionInfo Name="Add Character - Basilisk" Description="DES_FCP_CARD_ADD_BASILISK" IconName="DomainNeutral" />
+    <AddSubrace Value="SUBRACE-FCP_BASILISK" />
+    <DomainType Value="TAG-DOMAIN_NEUTRAL" />
+  </TRAIT_CARD-FCP_ADD_BASILISK>
+  <TRAIT_CARD-FCP_ADD_CHILD_GRIFFIN UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Griffin Chick" Description="DES_FCP_CARD_ADD_CHILD_GRIFFIN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_GRIFFIN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_CHILD_GRIFFIN>
+  <TRAIT_CARD-FCP_ADD_CHILD_KIRIN UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Kirin Foal" Description="DES_FCP_CARD_ADD_CHILD_KIRIN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_KIRIN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_CHILD_KIRIN>
+  <TRAIT_CARD-FCP_ADD_CHILD_MERMAID UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Mermaid Spawn" Description="DES_FCP_CARD_ADD_CHILD_MERMAID" IconName="DomainMagic" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_MERMAID" />
+    <DomainType Value="TAG-DOMAIN_MAGIC" />
+  </TRAIT_CARD-FCP_ADD_CHILD_MERMAID>
+  <TRAIT_CARD-FCP_ADD_CHILD_PHOENIX UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Phoenix Hatchling" Description="DES_FCP_CARD_ADD_CHILD_PHOENIX" IconName="DomainMagic" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_PHOENIX" />
+    <DomainType Value="TAG-DOMAIN_MAGIC" />
+  </TRAIT_CARD-FCP_ADD_CHILD_PHOENIX>
+  <TRAIT_CARD-FCP_ADD_CHILD_UNICORN UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Unicorn Foal" Description="DES_FCP_CARD_ADD_CHILD_UNICORN" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_UNICORN" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_CHILD_UNICORN>
+  <TRAIT_CARD-FCP_ADD_CHILD_ENT UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Ent Sapling" Description="DES_FCP_CARD_ADD_CHILD_ENT" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_ENT" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_CHILD_ENT>
+  <TRAIT_CARD-FCP_ADD_CHILD_BASILISK UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Basilisk Hatchling" Description="DES_FCP_CARD_ADD_CHILD_BASILISK" IconName="DomainNeutral" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_BASILISK" />
+    <DomainType Value="TAG-DOMAIN_NEUTRAL" />
+  </TRAIT_CARD-FCP_ADD_CHILD_BASILISK>
+  <TRAIT_CARD-FCP_ADD_CHILD_WOLF UnlockCost="0" UseCost="1">
+    <DescriptionInfo Name="Add Character - Wolf Pup" Description="DES_FCP_CARD_ADD_CHILD_WOLF" IconName="DomainNature" />
+    <AddSubrace Value="SUBRACE-FCP_CHILD_WOLF" />
+    <DomainType Value="TAG-DOMAIN_NATURE" />
+  </TRAIT_CARD-FCP_ADD_CHILD_WOLF>
+</TRAIT_CARD_CARDS>
+
