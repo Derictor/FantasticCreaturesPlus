@@ -23,4 +23,7 @@
   <RACE-FCP_HALF_WOLF>
     <DescriptionInfo Name="Wolf Lineage" Description="DES_FCP_HALF_RACE_WOLF" IconName="FCPLineageWolf" />
   </RACE-FCP_HALF_WOLF>
+  <RACE-FCP_MIXED>
+    <DescriptionInfo Name="Mixed Lineage" Description="DES_FCP_MIXED_RACE" IconName="ClassMythical" />
+  </RACE-FCP_MIXED>
 </RACES>

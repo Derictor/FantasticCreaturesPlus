@@ -5311,4 +5311,636 @@
     <GraphicFemale Value="FCPHalfBeastWolf" />
   </SUBRACE-FCP_HALF_BEAST_WOLF_ADULT>
 
+  <SUBRACE-FCP_MIXED_HUMAN_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfHumanChildHumanChildMale" />
+    <GraphicFemale Value="FCPHalfHumanChildHumanChildFemale" />
+  </SUBRACE-FCP_MIXED_HUMAN_CHILD>
+  <SUBRACE-FCP_MIXED_ELF_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfElfChildElvenChild" />
+    <GraphicFemale Value="FCPHalfElfChildElvenChild" />
+  </SUBRACE-FCP_MIXED_ELF_CHILD>
+  <SUBRACE-FCP_MIXED_ORC_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfOrcChildOrcishChildMale" />
+    <GraphicFemale Value="FCPHalfOrcChildOrcishChildFemale" />
+  </SUBRACE-FCP_MIXED_ORC_CHILD>
+  <SUBRACE-FCP_MIXED_DWARF_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfDwarfChildDwarvenChildMale" />
+    <GraphicFemale Value="FCPHalfDwarfChildDwarvenChildFemale" />
+  </SUBRACE-FCP_MIXED_DWARF_CHILD>
+  <SUBRACE-FCP_MIXED_GOBLIN_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfGoblinChildGoblinChild1" />
+    <GraphicFemale Value="FCPHalfGoblinChildGoblinChild1" />
+  </SUBRACE-FCP_MIXED_GOBLIN_CHILD>
+  <SUBRACE-FCP_MIXED_SHADOWELF_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfShadowElfChildElvenChild" />
+    <GraphicFemale Value="FCPHalfShadowElfChildElvenChild" />
+  </SUBRACE-FCP_MIXED_SHADOWELF_CHILD>
+  <SUBRACE-FCP_MIXED_DEMON_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfDemonChildCrowRoyal" />
+    <GraphicFemale Value="FCPHalfDemonChildCrowRoyal" />
+  </SUBRACE-FCP_MIXED_DEMON_CHILD>
+  <SUBRACE-FCP_MIXED_BEAST_CHILD>
+    <DescriptionInfo Name="Mixed Lineage Child" Description="DES_FCP_MIXED_CHILD" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="3" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="100" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_CHILD" />
+    <GraphicMale Value="FCPHalfBeastChildCrowRoyal" />
+    <GraphicFemale Value="FCPHalfBeastChildCrowRoyal" />
+  </SUBRACE-FCP_MIXED_BEAST_CHILD>
+  <SUBRACE-FCP_MIXED_HUMAN_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfHumanYoungHumanCraftsmanM01" />
+    <GraphicFemale Value="FCPHalfHumanYoungHumanCraftsmanF01" />
+  </SUBRACE-FCP_MIXED_HUMAN_YOUNG>
+  <SUBRACE-FCP_MIXED_ELF_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfElfYoungElfForestM1" />
+    <GraphicFemale Value="FCPHalfElfYoungElfForestF1" />
+  </SUBRACE-FCP_MIXED_ELF_YOUNG>
+  <SUBRACE-FCP_MIXED_ORC_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfOrcYoungOrcWarriorM1" />
+    <GraphicFemale Value="FCPHalfOrcYoungOrcWarriorF1" />
+  </SUBRACE-FCP_MIXED_ORC_YOUNG>
+  <SUBRACE-FCP_MIXED_DWARF_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfDwarfYoungDwarfWarriorM1" />
+    <GraphicFemale Value="FCPHalfDwarfYoungDwarfBeastHunterM1" />
+  </SUBRACE-FCP_MIXED_DWARF_YOUNG>
+  <SUBRACE-FCP_MIXED_GOBLIN_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfGoblinYoungGoblinWorkerM1" />
+    <GraphicFemale Value="FCPHalfGoblinYoungGoblinWorkerF1" />
+  </SUBRACE-FCP_MIXED_GOBLIN_YOUNG>
+  <SUBRACE-FCP_MIXED_SHADOWELF_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfShadowElfYoungElfShadowM1LightSick" />
+    <GraphicFemale Value="FCPHalfShadowElfYoungElfShadowF1LightSick" />
+  </SUBRACE-FCP_MIXED_SHADOWELF_YOUNG>
+  <SUBRACE-FCP_MIXED_DEMON_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfDemonYoungDzievannasFeralM" />
+    <GraphicFemale Value="FCPHalfDemonYoungDzievannasFeralF" />
+  </SUBRACE-FCP_MIXED_DEMON_YOUNG>
+  <SUBRACE-FCP_MIXED_BEAST_YOUNG>
+    <DescriptionInfo Name="Young Mixed Lineage" Description="DES_FCP_MIXED_YOUNG" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
+    <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="14" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="4" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <NaturalSkills Value="SKILL_PACK-FCP_MIXED_YOUNG" />
+    <GraphicMale Value="FCPHalfBeastYoungCrowRoyal" />
+    <GraphicFemale Value="FCPHalfBeastYoungCrowRoyal" />
+  </SUBRACE-FCP_MIXED_BEAST_YOUNG>
+  <SUBRACE-FCP_MIXED_HUMAN_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="HumanCraftsmanM01" />
+    <GraphicFemale Value="HumanCraftsmanF01" />
+  </SUBRACE-FCP_MIXED_HUMAN_ADULT>
+  <SUBRACE-FCP_MIXED_ELF_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="ElfForestM1" />
+    <GraphicFemale Value="ElfForestF1" />
+  </SUBRACE-FCP_MIXED_ELF_ADULT>
+  <SUBRACE-FCP_MIXED_ORC_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="OrcWarriorM1" />
+    <GraphicFemale Value="OrcWarriorF1" />
+  </SUBRACE-FCP_MIXED_ORC_ADULT>
+  <SUBRACE-FCP_MIXED_DWARF_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="DwarfWarriorM1" />
+    <GraphicFemale Value="DwarfBeastHunterM1" />
+  </SUBRACE-FCP_MIXED_DWARF_ADULT>
+  <SUBRACE-FCP_MIXED_GOBLIN_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="GoblinWorkerM1" />
+    <GraphicFemale Value="GoblinWorkerF1" />
+  </SUBRACE-FCP_MIXED_GOBLIN_ADULT>
+  <SUBRACE-FCP_MIXED_SHADOWELF_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="ElfShadowM1" />
+    <GraphicFemale Value="ElfShadowF1" />
+  </SUBRACE-FCP_MIXED_SHADOWELF_ADULT>
+  <SUBRACE-FCP_MIXED_DEMON_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="DzievannasFeralM" />
+    <GraphicFemale Value="DzievannasFeralF" />
+  </SUBRACE-FCP_MIXED_DEMON_ADULT>
+  <SUBRACE-FCP_MIXED_BEAST_ADULT>
+    <DescriptionInfo Name="Mixed Lineage Adult" Description="DES_FCP_MIXED_ADULT" IconName="ClassMythical" />
+    <Race Value="RACE-FCP_MIXED" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-STRENGTH" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-PERCEPTION" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-INTELLIGENCE" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
+    <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="32" Tag="TAG-MAX_HEALTH_PHYSICAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_MENTAL" />
+    <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
+    <SecondSubraceAttributes Amount="5" Tag="TAG-MOVEMENT_RANGE" />
+    <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_DAY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
+    <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
+    <SecondSubraceAttributes Amount="200" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-HALF_RACE" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
+    <GraphicMale Value="Wolf1" />
+    <GraphicFemale Value="Wolf1" />
+  </SUBRACE-FCP_MIXED_BEAST_ADULT>
 </SUBRACES>

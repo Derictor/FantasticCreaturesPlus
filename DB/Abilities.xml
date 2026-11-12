@@ -62,7 +62,7 @@
   <SKILL-FCP_KEEN_EYES Rarity="0">
     <DescriptionInfo Name="Keen Eyes" Description="DES_FCP_TRAIT_KEEN_EYES" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_GRIFFIN" />
   </SKILL-FCP_KEEN_EYES>
   <SKILL-FCP_SWIFT_WINGS Rarity="0">
@@ -74,13 +74,13 @@
   <SKILL-FCP_ANCIENT_WISDOM Rarity="0">
     <DescriptionInfo Name="Ancient Wisdom" Description="DES_FCP_TRAIT_ANCIENT_WISDOM" IconName="FCPLineageKirin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_WISDOM" />
+    <SkillSubskill Value="SUBSKILL-FCP_KIRIN_MAP_WISDOM" />
     <SkillGroupFilter Value="FCP_KIRIN" />
   </SKILL-FCP_ANCIENT_WISDOM>
   <SKILL-FCP_WATER_BREATHING Rarity="0">
     <DescriptionInfo Name="Water Breathing" Description="DES_FCP_TRAIT_WATER_BREATHING" IconName="FCPLineageMermaid" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_MENTAL_SPIRIT" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_MENTAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_MERMAID" />
   </SKILL-FCP_WATER_BREATHING>
   <SKILL-FCP_DEEP_SIGHT Rarity="0">
@@ -92,7 +92,7 @@
   <SKILL-FCP_FIRE_IMMUNE Rarity="0">
     <DescriptionInfo Name="Fire Immune" Description="DES_FCP_TRAIT_FIRE_IMMUNE" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_FIRE_IMMUNE>
   <SKILL-FCP_EMBER_HEART Rarity="0">
@@ -104,13 +104,13 @@
   <SKILL-FCP_MOON_BLESSED Rarity="0">
     <DescriptionInfo Name="Moon Blessed" Description="DES_FCP_TRAIT_MOON_BLESSED" IconName="FCPLineageUnicorn" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_DESTINY" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_UNICORN" />
   </SKILL-FCP_MOON_BLESSED>
   <SKILL-FCP_STONE_BARK Rarity="0">
     <DescriptionInfo Name="Stone Bark" Description="DES_FCP_TRAIT_STONE_BARK" IconName="FCPLineageEnt" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_MENTAL" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_MENTAL" />
     <SkillGroupFilter Value="FCP_ENT" />
   </SKILL-FCP_STONE_BARK>
   <SKILL-FCP_FOREST_GUARDIAN Rarity="0">
@@ -122,13 +122,13 @@
   <SKILL-FCP_POISON_SKIN Rarity="0">
     <DescriptionInfo Name="Poison Skin" Description="DES_FCP_TRAIT_POISON_SKIN" IconName="FCPLineageBasilisk" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_BASILISK" />
   </SKILL-FCP_POISON_SKIN>
   <SKILL-FCP_NIGHT_HUNTER Rarity="0">
     <DescriptionInfo Name="Night Hunter" Description="DES_FCP_TRAIT_NIGHT_HUNTER" IconName="FCPLineageWolf" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
+    <SkillSubskill Value="SUBSKILL-FCP_MAP_MULTI_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_WOLF" />
   </SKILL-FCP_NIGHT_HUNTER>
   <SKILL-FCP_CHILD_GRIFFIN_GROW Rarity="0">
@@ -140,7 +140,7 @@
   <SKILL-FCP_CHILD_KIRIN_GROW Rarity="0">
     <DescriptionInfo Name="Kirin Growth" Description="DES_FCP_ABILITY_CHILD_KIRIN_GROW" IconName="FCPLineageKirin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
+    <SkillSubskill Value="SUBSKILL-FCP_KIRIN_MAP_WEAK_WISDOM" />
     <SkillGroupFilter Value="FCP_CHILD_KIRIN" />
   </SKILL-FCP_CHILD_KIRIN_GROW>
   <SKILL-FCP_CHILD_MERMAID_GROW Rarity="0">
@@ -446,7 +446,7 @@
   <SKILL-FCP_YOUNG_KIRIN_AWAKENING Rarity="0">
     <DescriptionInfo Name="Ancient Spark" Description="DES_FCP_ABILITY_YOUNG_KIRIN_AWAKENING" IconName="FCPLineageKirin" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
+    <SkillSubskill Value="SUBSKILL-FCP_KIRIN_MAP_WEAK_WISDOM" />
     <SkillGroupFilter Value="FCP_YOUNG_KIRIN" />
   </SKILL-FCP_YOUNG_KIRIN_AWAKENING>
   <SKILL-FCP_YOUNG_MERMAID_AWAKENING Rarity="0">

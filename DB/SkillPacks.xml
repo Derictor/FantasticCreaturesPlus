@@ -1,4 +1,4 @@
-﻿<SKILLS_PACKS>
+<SKILLS_PACKS>
   <SKILL_PACK-FCP_GRIFFIN>
     <RarityRange MinimumCount="0" MaximumCount="100" />
     <GuarantedSkill Value="SKILL-FCP_CELESTIAL_DIVE" />
@@ -230,4 +230,18 @@
       <SkillGroupSingleFilter Name="Fallback" Requirement="NecessaryType" />
     </SkillGroupFilters>
   </SKILL_PACK-FCP_BASILISK_T3>
+  <SKILL_PACK-FCP_MIXED_CHILD>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_MIXED_CHILD_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="FCP_MIXED_GROWTH" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_MIXED_CHILD>
+  <SKILL_PACK-FCP_MIXED_YOUNG>
+    <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_MIXED_YOUNG_GROW_UP" />
+    <SkillGroupFilters>
+      <SkillGroupSingleFilter Name="FCP_MIXED_GROWTH" Requirement="NecessaryType" />
+    </SkillGroupFilters>
+  </SKILL_PACK-FCP_MIXED_YOUNG>
 </SKILLS_PACKS>

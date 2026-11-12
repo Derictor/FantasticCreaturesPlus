@@ -1151,4 +1151,148 @@
     <CharacterMale Value="Beast–Wolf" />
     <CharacterFemale Value="Beast–Wolf" />
   </NAME_COLLECTION-FCP_HALF_BEAST_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_HUMAN_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_HUMAN_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_HUMAN_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_ELF_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ELF_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ELF_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_ORC_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ORC_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ORC_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_DWARF_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DWARF_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DWARF_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_GOBLIN_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_GOBLIN_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_GOBLIN_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_SHADOWELF_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_SHADOWELF_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_SHADOWELF_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_DEMON_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DEMON_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DEMON_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_BEAST_CHILD>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_BEAST_CHILD" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_BEAST_CHILD>
+  <NAME_COLLECTION-FCP_MIXED_HUMAN_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_HUMAN_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_HUMAN_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_ELF_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ELF_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ELF_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_ORC_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ORC_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ORC_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_DWARF_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DWARF_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DWARF_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_GOBLIN_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_GOBLIN_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_GOBLIN_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_SHADOWELF_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_SHADOWELF_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_SHADOWELF_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_DEMON_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DEMON_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DEMON_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_BEAST_YOUNG>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_BEAST_YOUNG" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_BEAST_YOUNG>
+  <NAME_COLLECTION-FCP_MIXED_HUMAN_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_HUMAN_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_HUMAN_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_ELF_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ELF_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ELF_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_ORC_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_ORC_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_ORC_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_DWARF_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DWARF_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DWARF_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_GOBLIN_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_GOBLIN_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_GOBLIN_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_SHADOWELF_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_SHADOWELF_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_SHADOWELF_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_DEMON_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_DEMON_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_DEMON_ADULT>
+  <NAME_COLLECTION-FCP_MIXED_BEAST_ADULT>
+    <Race Value="RACE-FCP_MIXED" />
+    <Subrace Value="SUBRACE-FCP_MIXED_BEAST_ADULT" />
+    <CharacterMale Value="Mixed Lineage" />
+    <CharacterFemale Value="Mixed Lineage" />
+  </NAME_COLLECTION-FCP_MIXED_BEAST_ADULT>
 </CHARACTER_NAMES>

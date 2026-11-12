@@ -1,0 +1,237 @@
+<SUBSKILLS_WORLD>
+  <SUBSKILL-FCP_KIRIN_MAP_WEAK_WISDOM Delay="0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_WISDOM" Description="DES_SUBSKILL_ADD_WISDOM_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_WISDOM" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="100" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="110" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="115" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="120" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="125" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="130" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_KIRIN_MAP_WEAK_WISDOM>
+  <SUBSKILL-FCP_KIRIN_MAP_WISDOM Delay="0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_WISDOM" Description="DES_SUBSKILL_ADD_WISDOM_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_WISDOM" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="100" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="120" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="130" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="140" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="150" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="160" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_KIRIN_MAP_WISDOM>
+  <SUBSKILL-FCP_MAP_MULTI_ADD_PERCEPTION Delay="0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_PERCEPTION" Description="DES_SUBSKILL_ADD_PERCEPTION_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_PERCEPTION" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="100" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="120" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="130" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="140" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="150" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="160" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_MAP_MULTI_ADD_PERCEPTION>
+  <SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_MENTAL_SPIRIT Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_SHIELDING_MENTAL_SPIRIT" Description="DES_SUBSKILL_ADD_SHIELDING_MENTAL_SPIRIT_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_SHIELD_M_S" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="110.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="110.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="115.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="115.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="122.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="122.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="131.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="131.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="140.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="140.0" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_MENTAL_SPIRIT>
+  <SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_SHIELDING_SPIRIT_PHYSICAL" Description="DES_SUBSKILL_ADD_SHIELDING_SPIRIT_PHYSICAL_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_SHIELD_P_S" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="110.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="110.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="115.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="115.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="122.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="122.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="131.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="131.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="140.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="140.0" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT>
+  <SUBSKILL-FCP_MAP_MULTI_ADD_DESTINY Delay="0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_DESTINY" Description="DES_SUBSKILL_ADD_DESTINY_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_DESTINY" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="100" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="120" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="130" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="140" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="150" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="160" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_MAP_MULTI_ADD_DESTINY>
+  <SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_MENTAL Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_ADD_SHIELDING_PHYSICAL_MENTAL" Description="DES_SUBSKILL_ADD_SHIELDING_PHYSICAL_MENTAL_DES" IconName="SubskillAddAttribute" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_SHIELD_P_M" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="110.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="110.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="115.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="115.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="122.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="122.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="131.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="131.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="140.0" />
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="140.0" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_MAP_MULTI_ADD_SHIELDING_PHYSICAL_MENTAL>
+</SUBSKILLS_WORLD>

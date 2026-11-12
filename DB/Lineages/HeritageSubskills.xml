@@ -1,0 +1,742 @@
+<SUBSKILLS_WORLD>
+  <SUBSKILL-FCP_HERITAGE_HUMAN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Human Heritage" Description="DES_FCP_HERITAGE_HUMAN" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_HUMAN>
+  <SUBSKILL-FCP_HERITAGE_ELF Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Elven Heritage" Description="DES_FCP_HERITAGE_ELF" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_ELF>
+  <SUBSKILL-FCP_HERITAGE_ORC Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Orc Heritage" Description="DES_FCP_HERITAGE_ORC" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_ORC>
+  <SUBSKILL-FCP_HERITAGE_DWARF Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Dwarven Heritage" Description="DES_FCP_HERITAGE_DWARF" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_DWARF>
+  <SUBSKILL-FCP_HERITAGE_GOBLIN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Goblin Heritage" Description="DES_FCP_HERITAGE_GOBLIN" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_GOBLIN>
+  <SUBSKILL-FCP_HERITAGE_SHADOWELF Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Shadow Elf Heritage" Description="DES_FCP_HERITAGE_SHADOWELF" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_DAY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_SHADOWELF>
+  <SUBSKILL-FCP_HERITAGE_DEMON Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Demonic Heritage" Description="DES_FCP_HERITAGE_DEMON" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_DEMON>
+  <SUBSKILL-FCP_HERITAGE_BEAST Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Beast Heritage" Description="DES_FCP_HERITAGE_BEAST" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="1" />
+      <SubskillAttribute Identifier="TAG-INTELLIGENCE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_BEAST>
+  <SUBSKILL-FCP_HERITAGE_PIRATES Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Pirate Orc Heritage" Description="DES_FCP_HERITAGE_PIRATES" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_PIRATES>
+  <SUBSKILL-FCP_HERITAGE_GNOLL Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Gnoll Heritage" Description="DES_FCP_HERITAGE_GNOLL" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_GNOLL>
+  <SUBSKILL-FCP_HERITAGE_UNLIVING Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Unliving Heritage" Description="DES_FCP_HERITAGE_UNLIVING" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MORALE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_UNLIVING>
+  <SUBSKILL-FCP_HERITAGE_MYTHICAL Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Mythical Heritage" Description="DES_FCP_HERITAGE_MYTHICAL" IconName="ClassMythical" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_MYTHICAL>
+  <SUBSKILL-FCP_HERITAGE_GRIFFIN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Griffin Heritage" Description="DES_FCP_HERITAGE_GRIFFIN" IconName="FCPLineageGriffin" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_GRIFFIN>
+  <SUBSKILL-FCP_HERITAGE_KIRIN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Kirin Heritage" Description="DES_FCP_HERITAGE_KIRIN" IconName="FCPLineageKirin" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_KIRIN>
+  <SUBSKILL-FCP_HERITAGE_MERMAID Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Mermaid Heritage" Description="DES_FCP_HERITAGE_MERMAID" IconName="FCPLineageMermaid" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-WITS" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_MERMAID>
+  <SUBSKILL-FCP_HERITAGE_PHOENIX Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Phoenix Heritage" Description="DES_FCP_HERITAGE_PHOENIX" IconName="FCPLineagePhoenix" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_PHOENIX>
+  <SUBSKILL-FCP_HERITAGE_UNICORN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Unicorn Heritage" Description="DES_FCP_HERITAGE_UNICORN" IconName="FCPLineageUnicorn" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-STRENGTH" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_UNICORN>
+  <SUBSKILL-FCP_HERITAGE_ENT Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Ent Heritage" Description="DES_FCP_HERITAGE_ENT" IconName="FCPLineageEnt" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-MAX_HEALTH_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="4" />
+      <SubskillAttribute Identifier="TAG-MOVEMENT_RANGE" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_ENT>
+  <SUBSKILL-FCP_HERITAGE_BASILISK Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Basilisk Heritage" Description="DES_FCP_HERITAGE_BASILISK" IconName="FCPLineageBasilisk" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_BASILISK>
+  <SUBSKILL-FCP_HERITAGE_WOLF Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="Lunar Wolf Heritage" Description="DES_FCP_HERITAGE_WOLF" IconName="FCPLineageWolf" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_ADD_STRENGTH" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-RANGE_OF_SIGHT_NIGHT" AttributeStringValue="+" AttributeFloatValue="2" />
+      <SubskillAttribute Identifier="TAG-MYSTICISM" AttributeStringValue="+" AttributeFloatValue="-1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_HERITAGE_WOLF>
+</SUBSKILLS_WORLD>

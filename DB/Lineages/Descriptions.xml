@@ -200,5 +200,31 @@
     <Entry Key="DES_FCP_HALF_BEAST_WOLF_CHILD" Val="Filhote de linhagem bestial e de lobo lunar." />
     <Entry Key="DES_FCP_HALF_BEAST_WOLF_YOUNG" Val="Jovem de linhagem bestial e de lobo lunar." />
     <Entry Key="DES_FCP_HALF_BEAST_WOLF_ADULT" Val="Adulto de linhagem bestial e de lobo lunar." />
-  </LOC_LIBRARY-EN_FCP_LINEAGES>
+    <Entry Key="DES_FCP_HERITAGE_HUMAN" Val="A adaptabilidade humana aumenta a astúcia em 2 e reduz o misticismo em 1." />
+  <Entry Key="DES_FCP_HERITAGE_ELF" Val="Os sentidos élficos dão +2 de percepção e −1 de força." />
+  <Entry Key="DES_FCP_HERITAGE_ORC" Val="O vigor orc dá +2 de força e −1 de inteligência." />
+  <Entry Key="DES_FCP_HERITAGE_DWARF" Val="A resistência anã dá +2 de proteção física e −1 de movimento." />
+  <Entry Key="DES_FCP_HERITAGE_GOBLIN" Val="A inventividade goblin dá +2 de inteligência e −1 de sabedoria." />
+  <Entry Key="DES_FCP_HERITAGE_SHADOWELF" Val="A linhagem dá +2 de alcance de visão noturna e −1 de visão diurna." />
+  <Entry Key="DES_FCP_HERITAGE_DEMON" Val="A afinidade demoníaca dá +2 de misticismo e −1 de moral." />
+  <Entry Key="DES_FCP_HERITAGE_BEAST" Val="O instinto bestial dá +1 de movimento e −1 de inteligência." />
+  <Entry Key="DES_FCP_HERITAGE_PIRATES" Val="A linhagem dá +2 de astúcia e −1 de sabedoria." />
+  <Entry Key="DES_FCP_HERITAGE_GNOLL" Val="A linhagem dá +2 de percepção e −1 de destino." />
+  <Entry Key="DES_FCP_HERITAGE_UNLIVING" Val="A linhagem dá +2 de proteção mental e −1 de moral." />
+  <Entry Key="DES_FCP_HERITAGE_MYTHICAL" Val="A linhagem dá +2 de destino e −1 de astúcia." />
+  <Entry Key="DES_FCP_HERITAGE_GRIFFIN" Val="A linhagem dá +2 de percepção e −1 de misticismo." />
+  <Entry Key="DES_FCP_HERITAGE_KIRIN" Val="A linhagem dá +2 de sabedoria e −1 de força." />
+  <Entry Key="DES_FCP_HERITAGE_MERMAID" Val="A linhagem dá +2 de misticismo e −1 de astúcia." />
+  <Entry Key="DES_FCP_HERITAGE_PHOENIX" Val="A linhagem dá +2 de destino e −1 de percepção." />
+  <Entry Key="DES_FCP_HERITAGE_UNICORN" Val="A linhagem dá +2 de proteção espiritual e −1 de força." />
+  <Entry Key="DES_FCP_HERITAGE_ENT" Val="A linhagem dá +4 de saúde física máxima e −1 de movimento." />
+  <Entry Key="DES_FCP_HERITAGE_BASILISK" Val="A linhagem dá +2 de proteção física e −1 de destino." />
+  <Entry Key="DES_FCP_HERITAGE_WOLF" Val="A linhagem dá +2 de visão noturna e −1 de misticismo." />
+  <Entry Key="DES_FCP_MIXED_RACE" Val="Descendência de várias linhagens. As passivas pessoais registram as contribuições de cada uma." />
+  <Entry Key="DES_FCP_MIXED_CHILD" Val="Os traços pessoais mostram as linhagens herdadas dos dois lados da família." />
+  <Entry Key="DES_FCP_MIXED_CHILD_GROW_UP" Val="Ao terminar o contador, a próxima fase libera o crescimento." />
+  <Entry Key="DES_FCP_MIXED_YOUNG" Val="Os traços pessoais mostram as linhagens herdadas dos dois lados da família." />
+  <Entry Key="DES_FCP_MIXED_YOUNG_GROW_UP" Val="Ao terminar o contador, a próxima fase libera o crescimento." />
+  <Entry Key="DES_FCP_MIXED_ADULT" Val="Os traços pessoais mostram as linhagens herdadas dos dois lados da família." />
+</LOC_LIBRARY-EN_FCP_LINEAGES>
 </DATABASE_DES_LOCALIZATION-NO_HSH>

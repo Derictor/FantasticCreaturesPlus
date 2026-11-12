@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Fantastic Creatures Plus" Graphic="preview.jpg" Visibility="2" lastEventIndex="168">
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Fantastic Creatures Plus" Graphic="preview.jpg" Visibility="2" lastEventIndex="171">
+  <SCRIPT>Scripts/Inheritance.cs</SCRIPT>
+  <SCRIPT>Scripts/CreatureMap.cs</SCRIPT>
   <STORY_MODULE>Events.xml</STORY_MODULE>
   <LOCALIZATION>Localization/Events.txt</LOCALIZATION>
   <DB>DB/DATABASE_DES_NAMES_FCP.xml</DB>
@@ -14,6 +16,9 @@
   <DB>DB/Races.xml</DB>
   <DB>DB/Settlements.xml</DB>
   <DB>DB/GrowthSubskills.xml</DB>
+  <DB>DB/CreatureMapSubskills.xml</DB>
+  <DB>DB/Lineages/HeritageSubskills.xml</DB>
+  <DB>DB/Lineages/HeritageSkills.xml</DB>
   <DB>DB/Abilities.xml</DB>
   <DB>DB/SkillPacks.xml</DB>
   <DB>DB/Creatures.xml</DB>
@@ -23,22 +28,22 @@
   <DB>DB/Lineages/Descriptions.xml</DB>
   <DB>DB/Traits.xml</DB>
   <DB>DB/TraitCards.xml</DB>
-  <IMAGE Name="FCPGriffin" Model="CrowRoyal" Path="Images/Portraits/Apex/griffin_celestial.png" Path2="Images/Portraits/Apex/griffin_celestial.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPKirin" Model="Wolf1" Path="Images/Portraits/Apex/kirin_ancient.png" Path2="Images/Portraits/Apex/kirin_ancient.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPMermaid" Model="HumanWitchF1" Path="Images/Portraits/Apex/abyssal_mermaid.png" Path2="Images/Portraits/Apex/abyssal_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPPhoenix" Model="BeeDragon" Path="Images/Portraits/Apex/ember_phoenix.png" Path2="Images/Portraits/Apex/ember_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPUnicorn" Model="Wolf1" Path="Images/Portraits/Apex/lunar_unicorn.png" Path2="Images/Portraits/Apex/lunar_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPEnt" Model="Pineconette" Path="Images/Portraits/Apex/ancient_ent.png" Path2="Images/Portraits/Apex/ancient_ent.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPBasilisk" Model="Snake" Path="Images/Portraits/Apex/basilisk.png" Path2="Images/Portraits/Apex/basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPWolf" Model="Wolf1" Path="Images/Portraits/Apex/lunar_wolf.png" Path2="Images/Portraits/Apex/lunar_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildGriffin" Model="CrowRoyal" Path="Images/Children/child_griffin.png" Path2="Images/Children/child_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildKirin" Model="Wolf1" Path="Images/Children/child_kirin.png" Path2="Images/Children/child_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildMermaid" Model="HumanWitchF1" Path="Images/Children/child_mermaid.png" Path2="Images/Children/child_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildPhoenix" Model="BeeDragon" Path="Images/Children/child_phoenix.png" Path2="Images/Children/child_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildUnicorn" Model="Wolf1" Path="Images/Children/child_unicorn.png" Path2="Images/Children/child_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildEnt" Model="Pineconette" Path="Images/Children/child_ent.png" Path2="Images/Children/child_ent.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildBasilisk" Model="Snake" Path="Images/Children/child_basilisk.png" Path2="Images/Children/child_basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
-  <IMAGE Name="FCPChildWolf" Model="Wolf1" Path="Images/Children/child_wolf.png" Path2="Images/Children/child_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPGriffin" Model="FCPGriffinMapApex" Path="Images/Portraits/Apex/griffin_celestial.png" Path2="Images/Portraits/Apex/griffin_celestial.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPKirin" Model="FCPKirinMapApex" Path="Images/Portraits/Apex/kirin_ancient.png" Path2="Images/Portraits/Apex/kirin_ancient.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPMermaid" Model="FCPMermaidMapApex" Path="Images/Portraits/Apex/abyssal_mermaid.png" Path2="Images/Portraits/Apex/abyssal_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPPhoenix" Model="FCPPhoenixMapApex" Path="Images/Portraits/Apex/ember_phoenix.png" Path2="Images/Portraits/Apex/ember_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPUnicorn" Model="FCPUnicornMapApex" Path="Images/Portraits/Apex/lunar_unicorn.png" Path2="Images/Portraits/Apex/lunar_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPEnt" Model="FCPEntMapApex" Path="Images/Portraits/Apex/ancient_ent.png" Path2="Images/Portraits/Apex/ancient_ent.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPBasilisk" Model="FCPBasiliskMapApex" Path="Images/Portraits/Apex/basilisk.png" Path2="Images/Portraits/Apex/basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPWolf" Model="FCPWolfMapApex" Path="Images/Portraits/Apex/lunar_wolf.png" Path2="Images/Portraits/Apex/lunar_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildGriffin" Model="FCPGriffinMapChild" Path="Images/Children/child_griffin.png" Path2="Images/Children/child_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildKirin" Model="FCPKirinMapChild" Path="Images/Children/child_kirin.png" Path2="Images/Children/child_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildMermaid" Model="FCPMermaidMapChild" Path="Images/Children/child_mermaid.png" Path2="Images/Children/child_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildPhoenix" Model="FCPPhoenixMapChild" Path="Images/Children/child_phoenix.png" Path2="Images/Children/child_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildUnicorn" Model="FCPUnicornMapChild" Path="Images/Children/child_unicorn.png" Path2="Images/Children/child_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildEnt" Model="FCPEntMapChild" Path="Images/Children/child_ent.png" Path2="Images/Children/child_ent.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildBasilisk" Model="FCPBasiliskMapChild" Path="Images/Children/child_basilisk.png" Path2="Images/Children/child_basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
+  <IMAGE Name="FCPChildWolf" Model="FCPWolfMapChild" Path="Images/Children/child_wolf.png" Path2="Images/Children/child_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
   <IMAGE Name="FCPLineageGriffin" Path="Images/Icons/icon_lineage_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
   <IMAGE Name="FCPLineageKirin" Path="Images/Icons/icon_lineage_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
   <IMAGE Name="FCPLineageMermaid" Path="Images/Icons/icon_lineage_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false"/>
@@ -135,21 +140,21 @@
   <IMAGE Name="Event_Encounter_Young_Ent" Path="Images/Portraits/Young/ent.jpg" MemoryStorage="false" TagMode="false" EventImage="true" />
   <IMAGE Name="Event_Encounter_Young_Basilisk" Path="Images/Portraits/Young/basilisk.jpg" MemoryStorage="false" TagMode="false" EventImage="true" />
   <IMAGE Name="Event_Encounter_Young_Wolf" Path="Images/Portraits/Young/wolf.jpg" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungGriffin" Path="Images/Portraits/Young/griffin.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="CrowRoyal" Path2="Images/Portraits/Young/griffin.jpg" />
+  <IMAGE Name="FCPYoungGriffin" Path="Images/Portraits/Young/griffin.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPGriffinMapYoung" Path2="Images/Portraits/Young/griffin.jpg" />
   <IMAGE Name="Event_Encounter_Child_Griffin" Path="Images/Children/child_griffin.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungKirin" Path="Images/Portraits/Young/kirin.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="Wolf1" Path2="Images/Portraits/Young/kirin.jpg" />
+  <IMAGE Name="FCPYoungKirin" Path="Images/Portraits/Young/kirin.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPKirinMapYoung" Path2="Images/Portraits/Young/kirin.jpg" />
   <IMAGE Name="Event_Encounter_Child_Kirin" Path="Images/Children/child_kirin.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungMermaid" Path="Images/Portraits/Young/mermaid.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="HumanWitchF1" Path2="Images/Portraits/Young/mermaid.jpg" />
+  <IMAGE Name="FCPYoungMermaid" Path="Images/Portraits/Young/mermaid.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPMermaidMapYoung" Path2="Images/Portraits/Young/mermaid.jpg" />
   <IMAGE Name="Event_Encounter_Child_Mermaid" Path="Images/Children/child_mermaid.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungPhoenix" Path="Images/Portraits/Young/phoenix.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="BeeDragon" Path2="Images/Portraits/Young/phoenix.jpg" />
+  <IMAGE Name="FCPYoungPhoenix" Path="Images/Portraits/Young/phoenix.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPPhoenixMapYoung" Path2="Images/Portraits/Young/phoenix.jpg" />
   <IMAGE Name="Event_Encounter_Child_Phoenix" Path="Images/Children/child_phoenix.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungUnicorn" Path="Images/Portraits/Young/unicorn.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="Wolf1" Path2="Images/Portraits/Young/unicorn.jpg" />
+  <IMAGE Name="FCPYoungUnicorn" Path="Images/Portraits/Young/unicorn.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPUnicornMapYoung" Path2="Images/Portraits/Young/unicorn.jpg" />
   <IMAGE Name="Event_Encounter_Child_Unicorn" Path="Images/Children/child_unicorn.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungEnt" Path="Images/Portraits/Young/ent.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="Pineconette" Path2="Images/Portraits/Young/ent.jpg" />
+  <IMAGE Name="FCPYoungEnt" Path="Images/Portraits/Young/ent.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPEntMapYoung" Path2="Images/Portraits/Young/ent.jpg" />
   <IMAGE Name="Event_Encounter_Child_Ent" Path="Images/Children/child_ent.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungBasilisk" Path="Images/Portraits/Young/basilisk.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="Snake" Path2="Images/Portraits/Young/basilisk.jpg" />
+  <IMAGE Name="FCPYoungBasilisk" Path="Images/Portraits/Young/basilisk.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPBasiliskMapYoung" Path2="Images/Portraits/Young/basilisk.jpg" />
   <IMAGE Name="Event_Encounter_Child_Basilisk" Path="Images/Children/child_basilisk.png" MemoryStorage="false" TagMode="false" EventImage="true" />
-  <IMAGE Name="FCPYoungWolf" Path="Images/Portraits/Young/wolf.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="Wolf1" Path2="Images/Portraits/Young/wolf.jpg" />
+  <IMAGE Name="FCPYoungWolf" Path="Images/Portraits/Young/wolf.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="FCPWolfMapYoung" Path2="Images/Portraits/Young/wolf.jpg" />
   <IMAGE Name="Event_Encounter_Child_Wolf" Path="Images/Children/child_wolf.png" MemoryStorage="false" TagMode="false" EventImage="true" />
   <IMAGE Name="Event_Encounter_Lineage_Human" Path="Images/Portraits/Lineages/Child/human.jpg" MemoryStorage="false" TagMode="false" EventImage="true" />
   <IMAGE Name="FCPHalfHumanChildHumanChildMale" Path="Images/Portraits/Lineages/Child/human.jpg" MemoryStorage="true" TagMode="false" EventImage="false" Model="HumanChildMale" Path2="Images/Portraits/Lineages/Child/human.jpg" />
@@ -208,6 +213,30 @@
   <IMAGE Name="FCPSignatureEnt" Path="Images/Icons/Skills/root_grasp.png" MemoryStorage="true" TagMode="false" EventImage="false" />
   <IMAGE Name="FCPSignatureBasilisk" Path="Images/Icons/Skills/petrifying_gaze.png" MemoryStorage="true" TagMode="false" EventImage="false" />
   <IMAGE Name="FCPSignatureWolf" Path="Images/Icons/Skills/moon_howl.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPKirinMapChild" Model="Wolf1" Path="Images/Icons/icon_lineage_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPKirinMapYoung" Model="Wolf1" Path="Images/Icons/icon_lineage_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPKirinMapApex" Model="Wolf1" Path="Images/Icons/icon_lineage_kirin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPGriffinMapChild" Model="Crow" Path="Images/Icons/icon_lineage_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPGriffinMapYoung" Model="Crow" Path="Images/Icons/icon_lineage_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPGriffinMapApex" Model="CrowRoyal" Path="Images/Icons/icon_lineage_griffin.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPMermaidMapChild" Model="Rusalka2" Path="Images/Icons/icon_lineage_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPMermaidMapYoung" Model="Rusalka2" Path="Images/Icons/icon_lineage_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPMermaidMapApex" Model="Rusalka1" Path="Images/Icons/icon_lineage_mermaid.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPPhoenixMapChild" Model="BeeDragon" Path="Images/Icons/icon_lineage_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPPhoenixMapYoung" Model="BeeDragon" Path="Images/Icons/icon_lineage_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPPhoenixMapApex" Model="BeeDragon" Path="Images/Icons/icon_lineage_phoenix.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPUnicornMapChild" Model="Wolf1" Path="Images/Icons/icon_lineage_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPUnicornMapYoung" Model="Wolf1" Path="Images/Icons/icon_lineage_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPUnicornMapApex" Model="Wolf1" Path="Images/Icons/icon_lineage_unicorn.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPEntMapChild" Model="Pineconette" Path="Images/Icons/icon_lineage_ent.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPEntMapYoung" Model="Pineconette" Path="Images/Icons/icon_lineage_ent.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPEntMapApex" Model="Leshy" Path="Images/Icons/icon_lineage_ent.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPBasiliskMapChild" Model="Snake" Path="Images/Icons/icon_lineage_basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPBasiliskMapYoung" Model="Snake2" Path="Images/Icons/icon_lineage_basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPBasiliskMapApex" Model="SnakeRoyal" Path="Images/Icons/icon_lineage_basilisk.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPWolfMapChild" Model="Wolf1" Path="Images/Icons/icon_lineage_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPWolfMapYoung" Model="Wolf2" Path="Images/Icons/icon_lineage_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false" />
+  <IMAGE Name="FCPWolfMapApex" Model="Wolf3" Path="Images/Icons/icon_lineage_wolf.png" MemoryStorage="true" TagMode="false" EventImage="false" />
 </ModInfo>
 
 

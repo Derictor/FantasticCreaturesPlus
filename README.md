@@ -35,6 +35,8 @@ As **64 combinações de mestiços** cruzam as oito espécies fantásticas com a
 
 O retrato de Filhote e o de Jovem são compartilhados por linhagem de origem. No Auge, cada combinação mestiça tem um retrato próprio.
 
+Além dos encontros de cada espécie, o mod permite que adultos de linhagens diferentes tenham descendentes. Cada linhagem distinta transmite uma passiva com vantagens e desvantagens. Um filho de Orc–Anão com Elfo recebe as três passivas, que seguem com ele nas próximas fases e gerações. O retrato representa uma linhagem visível. A lista de passivas mostra toda a ascendência reconhecida pelo mod.
+
 ## Download
 
 - [**Steam Workshop**](https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787) — assine **Criaturas Fantásticas Plus** para usar a versão distribuída pela Steam.

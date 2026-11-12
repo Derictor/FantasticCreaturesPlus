@@ -34,9 +34,17 @@ def main():
             path = image.get(attribute)
             if path:
                 assert (ROOT / path).is_file(), path
+    for species in SPECIES:
+        for stage, prefix in (("Child", "Child"), ("Young", "Young"), ("Apex", "")):
+            portrait = f"FCP{prefix}{species.title()}"
+            alias = f"FCP{species.title()}Map{stage}"
+            assert images[portrait].get("Model") == alias
+            fallback = images[alias].get("Model")
+            assert fallback and fallback not in images, alias
     assert (ROOT / manifest.get("Graphic")).is_file()
     for locale in manifest.findall("LOCALIZATION"):
         assert (ROOT / locale.text).is_file()
+    script_text = "\n".join((ROOT / file.text).read_text(encoding="utf-8") for file in manifest.findall("SCRIPT"))
     story = xml(manifest.findtext("STORY_MODULE"))
     events = unique(story.findall("Adventure"), lambda event: int(event.get("uniqueID")))
     for parent in (story, manifest):
@@ -60,6 +68,9 @@ def main():
                     assert value in mod_records, (record.tag, value)
     for event in events.values():
         for call in event.iter("scriptCallWithTag"):
+            script_name = call.get("scriptName", "")
+            if script_name.startswith(("FRA_FCP_", "FMO_FCP_")):
+                assert f" {script_name}(" in script_text, script_name
             tag = call.get("tag", "")
             if tag.startswith("SUBRACE-FCP_"):
                 assert tag in mod_records, (event.get("name"), tag)
@@ -71,15 +82,16 @@ def main():
     forms = unique(list(databases["DB/Creatures.xml"]) + list(databases["DB/Lineages/Subraces.xml"]), lambda form: form.tag)
     for form in forms.values():
         for sex in ("Male", "Female"):
-            portrait = images[form.find("Graphic" + sex).get("Value")]
-            assert portrait.get("Model"), form.tag
-        assert form.find("DescriptionInfo").get("IconName") in images
+            portrait = form.find("Graphic" + sex).get("Value")
+            if not (form.tag.startswith("SUBRACE-FCP_MIXED_") and form.tag.endswith("_ADULT")):
+                assert images[portrait].get("Model"), form.tag
+        assert form.find("DescriptionInfo").get("IconName") in images or form.tag.startswith("SUBRACE-FCP_MIXED_")
 
     def verify_growth(event, child, young, adult):
         for form, is_child in ((child, True), (young, True), (adult, False)):
             marker = forms[form].find("SecondSubraceAttributes[@Tag='TAG-CHILD']")
             assert (marker is not None) == is_child, form
-        destinations = Counter(call.get("tag") for call in calls(event, "FMO_UpgradeToSubraceNoLevelReset"))
+        destinations = Counter(call.get("tag") for script in ("FMO_UpgradeToSubraceNoLevelReset", "FMO_FCP_GrowLegacyHybrid") for call in calls(event, script))
         assert destinations == Counter([young, adult]), event.get("name")
         portraits = {images[forms[stage].find("GraphicMale").get("Value")].get("Path") for stage in (child, young, adult)}
         assert len(portraits) == 3, event.get("name")
@@ -97,11 +109,29 @@ def main():
             pair = index * len(ORIGINS) + offset
             key = f"SUBRACE-FCP_HALF_{origin}_{species}_"
             birth = events[41 + pair]
-            assert [n.get("tag") for n in calls(birth, "FMO_AddCharacterNoDefaultCargo")] == [key + "CHILD"]
+            assert [n.get("tag") for n in calls(birth, "FMO_FCP_AddFirstGenerationChild")] == [key + "CHILD"]
             filters = calls(birth, "FwT_ThisPlayerThisGroupCharacters")
             assert {adult, "TAG-CHILD"} <= {n.get("tag") for n in filters}
             assert not any("GENDER" in n.get("tag", "") for n in filters)
             verify_growth(events[105 + pair], *(key + stage for stage in STAGES))
+
+    heritage = databases["DB/Lineages/HeritageSubskills.xml"]
+    skills = databases["DB/Lineages/HeritageSkills.xml"]
+    profiles = {sub.tag[len("SUBSKILL-FCP_HERITAGE_"):]: sub for sub in heritage}
+    assert len(profiles) == len(ORIGINS) + len(SPECIES) + 4
+    for name, subskill in profiles.items():
+        skill = skills.find("SKILL-FCP_HERITAGE_" + name)
+        assert skill.find("SkillSubskill").get("Value") == subskill.tag
+        assert skill.find("SkillGroupFilter").get("Value") == "FCP_HEREDITARY"
+        for level in subskill.findall("SubskillAttributesOnLevel"):
+            modifiers = [float(a.get("AttributeFloatValue")) for a in level.findall("SubskillAttribute")]
+            assert any(amount > 0 for amount in modifiers) and any(amount < 0 for amount in modifiers), name
+    for event_id, modifier in [(169, "FMO_FCP_AddMixedChild"), (170, "FMO_FCP_GrowMixed"), (171, "FMO_FCP_RegisterHeritage")]:
+        assert len(calls(events[event_id], modifier)) == 1
+    for origin in ORIGINS:
+        for stage in STAGES:
+            form = forms[f"SUBRACE-FCP_MIXED_{origin}_{stage}"]
+            assert (form.find("SecondSubraceAttributes[@Tag='TAG-CHILD']") is not None) == (stage != "ADULT")
 
     print(f"{len(databases)} databases, {len(images)} image records, {len(forms)} forms, {len(events)} events validated.")
 

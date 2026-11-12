@@ -15,3 +15,19 @@ Use uma campanha descartável ou o editor de eventos do jogo para repetir os res
 | Criança mestiça após os dois contadores | O retrato passa pelas duas fases juvenis e chega à arte própria da combinação no Auge. |
 
 A chance de nascimento é de 1% por avaliação do evento. Cada combinação tem `allowOnce` e limita a dois o número de crianças já presentes no grupo. Para testes manuais de reprodução, rode uma cópia do módulo no editor com chance maior.
+
+## Herança entre gerações
+
+- **Humano + Orc** deve gerar uma criança com `Human Heritage` e `Orc Heritage`. Confira +2 de astúcia e −1 de misticismo da linhagem humana e +2 de força e −1 de inteligência da orc.
+- **Orc–Anão + Elfo** deve gerar uma criança com três passivas, incluindo a proteção física e o custo de movimento anões. As passivas devem continuar após as duas transições e após salvar e recarregar.
+- **Humano–Orc + Humano–Elfo** deve transmitir três linhagens distintas. A contribuição humana aparece uma vez.
+- **Mestiços de saves anteriores** devem receber as passivas quando um evento reconhecer a sub-raça do mod ou os traços raciais conservados pelo jogo base.
+- **Crianças, Jovens e adultos em grupos diferentes** ficam fora da seleção de pais.
+
+
+## Modelos 3D no mapa
+
+- Coloque uma criatura em um grupo pequeno em terra e mova o grupo. O jogo pode mostrar até três membros, conforme o poder. Repita com cada espécie.
+- Compare Filhote, Jovem e Auge. Observe a escala, os chifres do Kirin e do Unicórnio, as asas do Grifo e da Fênix e a crista do Basilisco. Confira também os retratos da ficha.
+- Verifique o movimento das patas dos quadrúpedes e do Ent, o bater de asas do Grifo e da Fênix e o movimento da cauda da Sereia e do Basilisco.
+- O script usa Harmony quando a biblioteca está disponível na instalação. Se o carregador ou um modelo falhar, o jogo usa o modelo nativo de reserva daquela fase. Procure por [FCP] no log para distinguir os casos.

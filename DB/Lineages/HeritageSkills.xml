@@ -1,0 +1,152 @@
+<SKILLS_1_NATURAL>
+  <SKILL-FCP_HERITAGE_HUMAN Rarity="0">
+    <DescriptionInfo Name="Human Heritage" Description="DES_FCP_HERITAGE_HUMAN" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_HUMAN" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_HUMAN>
+  <SKILL-FCP_HERITAGE_ELF Rarity="0">
+    <DescriptionInfo Name="Elven Heritage" Description="DES_FCP_HERITAGE_ELF" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_ELF" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_ELF>
+  <SKILL-FCP_HERITAGE_ORC Rarity="0">
+    <DescriptionInfo Name="Orc Heritage" Description="DES_FCP_HERITAGE_ORC" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_ORC" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_ORC>
+  <SKILL-FCP_HERITAGE_DWARF Rarity="0">
+    <DescriptionInfo Name="Dwarven Heritage" Description="DES_FCP_HERITAGE_DWARF" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_DWARF" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_DWARF>
+  <SKILL-FCP_HERITAGE_GOBLIN Rarity="0">
+    <DescriptionInfo Name="Goblin Heritage" Description="DES_FCP_HERITAGE_GOBLIN" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_GOBLIN" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_GOBLIN>
+  <SKILL-FCP_HERITAGE_SHADOWELF Rarity="0">
+    <DescriptionInfo Name="Shadow Elf Heritage" Description="DES_FCP_HERITAGE_SHADOWELF" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_SHADOWELF" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_SHADOWELF>
+  <SKILL-FCP_HERITAGE_DEMON Rarity="0">
+    <DescriptionInfo Name="Demonic Heritage" Description="DES_FCP_HERITAGE_DEMON" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_DEMON" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_DEMON>
+  <SKILL-FCP_HERITAGE_BEAST Rarity="0">
+    <DescriptionInfo Name="Beast Heritage" Description="DES_FCP_HERITAGE_BEAST" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_BEAST" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_BEAST>
+  <SKILL-FCP_HERITAGE_PIRATES Rarity="0">
+    <DescriptionInfo Name="Pirate Orc Heritage" Description="DES_FCP_HERITAGE_PIRATES" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_PIRATES" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_PIRATES>
+  <SKILL-FCP_HERITAGE_GNOLL Rarity="0">
+    <DescriptionInfo Name="Gnoll Heritage" Description="DES_FCP_HERITAGE_GNOLL" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_GNOLL" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_GNOLL>
+  <SKILL-FCP_HERITAGE_UNLIVING Rarity="0">
+    <DescriptionInfo Name="Unliving Heritage" Description="DES_FCP_HERITAGE_UNLIVING" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_UNLIVING" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_UNLIVING>
+  <SKILL-FCP_HERITAGE_MYTHICAL Rarity="0">
+    <DescriptionInfo Name="Mythical Heritage" Description="DES_FCP_HERITAGE_MYTHICAL" IconName="ClassMythical" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_MYTHICAL" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_MYTHICAL>
+  <SKILL-FCP_HERITAGE_GRIFFIN Rarity="0">
+    <DescriptionInfo Name="Griffin Heritage" Description="DES_FCP_HERITAGE_GRIFFIN" IconName="FCPLineageGriffin" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_GRIFFIN" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_GRIFFIN>
+  <SKILL-FCP_HERITAGE_KIRIN Rarity="0">
+    <DescriptionInfo Name="Kirin Heritage" Description="DES_FCP_HERITAGE_KIRIN" IconName="FCPLineageKirin" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_KIRIN" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_KIRIN>
+  <SKILL-FCP_HERITAGE_MERMAID Rarity="0">
+    <DescriptionInfo Name="Mermaid Heritage" Description="DES_FCP_HERITAGE_MERMAID" IconName="FCPLineageMermaid" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_MERMAID" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_MERMAID>
+  <SKILL-FCP_HERITAGE_PHOENIX Rarity="0">
+    <DescriptionInfo Name="Phoenix Heritage" Description="DES_FCP_HERITAGE_PHOENIX" IconName="FCPLineagePhoenix" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_PHOENIX" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_PHOENIX>
+  <SKILL-FCP_HERITAGE_UNICORN Rarity="0">
+    <DescriptionInfo Name="Unicorn Heritage" Description="DES_FCP_HERITAGE_UNICORN" IconName="FCPLineageUnicorn" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_UNICORN" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_UNICORN>
+  <SKILL-FCP_HERITAGE_ENT Rarity="0">
+    <DescriptionInfo Name="Ent Heritage" Description="DES_FCP_HERITAGE_ENT" IconName="FCPLineageEnt" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_ENT" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_ENT>
+  <SKILL-FCP_HERITAGE_BASILISK Rarity="0">
+    <DescriptionInfo Name="Basilisk Heritage" Description="DES_FCP_HERITAGE_BASILISK" IconName="FCPLineageBasilisk" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_BASILISK" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_BASILISK>
+  <SKILL-FCP_HERITAGE_WOLF Rarity="0">
+    <DescriptionInfo Name="Lunar Wolf Heritage" Description="DES_FCP_HERITAGE_WOLF" IconName="FCPLineageWolf" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FCP_HERITAGE_WOLF" />
+    <SkillGroupFilter Value="FCP_HEREDITARY" />
+  </SKILL-FCP_HERITAGE_WOLF>
+  <SKILL-FCP_MIXED_CHILD_GROW_UP Rarity="0">
+    <DescriptionInfo Name="Growing Up" Description="DES_FCP_MIXED_CHILD_GROW_UP" IconName="SkillChildrenGrowUp" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <ChargesCounter>
+      <ChargesCount MinimumCount="25" MaximumCount="45" />
+      <ChargesTrigger Priority="0" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+        <TriggerGroup Value="OnEndTurn" />
+        <TriggerScript ScriptName="" />
+      </ChargesTrigger>
+      <Script ScriptName="Deg_SimpleCountdown" />
+      <FinalScript ScriptName="WActA_GrowUp" />
+    </ChargesCounter>
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
+    <SkillGroupFilter Value="FCP_MIXED_GROWTH" />
+  </SKILL-FCP_MIXED_CHILD_GROW_UP>
+  <SKILL-FCP_MIXED_YOUNG_GROW_UP Rarity="0">
+    <DescriptionInfo Name="Growing Up" Description="DES_FCP_MIXED_YOUNG_GROW_UP" IconName="SkillChildrenGrowUp" />
+    <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
+    <ChargesCounter>
+      <ChargesCount MinimumCount="25" MaximumCount="45" />
+      <ChargesTrigger Priority="0" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+        <TriggerGroup Value="OnEndTurn" />
+        <TriggerScript ScriptName="" />
+      </ChargesTrigger>
+      <Script ScriptName="Deg_SimpleCountdown" />
+      <FinalScript ScriptName="WActA_GrowUp" />
+    </ChargesCounter>
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
+    <SkillGroupFilter Value="FCP_MIXED_GROWTH" />
+  </SKILL-FCP_MIXED_YOUNG_GROW_UP>
+</SKILLS_1_NATURAL>

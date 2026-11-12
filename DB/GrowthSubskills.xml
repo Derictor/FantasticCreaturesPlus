@@ -10,7 +10,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_AttributeChange" />
+    <Activation ScriptName="WAct_FCP_MapAttributes" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
     </SubskillAttributesOnLevel>
