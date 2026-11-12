@@ -5,7 +5,7 @@
   <p>Encontre, dome e recrute oito criaturas míticas. Acompanhe o crescimento de cada espécie e descubra suas linhagens mestiças.</p>
   <p>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787"><img src="https://img.shields.io/badge/Steam_Workshop-Assinar-1b2838?style=for-the-badge" alt="Assinar no Steam Workshop"></a>
-    <a href="https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/GitHub-Baixar_ZIP-24292f?style=for-the-badge" alt="Baixar o ZIP do GitHub"></a>
+    <a href="https://github.com/Derictor/FantasticCreaturesPlus/releases/latest/download/FantasticCreaturesPlus.zip"><img src="https://img.shields.io/badge/GitHub-Baixar_ZIP-24292f?style=for-the-badge" alt="Baixar o ZIP do GitHub"></a>
     <a href="https://github.com/Derictor/FantasticCreaturesPlus/issues"><img src="https://img.shields.io/badge/GitHub-Suporte-2f6d4c?style=for-the-badge" alt="Abrir a página de suporte no GitHub"></a>
   </p>
   <p><a href="#como-jogar">Como jogar</a> · <a href="#instalação">Instalação</a> · <a href="#compatibilidade-e-suporte">Compatibilidade e suporte</a> · <a href="#arquivos-do-projeto">Arquivos do projeto</a></p>
@@ -40,7 +40,7 @@ Além dos encontros de cada espécie, o mod permite que adultos de linhagens dif
 ## Download
 
 - [**Steam Workshop**](https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787) — assine **Criaturas Fantásticas Plus** para usar a versão distribuída pela Steam.
-- [**ZIP do GitHub**](https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip) — baixe o conteúdo da branch padrão para instalação manual. As atualizações do GitHub e do Workshop são distribuídas separadamente.
+- [**ZIP do GitHub**](https://github.com/Derictor/FantasticCreaturesPlus/releases/latest/download/FantasticCreaturesPlus.zip) — baixe o mod pronto para instalar a partir da release mais recente. As atualizações do GitHub e do Workshop são distribuídas separadamente.
 
 ## Instalação
 
@@ -51,8 +51,8 @@ Além dos encontros de cada espécie, o mod permite que adultos de linhagens dif
 
 ### Instalação manual
 
-1. Feche o jogo e [baixe o ZIP do GitHub](https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip).
-2. Extraia a pasta `FantasticCreaturesPlus-main` e renomeie-a para `FantasticCreaturesPlus`.
+1. Feche o jogo e [baixe o ZIP da última release](https://github.com/Derictor/FantasticCreaturesPlus/releases/latest/download/FantasticCreaturesPlus.zip).
+2. Extraia a pasta `FantasticCreaturesPlus` do ZIP.
 3. Na biblioteca Steam, abra **Propriedades → Arquivos instalados → Explorar**. Coloque a pasta extraída em `Thea2_Data/StreamingAssets/Mods/`.
 4. Confirme que `info.txt` está no local abaixo. Abra o jogo e habilite **Fantastic Creatures Plus** no menu **Mods**.
 
