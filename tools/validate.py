@@ -91,7 +91,9 @@ def main():
         for form, is_child in ((child, True), (young, True), (adult, False)):
             marker = forms[form].find("SecondSubraceAttributes[@Tag='TAG-CHILD']")
             assert (marker is not None) == is_child, form
-        destinations = Counter(call.get("tag") for script in ("FMO_UpgradeToSubraceNoLevelReset", "FMO_FCP_GrowLegacyHybrid") for call in calls(event, script))
+        destinations = Counter(call.get("tag") for call in calls(event, "FMO_FCP_GrowCreature"))
+        assert calls(event, "FwT_ThisPlayerThisGroupCharacters"), event.get("name")
+        assert not calls(event, "FwT_AllPlayersAllGroupsCharacters"), event.get("name")
         assert destinations == Counter([young, adult]), event.get("name")
         portraits = {images[forms[stage].find("GraphicMale").get("Value")].get("Path") for stage in (child, young, adult)}
         assert len(portraits) == 3, event.get("name")
@@ -100,11 +102,12 @@ def main():
         adult = "SUBRACE-FCP_" + species
         child = "SUBRACE-FCP_CHILD_" + species
         young = "SUBRACE-FCP_YOUNG_" + species
-        assert Counter(n.get("tag") for n in calls(events[1 + index], "FMO_AddCharacter")) == Counter({adult: 2})
-        assert len(calls(events[1 + index], "FMO_AddItems")) == 1
-        assert Counter(n.get("tag") for n in calls(events[9 + index], "FMO_AddCharacterNoDefaultCargo")) == Counter({child: 2})
-        assert Counter(n.get("tag") for n in calls(events[25 + index], "FMO_AddCharacterNoDefaultCargo")) == Counter({young: 2})
+        assert Counter(n.get("tag") for n in calls(events[1 + index], "FMO_FCP_RecruitWithCargo")) == Counter({adult: 2})
+        assert len(calls(events[1 + index], "FMO_FCP_RewardPet")) == 1
+        assert Counter(n.get("tag") for n in calls(events[9 + index], "FMO_FCP_Recruit")) == Counter({child: 2})
+        assert Counter(n.get("tag") for n in calls(events[25 + index], "FMO_FCP_Recruit")) == Counter({young: 2})
         verify_growth(events[17 + index], child, young, adult)
+        assert [n.get("tag") for n in calls(events[33 + index], "FMO_FCP_Recruit")] == [child]
         for offset, origin in enumerate(ORIGINS):
             pair = index * len(ORIGINS) + offset
             key = f"SUBRACE-FCP_HALF_{origin}_{species}_"

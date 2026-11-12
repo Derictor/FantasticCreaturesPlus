@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Fantastic Creatures Plus" Graphic="preview.jpg" Visibility="2" lastEventIndex="171">
   <SCRIPT>Scripts/Inheritance.cs</SCRIPT>
+  <SCRIPT>Scripts/EncounterRewards.cs</SCRIPT>
   <SCRIPT>Scripts/CreatureMap.cs</SCRIPT>
   <STORY_MODULE>Events.xml</STORY_MODULE>
   <LOCALIZATION>Localization/Events.txt</LOCALIZATION>

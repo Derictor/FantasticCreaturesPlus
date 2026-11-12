@@ -31,3 +31,11 @@ A chance de nascimento é de 1% por avaliação do evento. Cada combinação tem
 - Compare Filhote, Jovem e Auge. Observe a escala, os chifres do Kirin e do Unicórnio, as asas do Grifo e da Fênix e a crista do Basilisco. Confira também os retratos da ficha.
 - Verifique o movimento das patas dos quadrúpedes e do Ent, o bater de asas do Grifo e da Fênix e o movimento da cauda da Sereia e do Basilisco.
 - O script usa Harmony quando a biblioteca está disponível na instalação. Se o carregador ou um modelo falhar, o jogo usa o modelo nativo de reserva daquela fase. Procure por [FCP] no log para distinguir os casos.
+
+
+## Cooperativo com anfitrião e convidado
+
+1. Em dois computadores, use a mesma versão do jogo, do mod e dos demais mods ativos, na mesma ordem. Abra uma campanha de teste e confirme que ambos entram na sala.
+2. O convidado inicia um encontro com um adulto. O anfitrião participa do desafio como aliado. Repita com o anfitrião iniciando e compare as rotas de recrutar e de levar um pet. A recompensa deve cair apenas no grupo que iniciou.
+3. Coloque filhotes ou jovens em grupos de ambos os jogadores. Quando os cronômetros vencerem, confira as transições e os traços hereditários de cada grupo. Adultos de grupos diferentes não devem formar pares.
+4. Confirme que anfitrião e convidado veem os mesmos modelos nativos no mapa. Salve, feche a sala, carregue a campanha e reconecte o convidado.

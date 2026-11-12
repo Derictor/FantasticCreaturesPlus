@@ -71,6 +71,12 @@ Além dos encontros de cada espécie, o mod permite que adultos de linhagens dif
 
 Para atualizar a instalação manual, feche o jogo e substitua a pasta do mod pela nova cópia. Habilite apenas uma instalação do mod por vez.
 
+## Cooperativo
+
+Todos os jogadores devem instalar a mesma versão do mod, ativar a mesma lista de mods na mesma ordem e reiniciar o jogo antes de entrar na sala. Use a mesma versão do Thea 2 em todos os computadores.
+
+Aliados podem participar dos encontros. O personagem ou pet conquistado entra no grupo que iniciou o encontro. Nascimentos e crescimento são processados para o grupo correspondente. No mapa online, todos usam os modelos nativos associados às criaturas. O 3D procedural fica disponível no modo solo com Harmony.
+
 ## Compatibilidade e suporte
 
 A versão de referência é a edição **Steam para Windows**. A inicialização chegou ao menu principal. O [roteiro de testes](docs/PLAYTEST.md) lista os cenários de campanha a verificar, incluindo nascimentos, recompensas de pets e preservação de equipamento no crescimento.

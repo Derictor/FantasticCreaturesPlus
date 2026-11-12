@@ -95,7 +95,7 @@ namespace GameScript
             }
         }
 
-        public static void FMO_FCP_GrowLegacyHybrid(NOAdventureStatus status, AdventureEventData data, LogicModifier modifier, AdvNode node)
+        public static void FMO_FCP_GrowCreature(NOAdventureStatus status, AdventureEventData data, LogicModifier modifier, AdvNode node)
         {
             foreach (Character character in CharactersInList(data, node, modifier.list))
                 Grow(data, character, modifier.scriptCallWithTag.tag);
@@ -179,14 +179,15 @@ namespace GameScript
 
         private static IEnumerable<Character> CharactersInList(AdventureEventData data, AdvNode node, string name)
         {
+            var group = data.GetMainPlayerGroup();
             var list = data.GetList(name, node);
-            if (list == null)
+            if (group == null || list == null)
                 yield break;
 
             foreach (var key in list.GetList())
             {
                 var character = list.GetItem(key).item as Character;
-                if (character != null)
+                if (character != null && character.group.Get() == group)
                     yield return character;
             }
         }
@@ -259,7 +260,7 @@ namespace GameScript
             if (heritages.Count < 2)
                 return;
 
-            foreach (string heritage in heritages)
+            foreach (string heritage in heritages.OrderBy(value => value, StringComparer.Ordinal))
             {
                 var skill = Globals.GetInstanceFromDB<Skill>(TraitPrefix + heritage);
                 if (skill == null)
@@ -304,6 +305,9 @@ namespace GameScript
             var change = new AdventureEventDataChange();
             change.GatherReferenceInfo(character);
             change.count = 1;
+            var group = character.group.Get();
+            if (group != null)
+                change.playerID = group.ownerID;
             data.AddUncollectedAdventureChange(change);
         }
     }

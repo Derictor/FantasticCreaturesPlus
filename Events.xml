@@ -47,7 +47,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -56,7 +56,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_CROW" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_CROW" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -75,7 +75,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -133,7 +133,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -142,7 +142,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_GOAT" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_GOAT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -161,7 +161,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -219,7 +219,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -228,7 +228,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_CRAB" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_CRAB" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -247,7 +247,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -305,7 +305,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -314,7 +314,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_COCKATRICE" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_COCKATRICE" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -333,7 +333,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -391,7 +391,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -400,7 +400,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_HORSE" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_HORSE" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -419,7 +419,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -477,7 +477,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -486,7 +486,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_DOG" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_DOG" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -505,7 +505,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -563,7 +563,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -572,7 +572,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-STRONG_ONE_PET_SERPENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-STRONG_ONE_PET_SERPENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -591,7 +591,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -649,7 +649,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -658,7 +658,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_RewardPet" parameter="1" tag="ITEM_CARGO-WEAK_ONE_PET_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -677,7 +677,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacter" parameter="1" tag="SUBRACE-FCP_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_RecruitWithCargo" parameter="1" tag="SUBRACE-FCP_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -732,7 +732,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -751,7 +751,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -806,7 +806,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -825,7 +825,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -880,7 +880,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -899,7 +899,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -954,7 +954,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -973,7 +973,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1028,7 +1028,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1047,7 +1047,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1102,7 +1102,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1121,7 +1121,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1176,7 +1176,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1195,7 +1195,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1250,7 +1250,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1269,7 +1269,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_CHILD_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1284,13 +1284,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_GRIFFIN" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1312,10 +1312,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1327,13 +1327,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_KIRIN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_KIRIN" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_KIRIN" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1355,10 +1355,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_KIRIN" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1370,13 +1370,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_MERMAID" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_MERMAID" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_MERMAID" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1398,10 +1398,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_MERMAID" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1413,13 +1413,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_PHOENIX" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_PHOENIX" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1441,10 +1441,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1456,13 +1456,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_UNICORN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_UNICORN" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_UNICORN" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1484,10 +1484,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_UNICORN" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1499,13 +1499,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_ENT" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_ENT" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_ENT" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_ENT" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1527,10 +1527,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_ENT" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1542,13 +1542,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_BASILISK" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_BASILISK" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_BASILISK" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1570,10 +1570,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_BASILISK" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1585,13 +1585,13 @@
       <logic>
         <FilterBlock>
           <LogicFilter name="growing" makePublic="true">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-GROWING_UP" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" parameter="1" tag="TAG-GROWING_UP" />
           </LogicFilter>
           <LogicFilter name="child">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_CHILD_WOLF" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_CHILD_WOLF" />
           </LogicFilter>
           <LogicFilter name="young">
-            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" tag="SUBRACE-FCP_YOUNG_WOLF" />
+            <scriptCallWithTag scriptName="FwT_ThisPlayerThisGroupCharacters" tag="SUBRACE-FCP_YOUNG_WOLF" />
           </LogicFilter>
           <LogicProcessing name="readyChild" makePublic="true" list1="growing" list2="child">
             <scriptCallWithTag scriptName="FLP_AandB" />
@@ -1613,10 +1613,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_YOUNG_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_YOUNG_WOLF" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_UpgradeToSubraceNoLevelReset" tag="SUBRACE-FCP_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1668,7 +1668,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1687,7 +1687,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_GRIFFIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1743,7 +1743,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1762,7 +1762,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_KIRIN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_KIRIN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1818,7 +1818,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1837,7 +1837,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_MERMAID" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_MERMAID" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1893,7 +1893,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1912,7 +1912,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_PHOENIX" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1968,7 +1968,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -1987,7 +1987,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_UNICORN" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_UNICORN" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2043,7 +2043,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2062,7 +2062,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_ENT" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_ENT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2118,7 +2118,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2137,7 +2137,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_BASILISK" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_BASILISK" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2193,7 +2193,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2212,7 +2212,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers>
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" parameter="1" tag="SUBRACE-FCP_YOUNG_WOLF" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" parameter="1" tag="SUBRACE-FCP_YOUNG_WOLF" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2253,7 +2253,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_GRIFFIN" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_GRIFFIN" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2290,7 +2290,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_KIRIN" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_KIRIN" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2327,7 +2327,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_MERMAID" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_MERMAID" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2364,7 +2364,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_PHOENIX" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_PHOENIX" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2401,7 +2401,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_UNICORN" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_UNICORN" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2438,7 +2438,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_ENT" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_ENT" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2475,7 +2475,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_BASILISK" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_BASILISK" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -2512,7 +2512,7 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="adultMythic">
-            <scriptCallWithTag scriptName="FMO_AddCharacterNoDefaultCargo" tag="SUBRACE-FCP_CHILD_WOLF" parameter="1" />
+            <scriptCallWithTag scriptName="FMO_FCP_Recruit" tag="SUBRACE-FCP_CHILD_WOLF" parameter="1" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5736,10 +5736,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5779,10 +5779,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5822,10 +5822,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5865,10 +5865,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5908,10 +5908,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5951,10 +5951,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -5994,10 +5994,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6037,10 +6037,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_GRIFFIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_GRIFFIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_GRIFFIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_GRIFFIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6080,10 +6080,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6123,10 +6123,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6166,10 +6166,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6209,10 +6209,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6252,10 +6252,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6295,10 +6295,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6338,10 +6338,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6381,10 +6381,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_KIRIN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_KIRIN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_KIRIN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_KIRIN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6424,10 +6424,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6467,10 +6467,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6510,10 +6510,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6553,10 +6553,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6596,10 +6596,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6639,10 +6639,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6682,10 +6682,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6725,10 +6725,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_MERMAID_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_MERMAID_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_MERMAID_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_MERMAID_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6768,10 +6768,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6811,10 +6811,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6854,10 +6854,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6897,10 +6897,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6940,10 +6940,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -6983,10 +6983,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7026,10 +7026,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7069,10 +7069,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_PHOENIX_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_PHOENIX_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_PHOENIX_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_PHOENIX_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7112,10 +7112,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7155,10 +7155,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7198,10 +7198,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7241,10 +7241,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7284,10 +7284,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7327,10 +7327,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7370,10 +7370,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7413,10 +7413,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_UNICORN_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_UNICORN_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_UNICORN_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_UNICORN_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7456,10 +7456,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7499,10 +7499,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7542,10 +7542,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7585,10 +7585,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7628,10 +7628,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7671,10 +7671,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7714,10 +7714,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7757,10 +7757,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_ENT_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_ENT_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_ENT_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_ENT_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7800,10 +7800,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7843,10 +7843,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7886,10 +7886,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7929,10 +7929,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -7972,10 +7972,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8015,10 +8015,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8058,10 +8058,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8101,10 +8101,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_BASILISK_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_BASILISK_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_BASILISK_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_BASILISK_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8144,10 +8144,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_HUMAN_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_HUMAN_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8187,10 +8187,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ELF_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ELF_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8230,10 +8230,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_ORC_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_ORC_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8273,10 +8273,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DWARF_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DWARF_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8316,10 +8316,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_GOBLIN_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_GOBLIN_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8359,10 +8359,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_SHADOWELF_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_SHADOWELF_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8402,10 +8402,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_DEMON_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_DEMON_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>
@@ -8445,10 +8445,10 @@
       <logic>
         <ModifierBlock>
           <LogicModifiers list="readyChild">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_WOLF_YOUNG" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_WOLF_YOUNG" />
           </LogicModifiers>
           <LogicModifiers list="readyYoung">
-            <scriptCallWithTag scriptName="FMO_FCP_GrowLegacyHybrid" tag="SUBRACE-FCP_HALF_BEAST_WOLF_ADULT" />
+            <scriptCallWithTag scriptName="FMO_FCP_GrowCreature" tag="SUBRACE-FCP_HALF_BEAST_WOLF_ADULT" />
           </LogicModifiers>
         </ModifierBlock>
       </logic>

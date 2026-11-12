@@ -27,9 +27,17 @@ namespace GameScript
             Dictionary<Tag, FInt> addons, Dictionary<Tag, float> multipliers, long changeID,
             List<Multitype<long, Tag, FInt, bool>> changeLog, Character character)
         {
-            InstallPatch();
+            if (UseProceduralModels())
+                InstallPatch();
             return Globals.CallFunction("WAct_AttributeChange", skillAttributes, addons, multipliers,
                 changeID, changeLog, character);
+        }
+
+        private static bool UseProceduralModels()
+        {
+            // The patch is installed through a server-side passive, so guests
+            // cannot rely on it. Use the same native assets on both online peers.
+            return NetworkManager.instance != null && NetworkManager.IsOfflineMode();
         }
 
         private static void InstallPatch()
@@ -72,7 +80,7 @@ namespace GameScript
         private static bool CreatureAssetPrefix(string name, ref GameObject __result)
         {
             int index = Array.IndexOf(ModelNames, name);
-            if (index < 0 || ModelFailed[index])
+            if (index < 0 || !UseProceduralModels() || ModelFailed[index])
                 return true;
 
             if (Templates[index] == null)
