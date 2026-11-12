@@ -1,0 +1,62 @@
+name: Auto Release
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/**'
+      - 'docs/**'
+      - 'tools/**'
+      - 'README.md'
+      - '.gitignore'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Compute version
+        id: version
+        run: |
+          count=$(git rev-list --count HEAD)
+          short=$(git rev-parse --short HEAD)
+          tag="v1.0.${count}"
+          if git ls-remote --tags origin "refs/tags/${tag}" | grep -q "refs/tags/${tag}$"; then
+            tag="${tag}-${short}"
+          fi
+          echo "tag=${tag}" >> "$GITHUB_OUTPUT"
+
+      - name: Package installable mod
+        run: |
+          staging="${RUNNER_TEMP}/FantasticCreaturesPlus"
+          mkdir -p "$staging"
+          rsync -a --exclude='.git/' --exclude='.github/' --exclude='docs/' --exclude='tools/' --exclude='README.md' --exclude='.gitignore' ./ "$staging/"
+          cd "$RUNNER_TEMP"
+          zip -qr FantasticCreaturesPlus.zip FantasticCreaturesPlus
+          unzip -l FantasticCreaturesPlus.zip
+          test "$(unzip -l FantasticCreaturesPlus.zip | grep -c 'FantasticCreaturesPlus/info.txt')" -eq 1
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          gh release create "$TAG" \
+            "${RUNNER_TEMP}/FantasticCreaturesPlus.zip" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Fantastic Creatures Plus $TAG" \
+            --generate-notes \
+            --latest
