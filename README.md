@@ -1,46 +1,95 @@
-# Fantastic Creatures Plus
+<div align="center">
+  <img src="docs/media/capa.png" alt="Capa do Fantastic Creatures Plus" width="720">
+  <h1>Fantastic Creatures Plus</h1>
+  <p><strong>Criaturas Fantásticas Plus · Mod para Thea 2: The Shattering</strong></p>
+  <p>Encontre, dome e recrute oito criaturas míticas. Acompanhe o crescimento de cada espécie e descubra suas linhagens mestiças.</p>
+  <p>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787"><img src="https://img.shields.io/badge/Steam_Workshop-Assinar-1b2838?style=for-the-badge" alt="Assinar no Steam Workshop"></a>
+    <a href="https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/GitHub-Baixar_ZIP-24292f?style=for-the-badge" alt="Baixar o ZIP do GitHub"></a>
+    <a href="https://github.com/Derictor/FantasticCreaturesPlus/issues"><img src="https://img.shields.io/badge/GitHub-Suporte-2f6d4c?style=for-the-badge" alt="Abrir a página de suporte no GitHub"></a>
+  </p>
+  <p><a href="#como-jogar">Como jogar</a> · <a href="#instalação">Instalação</a> · <a href="#compatibilidade-e-suporte">Compatibilidade e suporte</a> · <a href="#arquivos-do-projeto">Arquivos do projeto</a></p>
+</div>
 
-![Capa do Fantastic Creatures Plus](FantasticCreaturesPlus_Capa.png)
+## Sobre o mod
 
-Mod de **Thea 2: The Shattering** que adiciona oito criaturas míticas, encontros no mapa, armas temáticas e descendência de linhagens mistas. Os nomes de personagens e habilidades são em inglês. Os textos dos encontros e as descrições do mod são em português do Brasil.
+Grifo, Kirin, Sereia, Fênix, Unicórnio, Ent, Basilisco e Lobo Lunar podem ser encontrados e recrutados durante a campanha. Cada espécie tem encontros, retratos e habilidades próprios. Os nomes de personagens e habilidades aparecem em inglês, com textos de encontros e descrições do mod em português brasileiro.
 
 ## Como jogar
 
-| Conteúdo | Como obter |
+| O que você procura | Como obter |
 | --- | --- |
-| **Filhote** | Vença Domar ou Recrutar em um encontro de filhote. Algumas cartas iniciais também concedem filhotes. |
-| **Jovem** | Recrute em um encontro de Jovem ou acompanhe o primeiro crescimento. |
-| **Adulto / Auge** | Recrute no encontro adulto ou acompanhe o segundo crescimento. Adultos recrutados em encontros recebem o equipamento padrão da espécie. |
-| **Pet equipável** | Vença Domar no encontro adulto e escolha levar o pet associado ao encontro. |
-| **Mestiço** | Mantenha no mesmo grupo um adulto de uma espécie fantástica e um adulto de uma linhagem compatível. O evento raro acolhe a criança no grupo. |
+| **Filhote** | Vença **Domar** ou **Recrutar** em um encontro de filhote. Algumas cartas iniciais também concedem filhotes. |
+| **Jovem** | Vença **Domar** ou **Recrutar** em um encontro de Jovem, ou acompanhe o primeiro crescimento do Filhote. |
+| **Adulto / Auge** | Recrute um adulto em um encontro ou acompanhe o segundo crescimento. Adultos recrutados nos encontros recebem o equipamento padrão da espécie. |
+| **Pet equipável** | Vença **Domar** em um encontro adulto e escolha **Levar um pet**. O pet entra no inventário. |
+| **Mestiço** | Mantenha um adulto fantástico e um adulto de uma linhagem compatível no mesmo grupo. Um evento raro pode conceder a criança. |
 
-As oito espécies são Grifo, Kirin, Sereia, Fênix, Unicórnio, Ent, Basilisco e Lobo Lunar. Cada fase juvenil tem um contador de **25–45 turnos** e um retrato próprio. Os Jovens desbloqueiam uma habilidade ativa e um despertar passivo. O Auge libera as habilidades de assinatura da espécie.
+### Crescimento
 
-As 64 combinações de mestiços cobrem as oito espécies fantásticas e as linhagens humana, élfica, orc, anã, goblin, élfica sombria, demoníaca e bestial. A origem familiar define o retrato das fases juvenis. Cada combinação tem seu próprio retrato no Auge.
+Cada etapa juvenil tem um contador de **25–45 turnos**. O Filhote começa com um bônus passivo leve. O Jovem ganha uma habilidade ativa e uma passiva de despertar. No Auge, a criatura libera as habilidades de assinatura, como o Mergulho Celestial do Grifo e o Olhar Petrificante do Basilisco.
 
-Os eventos do mod de nascimento aceitam adultos de qualquer sexo no mesmo grupo. Cada combinação pode acontecer uma vez e exige no máximo duas crianças no grupo. Filhotes e Jovens são excluídos dos pares. Duas criaturas adultas da mesma espécie fantástica também podem gerar um filhote da espécie.
+### Descendência
 
-## Instalação manual
+As **64 combinações de mestiços** cruzam as oito espécies fantásticas com as linhagens humana, élfica, orc, anã, goblin, élfica sombria, demoníaca e bestial. Os eventos aceitam pares adultos de qualquer sexo. Cada combinação pode ocorrer uma vez e exige que o grupo tenha até duas crianças. Dois adultos da mesma espécie fantástica também podem gerar um filhote dessa espécie.
 
-1. Baixe a branch `main` pelo botão **Code → Download ZIP** no GitHub.
-2. Extraia a pasta e renomeie-a para `FantasticCreaturesPlus`.
-3. Coloque-a em `Thea2_Data/StreamingAssets/Mods/` na instalação do jogo. O arquivo `info.txt` deve ficar diretamente dentro de `Mods/FantasticCreaturesPlus/`.
-4. Ative **Fantastic Creatures Plus** no menu de mods do jogo.
+O retrato de Filhote e o de Jovem são compartilhados por linhagem de origem. No Auge, cada combinação mestiça tem um retrato próprio.
 
-Se você tiver uma instalação local e outra pelo Workshop, habilite uma cópia por vez. O identificador local `modid.txt` é gerenciado pelo jogo.
+## Download
 
-## Estrutura do projeto
+- [**Steam Workshop**](https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787) — assine **Criaturas Fantásticas Plus** para usar a versão distribuída pela Steam.
+- [**ZIP do GitHub**](https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip) — baixe o conteúdo da branch padrão para instalação manual. As atualizações do GitHub e do Workshop são distribuídas separadamente.
 
-| Caminho | Conteúdo |
-| --- | --- |
-| [`info.txt`](info.txt) | Manifesto, bancos registrados e imagens. |
-| [`Events.xml`](Events.xml) | Encontros, nascimentos e crescimento. |
-| [`DB/`](DB/) | Raças, grupos, assentamentos, habilidades, cartas e equipamento. |
-| [`DB/Lineages/`](DB/Lineages/) | As três fases dos mestiços, seus nomes e suas descrições. |
-| [`Images/`](Images/) | Arte dos encontros, ícones e retratos organizados por fase. |
-| [`Localization/`](Localization/) | Textos PT-BR do módulo. |
-| [`docs/`](docs/) | Roteiro de teste e notas de manutenção. |
+## Instalação
 
-## Verificação
+### Steam Workshop
 
-Execute `python tools/validate.py` na raiz para conferir o manifesto, os recursos e as referências dos eventos. A [lista de testes em partida](docs/PLAYTEST.md) cobre crescimento, recrutamento, pets e descendência.
+1. Assine o item no [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838490787).
+2. Abra **Thea 2: The Shattering**, entre em **Mods** e habilite **Fantastic Creatures Plus**.
+
+### Instalação manual
+
+1. Feche o jogo e [baixe o ZIP do GitHub](https://github.com/Derictor/FantasticCreaturesPlus/archive/refs/heads/main.zip).
+2. Extraia a pasta `FantasticCreaturesPlus-main` e renomeie-a para `FantasticCreaturesPlus`.
+3. Na biblioteca Steam, abra **Propriedades → Arquivos instalados → Explorar**. Coloque a pasta extraída em `Thea2_Data/StreamingAssets/Mods/`.
+4. Confirme que `info.txt` está no local abaixo. Abra o jogo e habilite **Fantastic Creatures Plus** no menu **Mods**.
+
+   ```text
+   Thea 2 The Shattering/
+   └── Thea2_Data/
+       └── StreamingAssets/
+           └── Mods/
+               └── FantasticCreaturesPlus/
+                   ├── info.txt
+                   ├── Events.xml
+                   ├── DB/
+                   ├── Images/
+                   └── Localization/
+   ```
+
+Para atualizar a instalação manual, feche o jogo e substitua a pasta do mod pela nova cópia. Habilite apenas uma instalação do mod por vez.
+
+## Compatibilidade e suporte
+
+A versão de referência é a edição **Steam para Windows**. A inicialização chegou ao menu principal. O [roteiro de testes](docs/PLAYTEST.md) lista os cenários de campanha a verificar, incluindo nascimentos, recompensas de pets e preservação de equipamento no crescimento.
+
+<details>
+<summary>O mod não aparece no menu</summary>
+
+Confira se o arquivo está em `Mods/FantasticCreaturesPlus/info.txt` e se a extração criou apenas um nível de pasta para o mod. Verifique se há outra cópia instalada pelo Workshop.
+
+</details>
+
+Para relatar um problema, abra uma [issue no GitHub](https://github.com/Derictor/FantasticCreaturesPlus/issues/new) com a versão do jogo, os mods ativos e os passos para reproduzir. Se for um encontro, inclua a espécie, a fase e a opção escolhida.
+
+## Arquivos do projeto
+
+- [Manifesto](info.txt) e [módulo de eventos](Events.xml) — arquivos que o jogo carrega.
+- [Bancos de dados](DB/) e [linhagens mestiças](DB/Lineages/) — personagens, habilidades, equipamento e regras de jogo.
+- [Imagens](Images/) e [localização](Localization/) — retratos, ícones, arte dos encontros e textos PT-BR.
+- [Guia de manutenção](docs/PROJECT.md) — estrutura dos arquivos, validação e notas do projeto.
+
+## Créditos
+
+- **Mod** · [Derictor](https://github.com/Derictor)
+- **Jogo** · [Thea 2: The Shattering, da MuHa Games e Eerie Forest Studio](https://store.steampowered.com/app/606230/Thea_2_The_Shattering/)
