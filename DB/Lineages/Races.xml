@@ -1,0 +1,26 @@
+<RACES>
+  <RACE-FCP_HALF_GRIFFIN>
+    <DescriptionInfo Name="Griffin Lineage" Description="DES_FCP_HALF_RACE_GRIFFIN" IconName="FCPLineageGriffin" />
+  </RACE-FCP_HALF_GRIFFIN>
+  <RACE-FCP_HALF_KIRIN>
+    <DescriptionInfo Name="Kirin Lineage" Description="DES_FCP_HALF_RACE_KIRIN" IconName="FCPLineageKirin" />
+  </RACE-FCP_HALF_KIRIN>
+  <RACE-FCP_HALF_MERMAID>
+    <DescriptionInfo Name="Mermaid Lineage" Description="DES_FCP_HALF_RACE_MERMAID" IconName="FCPLineageMermaid" />
+  </RACE-FCP_HALF_MERMAID>
+  <RACE-FCP_HALF_PHOENIX>
+    <DescriptionInfo Name="Phoenix Lineage" Description="DES_FCP_HALF_RACE_PHOENIX" IconName="FCPLineagePhoenix" />
+  </RACE-FCP_HALF_PHOENIX>
+  <RACE-FCP_HALF_UNICORN>
+    <DescriptionInfo Name="Unicorn Lineage" Description="DES_FCP_HALF_RACE_UNICORN" IconName="FCPLineageUnicorn" />
+  </RACE-FCP_HALF_UNICORN>
+  <RACE-FCP_HALF_ENT>
+    <DescriptionInfo Name="Ent Lineage" Description="DES_FCP_HALF_RACE_ENT" IconName="FCPLineageEnt" />
+  </RACE-FCP_HALF_ENT>
+  <RACE-FCP_HALF_BASILISK>
+    <DescriptionInfo Name="Basilisk Lineage" Description="DES_FCP_HALF_RACE_BASILISK" IconName="FCPLineageBasilisk" />
+  </RACE-FCP_HALF_BASILISK>
+  <RACE-FCP_HALF_WOLF>
+    <DescriptionInfo Name="Wolf Lineage" Description="DES_FCP_HALF_RACE_WOLF" IconName="FCPLineageWolf" />
+  </RACE-FCP_HALF_WOLF>
+</RACES>

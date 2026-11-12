@@ -1,0 +1,1154 @@
+<CHARACTER_NAMES>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_CHILD" />
+    <CharacterMale Value="Human–Griffin" />
+    <CharacterFemale Value="Human–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Human–Griffin" />
+    <CharacterFemale Value="Human–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_GRIFFIN_ADULT" />
+    <CharacterMale Value="Human–Griffin" />
+    <CharacterFemale Value="Human–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_GRIFFIN_CHILD" />
+    <CharacterMale Value="Elf–Griffin" />
+    <CharacterFemale Value="Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Elf–Griffin" />
+    <CharacterFemale Value="Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_GRIFFIN_ADULT" />
+    <CharacterMale Value="Elf–Griffin" />
+    <CharacterFemale Value="Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_GRIFFIN_CHILD" />
+    <CharacterMale Value="Orc–Griffin" />
+    <CharacterFemale Value="Orc–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Orc–Griffin" />
+    <CharacterFemale Value="Orc–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_GRIFFIN_ADULT" />
+    <CharacterMale Value="Orc–Griffin" />
+    <CharacterFemale Value="Orc–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_GRIFFIN_CHILD" />
+    <CharacterMale Value="Dwarf–Griffin" />
+    <CharacterFemale Value="Dwarf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Dwarf–Griffin" />
+    <CharacterFemale Value="Dwarf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_GRIFFIN_ADULT" />
+    <CharacterMale Value="Dwarf–Griffin" />
+    <CharacterFemale Value="Dwarf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_CHILD" />
+    <CharacterMale Value="Goblin–Griffin" />
+    <CharacterFemale Value="Goblin–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Goblin–Griffin" />
+    <CharacterFemale Value="Goblin–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_GRIFFIN_ADULT" />
+    <CharacterMale Value="Goblin–Griffin" />
+    <CharacterFemale Value="Goblin–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_CHILD" />
+    <CharacterMale Value="Shadow Elf–Griffin" />
+    <CharacterFemale Value="Shadow Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Griffin" />
+    <CharacterFemale Value="Shadow Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_GRIFFIN_ADULT" />
+    <CharacterMale Value="Shadow Elf–Griffin" />
+    <CharacterFemale Value="Shadow Elf–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_GRIFFIN_CHILD" />
+    <CharacterMale Value="Demon–Griffin" />
+    <CharacterFemale Value="Demon–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Demon–Griffin" />
+    <CharacterFemale Value="Demon–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_GRIFFIN_ADULT" />
+    <CharacterMale Value="Demon–Griffin" />
+    <CharacterFemale Value="Demon–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_CHILD>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_GRIFFIN_CHILD" />
+    <CharacterMale Value="Beast–Griffin" />
+    <CharacterFemale Value="Beast–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_GRIFFIN_YOUNG" />
+    <CharacterMale Value="Beast–Griffin" />
+    <CharacterFemale Value="Beast–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_ADULT>
+    <Race Value="RACE-FCP_HALF_GRIFFIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_GRIFFIN_ADULT" />
+    <CharacterMale Value="Beast–Griffin" />
+    <CharacterFemale Value="Beast–Griffin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_GRIFFIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_KIRIN_CHILD" />
+    <CharacterMale Value="Human–Kirin" />
+    <CharacterFemale Value="Human–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_KIRIN_YOUNG" />
+    <CharacterMale Value="Human–Kirin" />
+    <CharacterFemale Value="Human–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_KIRIN_ADULT" />
+    <CharacterMale Value="Human–Kirin" />
+    <CharacterFemale Value="Human–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_KIRIN_CHILD" />
+    <CharacterMale Value="Elf–Kirin" />
+    <CharacterFemale Value="Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_KIRIN_YOUNG" />
+    <CharacterMale Value="Elf–Kirin" />
+    <CharacterFemale Value="Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_KIRIN_ADULT" />
+    <CharacterMale Value="Elf–Kirin" />
+    <CharacterFemale Value="Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ELF_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_KIRIN_CHILD" />
+    <CharacterMale Value="Orc–Kirin" />
+    <CharacterFemale Value="Orc–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_KIRIN_YOUNG" />
+    <CharacterMale Value="Orc–Kirin" />
+    <CharacterFemale Value="Orc–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_KIRIN_ADULT" />
+    <CharacterMale Value="Orc–Kirin" />
+    <CharacterFemale Value="Orc–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_ORC_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_KIRIN_CHILD" />
+    <CharacterMale Value="Dwarf–Kirin" />
+    <CharacterFemale Value="Dwarf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_KIRIN_YOUNG" />
+    <CharacterMale Value="Dwarf–Kirin" />
+    <CharacterFemale Value="Dwarf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_KIRIN_ADULT" />
+    <CharacterMale Value="Dwarf–Kirin" />
+    <CharacterFemale Value="Dwarf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_KIRIN_CHILD" />
+    <CharacterMale Value="Goblin–Kirin" />
+    <CharacterFemale Value="Goblin–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_KIRIN_YOUNG" />
+    <CharacterMale Value="Goblin–Kirin" />
+    <CharacterFemale Value="Goblin–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_KIRIN_ADULT" />
+    <CharacterMale Value="Goblin–Kirin" />
+    <CharacterFemale Value="Goblin–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_CHILD" />
+    <CharacterMale Value="Shadow Elf–Kirin" />
+    <CharacterFemale Value="Shadow Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Kirin" />
+    <CharacterFemale Value="Shadow Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_KIRIN_ADULT" />
+    <CharacterMale Value="Shadow Elf–Kirin" />
+    <CharacterFemale Value="Shadow Elf–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_KIRIN_CHILD" />
+    <CharacterMale Value="Demon–Kirin" />
+    <CharacterFemale Value="Demon–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_KIRIN_YOUNG" />
+    <CharacterMale Value="Demon–Kirin" />
+    <CharacterFemale Value="Demon–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_KIRIN_ADULT" />
+    <CharacterMale Value="Demon–Kirin" />
+    <CharacterFemale Value="Demon–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_CHILD>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_KIRIN_CHILD" />
+    <CharacterMale Value="Beast–Kirin" />
+    <CharacterFemale Value="Beast–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_YOUNG>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_KIRIN_YOUNG" />
+    <CharacterMale Value="Beast–Kirin" />
+    <CharacterFemale Value="Beast–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_ADULT>
+    <Race Value="RACE-FCP_HALF_KIRIN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_KIRIN_ADULT" />
+    <CharacterMale Value="Beast–Kirin" />
+    <CharacterFemale Value="Beast–Kirin" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_KIRIN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_MERMAID_CHILD" />
+    <CharacterMale Value="Human–Mermaid" />
+    <CharacterFemale Value="Human–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_MERMAID_YOUNG" />
+    <CharacterMale Value="Human–Mermaid" />
+    <CharacterFemale Value="Human–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_MERMAID_ADULT" />
+    <CharacterMale Value="Human–Mermaid" />
+    <CharacterFemale Value="Human–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_MERMAID_CHILD" />
+    <CharacterMale Value="Elf–Mermaid" />
+    <CharacterFemale Value="Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ELF_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_MERMAID_YOUNG" />
+    <CharacterMale Value="Elf–Mermaid" />
+    <CharacterFemale Value="Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ELF_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_MERMAID_ADULT" />
+    <CharacterMale Value="Elf–Mermaid" />
+    <CharacterFemale Value="Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ELF_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_MERMAID_CHILD" />
+    <CharacterMale Value="Orc–Mermaid" />
+    <CharacterFemale Value="Orc–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ORC_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_MERMAID_YOUNG" />
+    <CharacterMale Value="Orc–Mermaid" />
+    <CharacterFemale Value="Orc–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ORC_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_MERMAID_ADULT" />
+    <CharacterMale Value="Orc–Mermaid" />
+    <CharacterFemale Value="Orc–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_ORC_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_MERMAID_CHILD" />
+    <CharacterMale Value="Dwarf–Mermaid" />
+    <CharacterFemale Value="Dwarf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_MERMAID_YOUNG" />
+    <CharacterMale Value="Dwarf–Mermaid" />
+    <CharacterFemale Value="Dwarf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_MERMAID_ADULT" />
+    <CharacterMale Value="Dwarf–Mermaid" />
+    <CharacterFemale Value="Dwarf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_MERMAID_CHILD" />
+    <CharacterMale Value="Goblin–Mermaid" />
+    <CharacterFemale Value="Goblin–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_MERMAID_YOUNG" />
+    <CharacterMale Value="Goblin–Mermaid" />
+    <CharacterFemale Value="Goblin–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_MERMAID_ADULT" />
+    <CharacterMale Value="Goblin–Mermaid" />
+    <CharacterFemale Value="Goblin–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_CHILD" />
+    <CharacterMale Value="Shadow Elf–Mermaid" />
+    <CharacterFemale Value="Shadow Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Mermaid" />
+    <CharacterFemale Value="Shadow Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_MERMAID_ADULT" />
+    <CharacterMale Value="Shadow Elf–Mermaid" />
+    <CharacterFemale Value="Shadow Elf–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_MERMAID_CHILD" />
+    <CharacterMale Value="Demon–Mermaid" />
+    <CharacterFemale Value="Demon–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_MERMAID_YOUNG" />
+    <CharacterMale Value="Demon–Mermaid" />
+    <CharacterFemale Value="Demon–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_MERMAID_ADULT" />
+    <CharacterMale Value="Demon–Mermaid" />
+    <CharacterFemale Value="Demon–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_CHILD>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_MERMAID_CHILD" />
+    <CharacterMale Value="Beast–Mermaid" />
+    <CharacterFemale Value="Beast–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_YOUNG>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_MERMAID_YOUNG" />
+    <CharacterMale Value="Beast–Mermaid" />
+    <CharacterFemale Value="Beast–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_ADULT>
+    <Race Value="RACE-FCP_HALF_MERMAID" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_MERMAID_ADULT" />
+    <CharacterMale Value="Beast–Mermaid" />
+    <CharacterFemale Value="Beast–Mermaid" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_MERMAID_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_PHOENIX_CHILD" />
+    <CharacterMale Value="Human–Phoenix" />
+    <CharacterFemale Value="Human–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_PHOENIX_YOUNG" />
+    <CharacterMale Value="Human–Phoenix" />
+    <CharacterFemale Value="Human–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_PHOENIX_ADULT" />
+    <CharacterMale Value="Human–Phoenix" />
+    <CharacterFemale Value="Human–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_PHOENIX_CHILD" />
+    <CharacterMale Value="Elf–Phoenix" />
+    <CharacterFemale Value="Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_PHOENIX_YOUNG" />
+    <CharacterMale Value="Elf–Phoenix" />
+    <CharacterFemale Value="Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_PHOENIX_ADULT" />
+    <CharacterMale Value="Elf–Phoenix" />
+    <CharacterFemale Value="Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ELF_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_PHOENIX_CHILD" />
+    <CharacterMale Value="Orc–Phoenix" />
+    <CharacterFemale Value="Orc–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_PHOENIX_YOUNG" />
+    <CharacterMale Value="Orc–Phoenix" />
+    <CharacterFemale Value="Orc–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_PHOENIX_ADULT" />
+    <CharacterMale Value="Orc–Phoenix" />
+    <CharacterFemale Value="Orc–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_ORC_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_PHOENIX_CHILD" />
+    <CharacterMale Value="Dwarf–Phoenix" />
+    <CharacterFemale Value="Dwarf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_PHOENIX_YOUNG" />
+    <CharacterMale Value="Dwarf–Phoenix" />
+    <CharacterFemale Value="Dwarf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_PHOENIX_ADULT" />
+    <CharacterMale Value="Dwarf–Phoenix" />
+    <CharacterFemale Value="Dwarf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_CHILD" />
+    <CharacterMale Value="Goblin–Phoenix" />
+    <CharacterFemale Value="Goblin–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_YOUNG" />
+    <CharacterMale Value="Goblin–Phoenix" />
+    <CharacterFemale Value="Goblin–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_PHOENIX_ADULT" />
+    <CharacterMale Value="Goblin–Phoenix" />
+    <CharacterFemale Value="Goblin–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_CHILD" />
+    <CharacterMale Value="Shadow Elf–Phoenix" />
+    <CharacterFemale Value="Shadow Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Phoenix" />
+    <CharacterFemale Value="Shadow Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_PHOENIX_ADULT" />
+    <CharacterMale Value="Shadow Elf–Phoenix" />
+    <CharacterFemale Value="Shadow Elf–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_PHOENIX_CHILD" />
+    <CharacterMale Value="Demon–Phoenix" />
+    <CharacterFemale Value="Demon–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_PHOENIX_YOUNG" />
+    <CharacterMale Value="Demon–Phoenix" />
+    <CharacterFemale Value="Demon–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_PHOENIX_ADULT" />
+    <CharacterMale Value="Demon–Phoenix" />
+    <CharacterFemale Value="Demon–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_CHILD>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_PHOENIX_CHILD" />
+    <CharacterMale Value="Beast–Phoenix" />
+    <CharacterFemale Value="Beast–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_YOUNG>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_PHOENIX_YOUNG" />
+    <CharacterMale Value="Beast–Phoenix" />
+    <CharacterFemale Value="Beast–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_ADULT>
+    <Race Value="RACE-FCP_HALF_PHOENIX" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_PHOENIX_ADULT" />
+    <CharacterMale Value="Beast–Phoenix" />
+    <CharacterFemale Value="Beast–Phoenix" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_PHOENIX_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_UNICORN_CHILD" />
+    <CharacterMale Value="Human–Unicorn" />
+    <CharacterFemale Value="Human–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_UNICORN_YOUNG" />
+    <CharacterMale Value="Human–Unicorn" />
+    <CharacterFemale Value="Human–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_UNICORN_ADULT" />
+    <CharacterMale Value="Human–Unicorn" />
+    <CharacterFemale Value="Human–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_UNICORN_CHILD" />
+    <CharacterMale Value="Elf–Unicorn" />
+    <CharacterFemale Value="Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ELF_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_UNICORN_YOUNG" />
+    <CharacterMale Value="Elf–Unicorn" />
+    <CharacterFemale Value="Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ELF_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_UNICORN_ADULT" />
+    <CharacterMale Value="Elf–Unicorn" />
+    <CharacterFemale Value="Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ELF_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_UNICORN_CHILD" />
+    <CharacterMale Value="Orc–Unicorn" />
+    <CharacterFemale Value="Orc–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ORC_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_UNICORN_YOUNG" />
+    <CharacterMale Value="Orc–Unicorn" />
+    <CharacterFemale Value="Orc–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ORC_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_UNICORN_ADULT" />
+    <CharacterMale Value="Orc–Unicorn" />
+    <CharacterFemale Value="Orc–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_ORC_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_UNICORN_CHILD" />
+    <CharacterMale Value="Dwarf–Unicorn" />
+    <CharacterFemale Value="Dwarf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_UNICORN_YOUNG" />
+    <CharacterMale Value="Dwarf–Unicorn" />
+    <CharacterFemale Value="Dwarf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_UNICORN_ADULT" />
+    <CharacterMale Value="Dwarf–Unicorn" />
+    <CharacterFemale Value="Dwarf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_UNICORN_CHILD" />
+    <CharacterMale Value="Goblin–Unicorn" />
+    <CharacterFemale Value="Goblin–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_UNICORN_YOUNG" />
+    <CharacterMale Value="Goblin–Unicorn" />
+    <CharacterFemale Value="Goblin–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_UNICORN_ADULT" />
+    <CharacterMale Value="Goblin–Unicorn" />
+    <CharacterFemale Value="Goblin–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_CHILD" />
+    <CharacterMale Value="Shadow Elf–Unicorn" />
+    <CharacterFemale Value="Shadow Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Unicorn" />
+    <CharacterFemale Value="Shadow Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_UNICORN_ADULT" />
+    <CharacterMale Value="Shadow Elf–Unicorn" />
+    <CharacterFemale Value="Shadow Elf–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_UNICORN_CHILD" />
+    <CharacterMale Value="Demon–Unicorn" />
+    <CharacterFemale Value="Demon–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_UNICORN_YOUNG" />
+    <CharacterMale Value="Demon–Unicorn" />
+    <CharacterFemale Value="Demon–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_UNICORN_ADULT" />
+    <CharacterMale Value="Demon–Unicorn" />
+    <CharacterFemale Value="Demon–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_CHILD>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_UNICORN_CHILD" />
+    <CharacterMale Value="Beast–Unicorn" />
+    <CharacterFemale Value="Beast–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_YOUNG>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_UNICORN_YOUNG" />
+    <CharacterMale Value="Beast–Unicorn" />
+    <CharacterFemale Value="Beast–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_ADULT>
+    <Race Value="RACE-FCP_HALF_UNICORN" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_UNICORN_ADULT" />
+    <CharacterMale Value="Beast–Unicorn" />
+    <CharacterFemale Value="Beast–Unicorn" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_UNICORN_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_ENT_CHILD" />
+    <CharacterMale Value="Human–Ent" />
+    <CharacterFemale Value="Human–Ent" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_ENT_YOUNG" />
+    <CharacterMale Value="Human–Ent" />
+    <CharacterFemale Value="Human–Ent" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_ENT_ADULT" />
+    <CharacterMale Value="Human–Ent" />
+    <CharacterFemale Value="Human–Ent" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_ENT_CHILD" />
+    <CharacterMale Value="Elf–Ent" />
+    <CharacterFemale Value="Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ELF_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_ENT_YOUNG" />
+    <CharacterMale Value="Elf–Ent" />
+    <CharacterFemale Value="Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ELF_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_ENT_ADULT" />
+    <CharacterMale Value="Elf–Ent" />
+    <CharacterFemale Value="Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ELF_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_ENT_CHILD" />
+    <CharacterMale Value="Orc–Ent" />
+    <CharacterFemale Value="Orc–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ORC_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_ENT_YOUNG" />
+    <CharacterMale Value="Orc–Ent" />
+    <CharacterFemale Value="Orc–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ORC_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_ENT_ADULT" />
+    <CharacterMale Value="Orc–Ent" />
+    <CharacterFemale Value="Orc–Ent" />
+  </NAME_COLLECTION-FCP_HALF_ORC_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_ENT_CHILD" />
+    <CharacterMale Value="Dwarf–Ent" />
+    <CharacterFemale Value="Dwarf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_ENT_YOUNG" />
+    <CharacterMale Value="Dwarf–Ent" />
+    <CharacterFemale Value="Dwarf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_ENT_ADULT" />
+    <CharacterMale Value="Dwarf–Ent" />
+    <CharacterFemale Value="Dwarf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_ENT_CHILD" />
+    <CharacterMale Value="Goblin–Ent" />
+    <CharacterFemale Value="Goblin–Ent" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_ENT_YOUNG" />
+    <CharacterMale Value="Goblin–Ent" />
+    <CharacterFemale Value="Goblin–Ent" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_ENT_ADULT" />
+    <CharacterMale Value="Goblin–Ent" />
+    <CharacterFemale Value="Goblin–Ent" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_ENT_CHILD" />
+    <CharacterMale Value="Shadow Elf–Ent" />
+    <CharacterFemale Value="Shadow Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_ENT_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Ent" />
+    <CharacterFemale Value="Shadow Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_ENT_ADULT" />
+    <CharacterMale Value="Shadow Elf–Ent" />
+    <CharacterFemale Value="Shadow Elf–Ent" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_ENT_CHILD" />
+    <CharacterMale Value="Demon–Ent" />
+    <CharacterFemale Value="Demon–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_ENT_YOUNG" />
+    <CharacterMale Value="Demon–Ent" />
+    <CharacterFemale Value="Demon–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_ENT_ADULT" />
+    <CharacterMale Value="Demon–Ent" />
+    <CharacterFemale Value="Demon–Ent" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_ENT_CHILD>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_ENT_CHILD" />
+    <CharacterMale Value="Beast–Ent" />
+    <CharacterFemale Value="Beast–Ent" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_ENT_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_ENT_YOUNG>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_ENT_YOUNG" />
+    <CharacterMale Value="Beast–Ent" />
+    <CharacterFemale Value="Beast–Ent" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_ENT_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_ENT_ADULT>
+    <Race Value="RACE-FCP_HALF_ENT" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_ENT_ADULT" />
+    <CharacterMale Value="Beast–Ent" />
+    <CharacterFemale Value="Beast–Ent" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_ENT_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_BASILISK_CHILD" />
+    <CharacterMale Value="Human–Basilisk" />
+    <CharacterFemale Value="Human–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_BASILISK_YOUNG" />
+    <CharacterMale Value="Human–Basilisk" />
+    <CharacterFemale Value="Human–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_BASILISK_ADULT" />
+    <CharacterMale Value="Human–Basilisk" />
+    <CharacterFemale Value="Human–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_BASILISK_CHILD" />
+    <CharacterMale Value="Elf–Basilisk" />
+    <CharacterFemale Value="Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ELF_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_BASILISK_YOUNG" />
+    <CharacterMale Value="Elf–Basilisk" />
+    <CharacterFemale Value="Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ELF_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_BASILISK_ADULT" />
+    <CharacterMale Value="Elf–Basilisk" />
+    <CharacterFemale Value="Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ELF_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_BASILISK_CHILD" />
+    <CharacterMale Value="Orc–Basilisk" />
+    <CharacterFemale Value="Orc–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ORC_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_BASILISK_YOUNG" />
+    <CharacterMale Value="Orc–Basilisk" />
+    <CharacterFemale Value="Orc–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ORC_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_BASILISK_ADULT" />
+    <CharacterMale Value="Orc–Basilisk" />
+    <CharacterFemale Value="Orc–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_ORC_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_BASILISK_CHILD" />
+    <CharacterMale Value="Dwarf–Basilisk" />
+    <CharacterFemale Value="Dwarf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_BASILISK_YOUNG" />
+    <CharacterMale Value="Dwarf–Basilisk" />
+    <CharacterFemale Value="Dwarf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_BASILISK_ADULT" />
+    <CharacterMale Value="Dwarf–Basilisk" />
+    <CharacterFemale Value="Dwarf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_BASILISK_CHILD" />
+    <CharacterMale Value="Goblin–Basilisk" />
+    <CharacterFemale Value="Goblin–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_BASILISK_YOUNG" />
+    <CharacterMale Value="Goblin–Basilisk" />
+    <CharacterFemale Value="Goblin–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_BASILISK_ADULT" />
+    <CharacterMale Value="Goblin–Basilisk" />
+    <CharacterFemale Value="Goblin–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_CHILD" />
+    <CharacterMale Value="Shadow Elf–Basilisk" />
+    <CharacterFemale Value="Shadow Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Basilisk" />
+    <CharacterFemale Value="Shadow Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_BASILISK_ADULT" />
+    <CharacterMale Value="Shadow Elf–Basilisk" />
+    <CharacterFemale Value="Shadow Elf–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_BASILISK_CHILD" />
+    <CharacterMale Value="Demon–Basilisk" />
+    <CharacterFemale Value="Demon–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_BASILISK_YOUNG" />
+    <CharacterMale Value="Demon–Basilisk" />
+    <CharacterFemale Value="Demon–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_BASILISK_ADULT" />
+    <CharacterMale Value="Demon–Basilisk" />
+    <CharacterFemale Value="Demon–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_CHILD>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_BASILISK_CHILD" />
+    <CharacterMale Value="Beast–Basilisk" />
+    <CharacterFemale Value="Beast–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_YOUNG>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_BASILISK_YOUNG" />
+    <CharacterMale Value="Beast–Basilisk" />
+    <CharacterFemale Value="Beast–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_ADULT>
+    <Race Value="RACE-FCP_HALF_BASILISK" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_BASILISK_ADULT" />
+    <CharacterMale Value="Beast–Basilisk" />
+    <CharacterFemale Value="Beast–Basilisk" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_BASILISK_ADULT>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_WOLF_CHILD" />
+    <CharacterMale Value="Human–Wolf" />
+    <CharacterFemale Value="Human–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_WOLF_YOUNG" />
+    <CharacterMale Value="Human–Wolf" />
+    <CharacterFemale Value="Human–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_HUMAN_WOLF_ADULT" />
+    <CharacterMale Value="Human–Wolf" />
+    <CharacterFemale Value="Human–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_HUMAN_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ELF_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_WOLF_CHILD" />
+    <CharacterMale Value="Elf–Wolf" />
+    <CharacterFemale Value="Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ELF_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ELF_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_WOLF_YOUNG" />
+    <CharacterMale Value="Elf–Wolf" />
+    <CharacterFemale Value="Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ELF_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ELF_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ELF_WOLF_ADULT" />
+    <CharacterMale Value="Elf–Wolf" />
+    <CharacterFemale Value="Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ELF_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_ORC_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_WOLF_CHILD" />
+    <CharacterMale Value="Orc–Wolf" />
+    <CharacterFemale Value="Orc–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ORC_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_ORC_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_WOLF_YOUNG" />
+    <CharacterMale Value="Orc–Wolf" />
+    <CharacterFemale Value="Orc–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ORC_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_ORC_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_ORC_WOLF_ADULT" />
+    <CharacterMale Value="Orc–Wolf" />
+    <CharacterFemale Value="Orc–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_ORC_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DWARF_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_WOLF_CHILD" />
+    <CharacterMale Value="Dwarf–Wolf" />
+    <CharacterFemale Value="Dwarf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DWARF_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_WOLF_YOUNG" />
+    <CharacterMale Value="Dwarf–Wolf" />
+    <CharacterFemale Value="Dwarf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DWARF_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DWARF_WOLF_ADULT" />
+    <CharacterMale Value="Dwarf–Wolf" />
+    <CharacterFemale Value="Dwarf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DWARF_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_WOLF_CHILD" />
+    <CharacterMale Value="Goblin–Wolf" />
+    <CharacterFemale Value="Goblin–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_WOLF_YOUNG" />
+    <CharacterMale Value="Goblin–Wolf" />
+    <CharacterFemale Value="Goblin–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_GOBLIN_WOLF_ADULT" />
+    <CharacterMale Value="Goblin–Wolf" />
+    <CharacterFemale Value="Goblin–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_GOBLIN_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_WOLF_CHILD" />
+    <CharacterMale Value="Shadow Elf–Wolf" />
+    <CharacterFemale Value="Shadow Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_WOLF_YOUNG" />
+    <CharacterMale Value="Shadow Elf–Wolf" />
+    <CharacterFemale Value="Shadow Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_SHADOWELF_WOLF_ADULT" />
+    <CharacterMale Value="Shadow Elf–Wolf" />
+    <CharacterFemale Value="Shadow Elf–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_SHADOWELF_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_DEMON_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_WOLF_CHILD" />
+    <CharacterMale Value="Demon–Wolf" />
+    <CharacterFemale Value="Demon–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_DEMON_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_WOLF_YOUNG" />
+    <CharacterMale Value="Demon–Wolf" />
+    <CharacterFemale Value="Demon–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_DEMON_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_DEMON_WOLF_ADULT" />
+    <CharacterMale Value="Demon–Wolf" />
+    <CharacterFemale Value="Demon–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_DEMON_WOLF_ADULT>
+  <NAME_COLLECTION-FCP_HALF_BEAST_WOLF_CHILD>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_WOLF_CHILD" />
+    <CharacterMale Value="Beast–Wolf" />
+    <CharacterFemale Value="Beast–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_WOLF_CHILD>
+  <NAME_COLLECTION-FCP_HALF_BEAST_WOLF_YOUNG>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_WOLF_YOUNG" />
+    <CharacterMale Value="Beast–Wolf" />
+    <CharacterFemale Value="Beast–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_WOLF_YOUNG>
+  <NAME_COLLECTION-FCP_HALF_BEAST_WOLF_ADULT>
+    <Race Value="RACE-FCP_HALF_WOLF" />
+    <Subrace Value="SUBRACE-FCP_HALF_BEAST_WOLF_ADULT" />
+    <CharacterMale Value="Beast–Wolf" />
+    <CharacterFemale Value="Beast–Wolf" />
+  </NAME_COLLECTION-FCP_HALF_BEAST_WOLF_ADULT>
+</CHARACTER_NAMES>

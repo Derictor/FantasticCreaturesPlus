@@ -1,203 +1,203 @@
 <SKILLS_1_NATURAL>
   <SKILL-FCP_CELESTIAL_DIVE Rarity="0">
-    <DescriptionInfo Name="Celestial Dive" Description="DES_FCP_ABILITY_CELESTIAL_DIVE" IconName="SkillClawHit" />
+    <DescriptionInfo Name="Celestial Dive" Description="DES_FCP_ABILITY_CELESTIAL_DIVE" IconName="FCPSignatureGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillSubskill Value="SUBSKILL-DIVE_ATTACK" />
     <SkillGroupFilter Value="FCP_GRIFFIN" />
   </SKILL-FCP_CELESTIAL_DIVE>
   <SKILL-FCP_ANCESTRAL_BLESSING Rarity="0">
-    <DescriptionInfo Name="Ancestral Blessing" Description="DES_FCP_ABILITY_ANCESTRAL_BLESSING" IconName="SkillAddHealth" />
+    <DescriptionInfo Name="Ancestral Blessing" Description="DES_FCP_ABILITY_ANCESTRAL_BLESSING" IconName="FCPSignatureKirin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
     <SkillGroupFilter Value="FCP_KIRIN" />
   </SKILL-FCP_ANCESTRAL_BLESSING>
   <SKILL-FCP_ABYSSAL_SONG Rarity="0">
-    <DescriptionInfo Name="Abyssal Song" Description="DES_FCP_ABILITY_ABYSSAL_SONG" IconName="SkillBite" />
+    <DescriptionInfo Name="Abyssal Song" Description="DES_FCP_ABILITY_ABYSSAL_SONG" IconName="FCPSignatureMermaid" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
     <SkillGroupFilter Value="FCP_MERMAID" />
   </SKILL-FCP_ABYSSAL_SONG>
   <SKILL-FCP_REBIRTH_IN_FLAMES Rarity="0">
-    <DescriptionInfo Name="Rebirth in Flames" Description="DES_FCP_ABILITY_REBIRTH_IN_FLAMES" IconName="SkillDragonBreath" />
+    <DescriptionInfo Name="Rebirth in Flames" Description="DES_FCP_ABILITY_REBIRTH_IN_FLAMES" IconName="FCPSignaturePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-HEAL_ON_DMG" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_REBIRTH_IN_FLAMES>
   <SKILL-FCP_LUNAR_HEALING Rarity="0">
-    <DescriptionInfo Name="Lunar Healing" Description="DES_FCP_ABILITY_LUNAR_HEALING" IconName="SkillAddHealth" />
+    <DescriptionInfo Name="Lunar Healing" Description="DES_FCP_ABILITY_LUNAR_HEALING" IconName="FCPSignatureUnicorn" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
     <SkillGroupFilter Value="FCP_UNICORN" />
   </SKILL-FCP_LUNAR_HEALING>
   <SKILL-FCP_ROOT_GRASP Rarity="0">
-    <DescriptionInfo Name="Root Grasp" Description="DES_FCP_ABILITY_ROOT_GRASP" IconName="SkillBite" />
+    <DescriptionInfo Name="Root Grasp" Description="DES_FCP_ABILITY_ROOT_GRASP" IconName="FCPSignatureEnt" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
     <SkillGroupFilter Value="FCP_ENT" />
   </SKILL-FCP_ROOT_GRASP>
   <SKILL-FCP_PETRIFYING_GAZE Rarity="0">
-    <DescriptionInfo Name="Petrifying Gaze" Description="DES_FCP_ABILITY_PETRIFYING_GAZE" IconName="SkillBite" />
+    <DescriptionInfo Name="Petrifying Gaze" Description="DES_FCP_ABILITY_PETRIFYING_GAZE" IconName="FCPSignatureBasilisk" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
     <SkillGroupFilter Value="FCP_BASILISK" />
   </SKILL-FCP_PETRIFYING_GAZE>
   <SKILL-FCP_MOON_HOWL Rarity="0">
-    <DescriptionInfo Name="Moon Howl" Description="DES_FCP_ABILITY_MOON_HOWL" IconName="SkillBite" />
+    <DescriptionInfo Name="Moon Howl" Description="DES_FCP_ABILITY_MOON_HOWL" IconName="FCPSignatureWolf" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-WAR_SHOUT" />
     <SkillGroupFilter Value="FCP_WOLF" />
   </SKILL-FCP_MOON_HOWL>
   <SKILL-FCP_STORM_TALONS Rarity="0">
-    <DescriptionInfo Name="Storm Talons" Description="DES_FCP_ABILITY_STORM_TALONS" IconName="SkillClawHit" />
+    <DescriptionInfo Name="Storm Talons" Description="DES_FCP_ABILITY_STORM_TALONS" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
     <SkillGroupFilter Value="FCP_GRIFFIN" />
   </SKILL-FCP_STORM_TALONS>
   <SKILL-FCP_EMBER_BURST Rarity="0">
-    <DescriptionInfo Name="Ember Burst" Description="DES_FCP_ABILITY_EMBER_BURST" IconName="SkillEnergyExplosion" />
+    <DescriptionInfo Name="Ember Burst" Description="DES_FCP_ABILITY_EMBER_BURST" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-FIREBALL" />
+    <SkillSubskill Value="SUBSKILL-DRAGON_BREATH" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_EMBER_BURST>
   <SKILL-FCP_KEEN_EYES Rarity="0">
-    <DescriptionInfo Name="Keen Eyes" Description="DES_FCP_TRAIT_KEEN_EYES" IconName="SkillEagleEye" />
+    <DescriptionInfo Name="Keen Eyes" Description="DES_FCP_TRAIT_KEEN_EYES" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_PERCEPTION" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_GRIFFIN" />
   </SKILL-FCP_KEEN_EYES>
   <SKILL-FCP_SWIFT_WINGS Rarity="0">
-    <DescriptionInfo Name="Swift Wings" Description="DES_FCP_TRAIT_SWIFT_WINGS" IconName="SkillDiveAttack" />
+    <DescriptionInfo Name="Swift Wings" Description="DES_FCP_TRAIT_SWIFT_WINGS" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-CONST_WEAK_ADD_MOVEMENT" />
     <SkillGroupFilter Value="FCP_GRIFFIN" />
   </SKILL-FCP_SWIFT_WINGS>
   <SKILL-FCP_ANCIENT_WISDOM Rarity="0">
-    <DescriptionInfo Name="Ancient Wisdom" Description="DES_FCP_TRAIT_ANCIENT_WISDOM" IconName="SkillNaturalKnowledge" />
+    <DescriptionInfo Name="Ancient Wisdom" Description="DES_FCP_TRAIT_ANCIENT_WISDOM" IconName="FCPLineageKirin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_WISDOM" />
     <SkillGroupFilter Value="FCP_KIRIN" />
   </SKILL-FCP_ANCIENT_WISDOM>
   <SKILL-FCP_WATER_BREATHING Rarity="0">
-    <DescriptionInfo Name="Water Breathing" Description="DES_FCP_TRAIT_WATER_BREATHING" IconName="SkillBlessS" />
+    <DescriptionInfo Name="Water Breathing" Description="DES_FCP_TRAIT_WATER_BREATHING" IconName="FCPLineageMermaid" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_SPIRIT" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_MENTAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_MERMAID" />
   </SKILL-FCP_WATER_BREATHING>
   <SKILL-FCP_DEEP_SIGHT Rarity="0">
-    <DescriptionInfo Name="Deep Sight" Description="DES_FCP_TRAIT_DEEP_SIGHT" IconName="SkillEagleEye" />
+    <DescriptionInfo Name="Deep Sight" Description="DES_FCP_TRAIT_DEEP_SIGHT" IconName="FCPLineageMermaid" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_MERMAID" />
   </SKILL-FCP_DEEP_SIGHT>
   <SKILL-FCP_FIRE_IMMUNE Rarity="0">
-    <DescriptionInfo Name="Fire Immune" Description="DES_FCP_TRAIT_FIRE_IMMUNE" IconName="SkillBlessedArmour" />
+    <DescriptionInfo Name="Fire Immune" Description="DES_FCP_TRAIT_FIRE_IMMUNE" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_PHYSICAL" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_FIRE_IMMUNE>
   <SKILL-FCP_EMBER_HEART Rarity="0">
-    <DescriptionInfo Name="Ember Heart" Description="DES_FCP_TRAIT_EMBER_HEART" IconName="SkillDragonBreath" />
+    <DescriptionInfo Name="Ember Heart" Description="DES_FCP_TRAIT_EMBER_HEART" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-FIREBALL" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_EMBER_HEART>
   <SKILL-FCP_MOON_BLESSED Rarity="0">
-    <DescriptionInfo Name="Moon Blessed" Description="DES_FCP_TRAIT_MOON_BLESSED" IconName="SkillExtraLuck" />
+    <DescriptionInfo Name="Moon Blessed" Description="DES_FCP_TRAIT_MOON_BLESSED" IconName="FCPLineageUnicorn" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_UNICORN" />
   </SKILL-FCP_MOON_BLESSED>
   <SKILL-FCP_STONE_BARK Rarity="0">
-    <DescriptionInfo Name="Stone Bark" Description="DES_FCP_TRAIT_STONE_BARK" IconName="SkillNaturalArmour" />
+    <DescriptionInfo Name="Stone Bark" Description="DES_FCP_TRAIT_STONE_BARK" IconName="FCPLineageEnt" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_PHYSICAL" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_MENTAL" />
     <SkillGroupFilter Value="FCP_ENT" />
   </SKILL-FCP_STONE_BARK>
   <SKILL-FCP_FOREST_GUARDIAN Rarity="0">
-    <DescriptionInfo Name="Forest Guardian" Description="DES_FCP_TRAIT_FOREST_GUARDIAN" IconName="SkillGatherer" />
+    <DescriptionInfo Name="Forest Guardian" Description="DES_FCP_TRAIT_FOREST_GUARDIAN" IconName="FCPLineageEnt" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-ADD_GATHERING" />
     <SkillGroupFilter Value="FCP_ENT" />
   </SKILL-FCP_FOREST_GUARDIAN>
   <SKILL-FCP_POISON_SKIN Rarity="0">
-    <DescriptionInfo Name="Poison Skin" Description="DES_FCP_TRAIT_POISON_SKIN" IconName="SkillPoisonBite" />
+    <DescriptionInfo Name="Poison Skin" Description="DES_FCP_TRAIT_POISON_SKIN" IconName="FCPLineageBasilisk" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-POISON_BITE" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_SHIELDING_PHYSICAL_SPIRIT" />
     <SkillGroupFilter Value="FCP_BASILISK" />
   </SKILL-FCP_POISON_SKIN>
   <SKILL-FCP_NIGHT_HUNTER Rarity="0">
-    <DescriptionInfo Name="Night Hunter" Description="DES_FCP_TRAIT_NIGHT_HUNTER" IconName="SkillNightWalker" />
+    <DescriptionInfo Name="Night Hunter" Description="DES_FCP_TRAIT_NIGHT_HUNTER" IconName="FCPLineageWolf" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-MULTI_VWEAK_ADD_PERCEPTION" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_WOLF" />
   </SKILL-FCP_NIGHT_HUNTER>
   <SKILL-FCP_CHILD_GRIFFIN_GROW Rarity="0">
-    <DescriptionInfo Name="Griffin Growth" Description="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW" IconName="SkillAddHealth" />
+    <DescriptionInfo Name="Griffin Growth" Description="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillSubskill Value="SUBSKILL-MULTI_VWEAK_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_CHILD_GRIFFIN" />
   </SKILL-FCP_CHILD_GRIFFIN_GROW>
   <SKILL-FCP_CHILD_KIRIN_GROW Rarity="0">
-    <DescriptionInfo Name="Kirin Growth" Description="DES_FCP_ABILITY_CHILD_KIRIN_GROW" IconName="SkillNaturalKnowledge" />
+    <DescriptionInfo Name="Kirin Growth" Description="DES_FCP_ABILITY_CHILD_KIRIN_GROW" IconName="FCPLineageKirin" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
     <SkillGroupFilter Value="FCP_CHILD_KIRIN" />
   </SKILL-FCP_CHILD_KIRIN_GROW>
   <SKILL-FCP_CHILD_MERMAID_GROW Rarity="0">
-    <DescriptionInfo Name="Mermaid Growth" Description="DES_FCP_ABILITY_CHILD_MERMAID_GROW" IconName="SkillBlessS" />
+    <DescriptionInfo Name="Mermaid Growth" Description="DES_FCP_ABILITY_CHILD_MERMAID_GROW" IconName="FCPLineageMermaid" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_MYSTICISM" />
     <SkillGroupFilter Value="FCP_CHILD_MERMAID" />
   </SKILL-FCP_CHILD_MERMAID_GROW>
   <SKILL-FCP_CHILD_PHOENIX_GROW Rarity="0">
-    <DescriptionInfo Name="Phoenix Growth" Description="DES_FCP_ABILITY_CHILD_PHOENIX_GROW" IconName="SkillDragonBreath" />
+    <DescriptionInfo Name="Phoenix Growth" Description="DES_FCP_ABILITY_CHILD_PHOENIX_GROW" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-FIREBALL" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_CHILD_PHOENIX" />
   </SKILL-FCP_CHILD_PHOENIX_GROW>
   <SKILL-FCP_CHILD_UNICORN_GROW Rarity="0">
-    <DescriptionInfo Name="Unicorn Growth" Description="DES_FCP_ABILITY_CHILD_UNICORN_GROW" IconName="SkillBlessP" />
+    <DescriptionInfo Name="Unicorn Growth" Description="DES_FCP_ABILITY_CHILD_UNICORN_GROW" IconName="FCPLineageUnicorn" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_CHILD_UNICORN" />
   </SKILL-FCP_CHILD_UNICORN_GROW>
   <SKILL-FCP_CHILD_ENT_GROW Rarity="0">
-    <DescriptionInfo Name="Ent Growth" Description="DES_FCP_ABILITY_CHILD_ENT_GROW" IconName="SkillSeedsGrow" />
+    <DescriptionInfo Name="Ent Growth" Description="DES_FCP_ABILITY_CHILD_ENT_GROW" IconName="FCPLineageEnt" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
+    <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_STRENGTH" />
     <SkillGroupFilter Value="FCP_CHILD_ENT" />
   </SKILL-FCP_CHILD_ENT_GROW>
   <SKILL-FCP_CHILD_BASILISK_GROW Rarity="0">
-    <DescriptionInfo Name="Basilisk Growth" Description="DES_FCP_ABILITY_CHILD_BASILISK_GROW" IconName="SkillBite" />
+    <DescriptionInfo Name="Basilisk Growth" Description="DES_FCP_ABILITY_CHILD_BASILISK_GROW" IconName="FCPLineageBasilisk" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
+    <SkillSubskill Value="SUBSKILL-MULTI_VWEAK_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_CHILD_BASILISK" />
   </SKILL-FCP_CHILD_BASILISK_GROW>
   <SKILL-FCP_CHILD_WOLF_GROW Rarity="0">
-    <DescriptionInfo Name="Wolf Growth" Description="DES_FCP_ABILITY_CHILD_WOLF_GROW" IconName="SkillClawHit" />
+    <DescriptionInfo Name="Wolf Growth" Description="DES_FCP_ABILITY_CHILD_WOLF_GROW" IconName="FCPLineageWolf" />
     <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillSubskill Value="SUBSKILL-MULTI_VWEAK_ADD_PERCEPTION" />
     <SkillGroupFilter Value="FCP_CHILD_WOLF" />
   </SKILL-FCP_CHILD_WOLF_GROW>
   <SKILL-FCP_PHOENIX_ASHES_T3 Rarity="0">
-    <DescriptionInfo Name="Phoenix Ashes" Description="DES_FCP_ABILITY_PHOENIX_ASHES_T3" IconName="SkillDragonBreath" />
+    <DescriptionInfo Name="Phoenix Ashes" Description="DES_FCP_ABILITY_PHOENIX_ASHES_T3" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-FIREBALL" />
     <SkillGroupFilter Value="FCP_PHOENIX" />
   </SKILL-FCP_PHOENIX_ASHES_T3>
   <SKILL-FCP_KIRIN_BLESSING_T3 Rarity="0">
-    <DescriptionInfo Name="Kirin Blessing" Description="DES_FCP_ABILITY_KIRIN_BLESSING_T3" IconName="SkillBlessP" />
+    <DescriptionInfo Name="Kirin Blessing" Description="DES_FCP_ABILITY_KIRIN_BLESSING_T3" IconName="FCPLineageKirin" />
     <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-GROUP_HEAL_P" />
     <SkillGroupFilter Value="FCP_KIRIN" />
   </SKILL-FCP_KIRIN_BLESSING_T3>
   <SKILL-FCP_BASILISK_VENOM_T3 Rarity="0">
-    <DescriptionInfo Name="Basilisk Venom" Description="DES_FCP_ABILITY_BASILISK_VENOM_T3" IconName="SkillBite" />
+    <DescriptionInfo Name="Basilisk Venom" Description="DES_FCP_ABILITY_BASILISK_VENOM_T3" IconName="FCPLineageBasilisk" />
     <BaseEssence Amount="10" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-DELAY_ENEMIES" />
     <SkillGroupFilter Value="FCP_BASILISK" />
   </SKILL-FCP_BASILISK_VENOM_T3>
-  <SKILL-FCP_CHILD_GRIFFIN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_GRIFFIN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -209,10 +209,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_GRIFFIN" />
   </SKILL-FCP_CHILD_GRIFFIN_GROW_UP>
-  <SKILL-FCP_CHILD_KIRIN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_KIRIN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_KIRIN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -224,10 +224,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_KIRIN" />
   </SKILL-FCP_CHILD_KIRIN_GROW_UP>
-  <SKILL-FCP_CHILD_MERMAID_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_MERMAID_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_MERMAID_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -239,10 +239,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_MERMAID" />
   </SKILL-FCP_CHILD_MERMAID_GROW_UP>
-  <SKILL-FCP_CHILD_PHOENIX_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_PHOENIX_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_PHOENIX_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -254,10 +254,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_PHOENIX" />
   </SKILL-FCP_CHILD_PHOENIX_GROW_UP>
-  <SKILL-FCP_CHILD_UNICORN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_UNICORN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_UNICORN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -269,10 +269,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_UNICORN" />
   </SKILL-FCP_CHILD_UNICORN_GROW_UP>
-  <SKILL-FCP_CHILD_ENT_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_ENT_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_ENT_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -284,10 +284,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_ENT" />
   </SKILL-FCP_CHILD_ENT_GROW_UP>
-  <SKILL-FCP_CHILD_BASILISK_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_BASILISK_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_BASILISK_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -299,10 +299,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_BASILISK" />
   </SKILL-FCP_CHILD_BASILISK_GROW_UP>
-  <SKILL-FCP_CHILD_WOLF_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_CHILD_WOLF_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_CHILD_WOLF_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -314,10 +314,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_CHILD_WOLF" />
   </SKILL-FCP_CHILD_WOLF_GROW_UP>
-  <SKILL-FCP_YOUNG_GRIFFIN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_GRIFFIN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_GRIFFIN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -329,10 +329,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_GRIFFIN" />
   </SKILL-FCP_YOUNG_GRIFFIN_GROW_UP>
-  <SKILL-FCP_YOUNG_KIRIN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_KIRIN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_KIRIN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -344,10 +344,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_KIRIN" />
   </SKILL-FCP_YOUNG_KIRIN_GROW_UP>
-  <SKILL-FCP_YOUNG_MERMAID_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_MERMAID_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_MERMAID_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -359,10 +359,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_MERMAID" />
   </SKILL-FCP_YOUNG_MERMAID_GROW_UP>
-  <SKILL-FCP_YOUNG_PHOENIX_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_PHOENIX_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_PHOENIX_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -374,10 +374,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_PHOENIX" />
   </SKILL-FCP_YOUNG_PHOENIX_GROW_UP>
-  <SKILL-FCP_YOUNG_UNICORN_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_UNICORN_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_UNICORN_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -389,10 +389,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_UNICORN" />
   </SKILL-FCP_YOUNG_UNICORN_GROW_UP>
-  <SKILL-FCP_YOUNG_ENT_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_ENT_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_ENT_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -404,10 +404,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_ENT" />
   </SKILL-FCP_YOUNG_ENT_GROW_UP>
-  <SKILL-FCP_YOUNG_BASILISK_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_BASILISK_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_BASILISK_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -419,10 +419,10 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_BASILISK" />
   </SKILL-FCP_YOUNG_BASILISK_GROW_UP>
-  <SKILL-FCP_YOUNG_WOLF_GROW_UP Rarity="0"> Rarity="0">
+  <SKILL-FCP_YOUNG_WOLF_GROW_UP Rarity="0">
     <DescriptionInfo Name="Growing Up" Description="DES_FCP_ABILITY_YOUNG_WOLF_GROW_UP" IconName="SkillChildrenGrowUp" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <ChargesCounter>
@@ -434,55 +434,103 @@
       <Script ScriptName="Deg_SimpleCountdown" />
       <FinalScript ScriptName="WActA_GrowUp" />
     </ChargesCounter>
-    <SkillSubskill Value="SUBSKILL-CHILD_GROW_UP" />
+    <SkillSubskill Value="SUBSKILL-FCP_GROWTH_COUNTDOWN" />
     <SkillGroupFilter Value="FCP_YOUNG_WOLF" />
   </SKILL-FCP_YOUNG_WOLF_GROW_UP>
-  <SKILL-FCP_YOUNG_GRIFFIN_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Rising Talons" Description="DES_FCP_ABILITY_YOUNG_GRIFFIN_AWAKENING" IconName="SkillClawHit" />
+  <SKILL-FCP_YOUNG_GRIFFIN_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Rising Talons" Description="DES_FCP_ABILITY_YOUNG_GRIFFIN_AWAKENING" IconName="FCPLineageGriffin" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_STRENGTH" />
     <SkillGroupFilter Value="FCP_YOUNG_GRIFFIN" />
   </SKILL-FCP_YOUNG_GRIFFIN_AWAKENING>
-  <SKILL-FCP_YOUNG_KIRIN_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Ancient Spark" Description="DES_FCP_ABILITY_YOUNG_KIRIN_AWAKENING" IconName="SkillNaturalKnowledge" />
+  <SKILL-FCP_YOUNG_KIRIN_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Ancient Spark" Description="DES_FCP_ABILITY_YOUNG_KIRIN_AWAKENING" IconName="FCPLineageKirin" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_WISDOM" />
     <SkillGroupFilter Value="FCP_YOUNG_KIRIN" />
   </SKILL-FCP_YOUNG_KIRIN_AWAKENING>
-  <SKILL-FCP_YOUNG_MERMAID_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Tidal Voice" Description="DES_FCP_ABILITY_YOUNG_MERMAID_AWAKENING" IconName="SkillBite" />
+  <SKILL-FCP_YOUNG_MERMAID_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Tidal Voice" Description="DES_FCP_ABILITY_YOUNG_MERMAID_AWAKENING" IconName="FCPLineageMermaid" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_MYSTICISM" />
     <SkillGroupFilter Value="FCP_YOUNG_MERMAID" />
   </SKILL-FCP_YOUNG_MERMAID_AWAKENING>
-  <SKILL-FCP_YOUNG_PHOENIX_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Kindling Heart" Description="DES_FCP_ABILITY_YOUNG_PHOENIX_AWAKENING" IconName="SkillDragonBreath" />
+  <SKILL-FCP_YOUNG_PHOENIX_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Kindling Heart" Description="DES_FCP_ABILITY_YOUNG_PHOENIX_AWAKENING" IconName="FCPLineagePhoenix" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_YOUNG_PHOENIX" />
   </SKILL-FCP_YOUNG_PHOENIX_AWAKENING>
-  <SKILL-FCP_YOUNG_UNICORN_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Lunar Grace" Description="DES_FCP_ABILITY_YOUNG_UNICORN_AWAKENING" IconName="SkillBlessP" />
+  <SKILL-FCP_YOUNG_UNICORN_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Lunar Grace" Description="DES_FCP_ABILITY_YOUNG_UNICORN_AWAKENING" IconName="FCPLineageUnicorn" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-MULTI_WEAK_ADD_DESTINY" />
     <SkillGroupFilter Value="FCP_YOUNG_UNICORN" />
   </SKILL-FCP_YOUNG_UNICORN_AWAKENING>
-  <SKILL-FCP_YOUNG_ENT_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Growing Roots" Description="DES_FCP_ABILITY_YOUNG_ENT_AWAKENING" IconName="SkillSeedsGrow" />
+  <SKILL-FCP_YOUNG_ENT_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Growing Roots" Description="DES_FCP_ABILITY_YOUNG_ENT_AWAKENING" IconName="FCPLineageEnt" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-CONST_WEAK_MULTI_ADD_HEALTH" />
     <SkillGroupFilter Value="FCP_YOUNG_ENT" />
   </SKILL-FCP_YOUNG_ENT_AWAKENING>
-  <SKILL-FCP_YOUNG_BASILISK_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Venomous Gaze" Description="DES_FCP_ABILITY_YOUNG_BASILISK_AWAKENING" IconName="SkillPoisonBite" />
+  <SKILL-FCP_YOUNG_BASILISK_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Hardened Scales" Description="DES_FCP_ABILITY_YOUNG_BASILISK_AWAKENING" IconName="FCPLineageBasilisk" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
-    <SkillSubskill Value="SUBSKILL-POISON_BITE" />
+    <SkillSubskill Value="SUBSKILL-MULTI_ADD_VWEAK_SHIELDING_PHYSICAL" />
     <SkillGroupFilter Value="FCP_YOUNG_BASILISK" />
   </SKILL-FCP_YOUNG_BASILISK_AWAKENING>
-  <SKILL-FCP_YOUNG_WOLF_AWAKENING Rarity="0"> Rarity="0">
-    <DescriptionInfo Name="Pack Runner" Description="DES_FCP_ABILITY_YOUNG_WOLF_AWAKENING" IconName="SkillClawHit" />
+  <SKILL-FCP_YOUNG_WOLF_AWAKENING Rarity="0">
+    <DescriptionInfo Name="Pack Runner" Description="DES_FCP_ABILITY_YOUNG_WOLF_AWAKENING" IconName="FCPLineageWolf" />
     <BaseEssence Amount="0" Tag="TAG-ESSENCE_GRAY" />
     <SkillSubskill Value="SUBSKILL-CONST_WEAK_ADD_MOVEMENT" />
     <SkillGroupFilter Value="FCP_YOUNG_WOLF" />
   </SKILL-FCP_YOUNG_WOLF_AWAKENING>
+  <SKILL-FCP_YOUNG_GRIFFIN_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Young Talons" Description="DES_FCP_ABILITY_YOUNG_GRIFFIN_ACTIVE" IconName="FCPLineageGriffin" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillGroupFilter Value="FCP_YOUNG_GRIFFIN" />
+  </SKILL-FCP_YOUNG_GRIFFIN_ACTIVE>
+  <SKILL-FCP_YOUNG_KIRIN_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Protective Touch" Description="DES_FCP_ABILITY_YOUNG_KIRIN_ACTIVE" IconName="FCPLineageKirin" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_SHIELDING_MEDIUM_P" />
+    <SkillGroupFilter Value="FCP_YOUNG_KIRIN" />
+  </SKILL-FCP_YOUNG_KIRIN_ACTIVE>
+  <SKILL-FCP_YOUNG_MERMAID_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Undertow" Description="DES_FCP_ABILITY_YOUNG_MERMAID_ACTIVE" IconName="FCPLineageMermaid" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-DELAY_ENEMY" />
+    <SkillGroupFilter Value="FCP_YOUNG_MERMAID" />
+  </SKILL-FCP_YOUNG_MERMAID_ACTIVE>
+  <SKILL-FCP_YOUNG_PHOENIX_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Young Flame" Description="DES_FCP_ABILITY_YOUNG_PHOENIX_ACTIVE" IconName="FCPLineagePhoenix" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-FIREBALL" />
+    <SkillGroupFilter Value="FCP_YOUNG_PHOENIX" />
+  </SKILL-FCP_YOUNG_PHOENIX_ACTIVE>
+  <SKILL-FCP_YOUNG_UNICORN_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Moonlit Ward" Description="DES_FCP_ABILITY_YOUNG_UNICORN_ACTIVE" IconName="FCPLineageUnicorn" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-ADD_SHIELDING_MEDIUM_S" />
+    <SkillGroupFilter Value="FCP_YOUNG_UNICORN" />
+  </SKILL-FCP_YOUNG_UNICORN_ACTIVE>
+  <SKILL-FCP_YOUNG_ENT_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Branch Strike" Description="DES_FCP_ABILITY_YOUNG_ENT_ACTIVE" IconName="FCPLineageEnt" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-CLAW_HIT" />
+    <SkillGroupFilter Value="FCP_YOUNG_ENT" />
+  </SKILL-FCP_YOUNG_ENT_ACTIVE>
+  <SKILL-FCP_YOUNG_BASILISK_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Venomous Bite" Description="DES_FCP_ABILITY_YOUNG_BASILISK_ACTIVE" IconName="FCPLineageBasilisk" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-POISON_BITE" />
+    <SkillGroupFilter Value="FCP_YOUNG_BASILISK" />
+  </SKILL-FCP_YOUNG_BASILISK_ACTIVE>
+  <SKILL-FCP_YOUNG_WOLF_ACTIVE Rarity="0">
+    <DescriptionInfo Name="Pack Bite" Description="DES_FCP_ABILITY_YOUNG_WOLF_ACTIVE" IconName="FCPLineageWolf" />
+    <BaseEssence Amount="5" Tag="TAG-ESSENCE_GRAY" />
+    <SkillSubskill Value="SUBSKILL-BITE" />
+    <SkillGroupFilter Value="FCP_YOUNG_WOLF" />
+  </SKILL-FCP_YOUNG_WOLF_ACTIVE>
 </SKILLS_1_NATURAL>

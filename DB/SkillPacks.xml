@@ -135,6 +135,7 @@
   </SKILL_PACK-FCP_CHILD_WOLF>
   <SKILL_PACK-FCP_YOUNG_GRIFFIN>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_GRIFFIN_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_GRIFFIN_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_GRIFFIN_GROW_UP" />
     <SkillGroupFilters>
@@ -143,6 +144,7 @@
   </SKILL_PACK-FCP_YOUNG_GRIFFIN>
   <SKILL_PACK-FCP_YOUNG_KIRIN>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_KIRIN_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_KIRIN_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_KIRIN_GROW_UP" />
     <SkillGroupFilters>
@@ -151,6 +153,7 @@
   </SKILL_PACK-FCP_YOUNG_KIRIN>
   <SKILL_PACK-FCP_YOUNG_MERMAID>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_MERMAID_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_MERMAID_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_MERMAID_GROW_UP" />
     <SkillGroupFilters>
@@ -159,6 +162,7 @@
   </SKILL_PACK-FCP_YOUNG_MERMAID>
   <SKILL_PACK-FCP_YOUNG_PHOENIX>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_PHOENIX_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_PHOENIX_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_PHOENIX_GROW_UP" />
     <SkillGroupFilters>
@@ -167,6 +171,7 @@
   </SKILL_PACK-FCP_YOUNG_PHOENIX>
   <SKILL_PACK-FCP_YOUNG_UNICORN>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_UNICORN_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_UNICORN_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_UNICORN_GROW_UP" />
     <SkillGroupFilters>
@@ -175,6 +180,7 @@
   </SKILL_PACK-FCP_YOUNG_UNICORN>
   <SKILL_PACK-FCP_YOUNG_ENT>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_ENT_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_ENT_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_ENT_GROW_UP" />
     <SkillGroupFilters>
@@ -183,6 +189,7 @@
   </SKILL_PACK-FCP_YOUNG_ENT>
   <SKILL_PACK-FCP_YOUNG_BASILISK>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_BASILISK_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_BASILISK_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_BASILISK_GROW_UP" />
     <SkillGroupFilters>
@@ -191,6 +198,7 @@
   </SKILL_PACK-FCP_YOUNG_BASILISK>
   <SKILL_PACK-FCP_YOUNG_WOLF>
     <RarityRange MinimumCount="0" MaximumCount="100" />
+    <GuarantedSkill Value="SKILL-FCP_YOUNG_WOLF_ACTIVE" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_WOLF_AWAKENING" />
     <GuarantedSkill Value="SKILL-FCP_YOUNG_WOLF_GROW_UP" />
     <SkillGroupFilters>

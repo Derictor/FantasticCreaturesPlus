@@ -1,6 +1,6 @@
-﻿<SETTLEMENT>
+<SETTLEMENT>
   <SET-FCP_GRIFFIN Rarity="12">
-    <DescriptionInfo Name="Mountain Peaks" Description="DES_FCP_SETTLEMENT_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Mountain Peaks" Description="DES_FCP_SETTLEMENT_GRIFFIN" IconName="FCPLineageGriffin" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_GRIFFIN" />
     <SpawnGroup Group="GROUP-FCP_GRIFFIN_L5" />
@@ -16,7 +16,7 @@
     <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN_ANCIENT1" Requirement="OptionalType" />
   </SET-FCP_GRIFFIN>
   <SET-FCP_KIRIN Rarity="12">
-    <DescriptionInfo Name="Ancient Forest" Description="DES_FCP_SETTLEMENT_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Forest" Description="DES_FCP_SETTLEMENT_KIRIN" IconName="FCPLineageKirin" />
     <TerrainModel Value="ElfSacredGrove1" />
     <EventsCollection Value="EVENTC-FCP_KIRIN" />
     <SpawnGroup Group="GROUP-FCP_KIRIN_L6" />
@@ -34,7 +34,7 @@
     <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT5" Requirement="OptionalType" />
   </SET-FCP_KIRIN>
   <SET-FCP_MERMAID Rarity="12">
-    <DescriptionInfo Name="Deep Lake" Description="DES_FCP_SETTLEMENT_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Deep Lake" Description="DES_FCP_SETTLEMENT_MERMAID" IconName="FCPLineageMermaid" />
     <TerrainModel Value="Ruins1" />
     <EventsCollection Value="EVENTC-FCP_MERMAID" />
     <SpawnGroup Group="GROUP-FCP_MERMAID_L4" />
@@ -51,7 +51,7 @@
     <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT3" Requirement="OptionalType" />
   </SET-FCP_MERMAID>
   <SET-FCP_PHOENIX Rarity="12">
-    <DescriptionInfo Name="Volcanic Ash" Description="DES_FCP_SETTLEMENT_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Volcanic Ash" Description="DES_FCP_SETTLEMENT_PHOENIX" IconName="FCPLineagePhoenix" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_PHOENIX" />
     <SpawnGroup Group="GROUP-FCP_PHOENIX_L7" />
@@ -66,7 +66,7 @@
     <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC2" Requirement="OptionalType" />
   </SET-FCP_PHOENIX>
   <SET-FCP_UNICORN Rarity="12">
-    <DescriptionInfo Name="Moonlit Forest" Description="DES_FCP_SETTLEMENT_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Moonlit Forest" Description="DES_FCP_SETTLEMENT_UNICORN" IconName="FCPLineageUnicorn" />
     <TerrainModel Value="ElfSacredGrove1" />
     <EventsCollection Value="EVENTC-FCP_UNICORN" />
     <SpawnGroup Group="GROUP-FCP_UNICORN_L6" />
@@ -83,7 +83,7 @@
     <SpawnTerrain Terrain="TERRAIN-DARK_GRASS4" Requirement="OptionalType" />
   </SET-FCP_UNICORN>
   <SET-FCP_ENT Rarity="12">
-    <DescriptionInfo Name="Oldest Tree" Description="DES_FCP_SETTLEMENT_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Oldest Tree" Description="DES_FCP_SETTLEMENT_ENT" IconName="FCPLineageEnt" />
     <TerrainModel Value="Woods1" />
     <EventsCollection Value="EVENTC-FCP_ENT" />
     <SpawnGroup Group="GROUP-FCP_ENT_L5" />
@@ -101,7 +101,7 @@
     <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT5" Requirement="OptionalType" />
   </SET-FCP_ENT>
   <SET-FCP_BASILISK Rarity="12">
-    <DescriptionInfo Name="Dark Cave" Description="DES_FCP_SETTLEMENT_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Dark Cave" Description="DES_FCP_SETTLEMENT_BASILISK" IconName="FCPLineageBasilisk" />
     <TerrainModel Value="Ruins1" />
     <EventsCollection Value="EVENTC-FCP_BASILISK" />
     <SpawnGroup Group="GROUP-FCP_BASILISK_L6" />
@@ -120,7 +120,7 @@
     <SpawnTerrain Terrain="TERRAIN-SWAMP2" Requirement="OptionalType" />
   </SET-FCP_BASILISK>
   <SET-FCP_WOLF Rarity="12">
-    <DescriptionInfo Name="Moon Pack" Description="DES_FCP_SETTLEMENT_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Moon Pack" Description="DES_FCP_SETTLEMENT_WOLF" IconName="FCPLineageWolf" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_WOLF" />
     <SpawnGroup Group="GROUP-FCP_WOLF_L4" />
@@ -137,7 +137,7 @@
     <SpawnTerrain Terrain="TERRAIN-DARK_GRASS4" Requirement="OptionalType" />
   </SET-FCP_WOLF>
   <SET-FCP_CHILD_GRIFFIN Rarity="20">
-    <DescriptionInfo Name="Griffin Nest" Description="DES_FCP_SETTLEMENT_CHILD_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Nest" Description="DES_FCP_SETTLEMENT_CHILD_GRIFFIN" IconName="FCPLineageGriffin" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_GRIFFIN" />
     <SpawnGroup Group="GROUP-FCP_CHILD_GRIFFIN_L1" />
@@ -147,7 +147,7 @@
     <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN_ANCIENT1" Requirement="OptionalType" />
   </SET-FCP_CHILD_GRIFFIN>
   <SET-FCP_CHILD_KIRIN Rarity="20">
-    <DescriptionInfo Name="Ancient Glade" Description="DES_FCP_SETTLEMENT_CHILD_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Glade" Description="DES_FCP_SETTLEMENT_CHILD_KIRIN" IconName="FCPLineageKirin" />
     <TerrainModel Value="ElfSacredGrove1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_KIRIN" />
     <SpawnGroup Group="GROUP-FCP_CHILD_KIRIN_L1" />
@@ -157,7 +157,7 @@
     <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT3" Requirement="OptionalType" />
   </SET-FCP_CHILD_KIRIN>
   <SET-FCP_CHILD_MERMAID Rarity="20">
-    <DescriptionInfo Name="Shallow Pool" Description="DES_FCP_SETTLEMENT_CHILD_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Shallow Pool" Description="DES_FCP_SETTLEMENT_CHILD_MERMAID" IconName="FCPLineageMermaid" />
     <TerrainModel Value="Ruins1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_MERMAID" />
     <SpawnGroup Group="GROUP-FCP_CHILD_MERMAID_L1" />
@@ -166,7 +166,7 @@
     <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT1" Requirement="OptionalType" />
   </SET-FCP_CHILD_MERMAID>
   <SET-FCP_CHILD_PHOENIX Rarity="20">
-    <DescriptionInfo Name="Ash Crater" Description="DES_FCP_SETTLEMENT_CHILD_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ash Crater" Description="DES_FCP_SETTLEMENT_CHILD_PHOENIX" IconName="FCPLineagePhoenix" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_PHOENIX" />
     <SpawnGroup Group="GROUP-FCP_CHILD_PHOENIX_L1" />
@@ -175,7 +175,7 @@
     <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC2" Requirement="OptionalType" />
   </SET-FCP_CHILD_PHOENIX>
   <SET-FCP_CHILD_UNICORN Rarity="20">
-    <DescriptionInfo Name="Moonlit Glade" Description="DES_FCP_SETTLEMENT_CHILD_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Moonlit Glade" Description="DES_FCP_SETTLEMENT_CHILD_UNICORN" IconName="FCPLineageUnicorn" />
     <TerrainModel Value="ElfSacredGrove1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_UNICORN" />
     <SpawnGroup Group="GROUP-FCP_CHILD_UNICORN_L1" />
@@ -184,7 +184,7 @@
     <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
   </SET-FCP_CHILD_UNICORN>
   <SET-FCP_CHILD_ENT Rarity="20">
-    <DescriptionInfo Name="Young Grove" Description="DES_FCP_SETTLEMENT_CHILD_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Young Grove" Description="DES_FCP_SETTLEMENT_CHILD_ENT" IconName="FCPLineageEnt" />
     <TerrainModel Value="Woods1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_ENT" />
     <SpawnGroup Group="GROUP-FCP_CHILD_ENT_L1" />
@@ -193,7 +193,7 @@
     <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT2" Requirement="OptionalType" />
   </SET-FCP_CHILD_ENT>
   <SET-FCP_CHILD_BASILISK Rarity="20">
-    <DescriptionInfo Name="Dark Crevice" Description="DES_FCP_SETTLEMENT_CHILD_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Dark Crevice" Description="DES_FCP_SETTLEMENT_CHILD_BASILISK" IconName="FCPLineageBasilisk" />
     <TerrainModel Value="Ruins1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_BASILISK" />
     <SpawnGroup Group="GROUP-FCP_CHILD_BASILISK_L1" />
@@ -202,7 +202,7 @@
     <SpawnTerrain Terrain="TERRAIN-SWAMP1" Requirement="OptionalType" />
   </SET-FCP_CHILD_BASILISK>
   <SET-FCP_CHILD_WOLF Rarity="20">
-    <DescriptionInfo Name="Wolf Den" Description="DES_FCP_SETTLEMENT_CHILD_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Wolf Den" Description="DES_FCP_SETTLEMENT_CHILD_WOLF" IconName="FCPLineageWolf" />
     <TerrainModel Value="Nest1" />
     <EventsCollection Value="EVENTC-FCP_CHILD_WOLF" />
     <SpawnGroup Group="GROUP-FCP_CHILD_WOLF_L1" />
@@ -210,4 +210,86 @@
     <SpawnTerrain Terrain="TERRAIN-DARK_GRASS1" Requirement="OptionalType" />
     <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
   </SET-FCP_CHILD_WOLF>
+  <SET-FCP_YOUNG_GRIFFIN Rarity="16">
+    <DescriptionInfo Name="Young Griffin Encampment" Description="DES_FCP_CREATURE_YOUNG_GRIFFIN" IconName="FCPLineageGriffin" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_GRIFFIN" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_GRIFFIN_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_GRIFFIN_L3" />
+    <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN1_METALLIC" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MOUNTAIN1_METALLIC" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DRY_MOUNTAIN_ANCIENT1" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_GRIFFIN>
+
+  <SET-FCP_YOUNG_KIRIN Rarity="16">
+    <DescriptionInfo Name="Young Kirin Encampment" Description="DES_FCP_CREATURE_YOUNG_KIRIN" IconName="FCPLineageKirin" />
+    <TerrainModel Value="ElfSacredGrove1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_KIRIN" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_KIRIN_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_KIRIN_L3" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT2" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT3" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_KIRIN>
+
+  <SET-FCP_YOUNG_MERMAID Rarity="16">
+    <DescriptionInfo Name="Young Mermaid Encampment" Description="DES_FCP_CREATURE_YOUNG_MERMAID" IconName="FCPLineageMermaid" />
+    <TerrainModel Value="Ruins1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_MERMAID" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_MERMAID_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_MERMAID_L3" />
+    <SpawnTerrain Terrain="TERRAIN-SEA" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-WET_ANCIENT1" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_MERMAID>
+
+  <SET-FCP_YOUNG_PHOENIX Rarity="16">
+    <DescriptionInfo Name="Young Phoenix Encampment" Description="DES_FCP_CREATURE_YOUNG_PHOENIX" IconName="FCPLineagePhoenix" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_PHOENIX" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_PHOENIX_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_PHOENIX_L3" />
+    <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-ACTIVE_VOLCANIC2" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_PHOENIX>
+
+  <SET-FCP_YOUNG_UNICORN Rarity="16">
+    <DescriptionInfo Name="Young Unicorn Encampment" Description="DES_FCP_CREATURE_YOUNG_UNICORN" IconName="FCPLineageUnicorn" />
+    <TerrainModel Value="ElfSacredGrove1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_UNICORN" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_UNICORN_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_UNICORN_L3" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_UNICORN>
+
+  <SET-FCP_YOUNG_ENT Rarity="16">
+    <DescriptionInfo Name="Young Ent Encampment" Description="DES_FCP_CREATURE_YOUNG_ENT" IconName="FCPLineageEnt" />
+    <TerrainModel Value="Woods1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_ENT" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_ENT_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_ENT_L3" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-MED_ANCIENT2" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_ENT>
+
+  <SET-FCP_YOUNG_BASILISK Rarity="16">
+    <DescriptionInfo Name="Young Basilisk Encampment" Description="DES_FCP_CREATURE_YOUNG_BASILISK" IconName="FCPLineageBasilisk" />
+    <TerrainModel Value="Ruins1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_BASILISK" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_BASILISK_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_BASILISK_L3" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_DIRT1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-SWAMP1" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_BASILISK>
+
+  <SET-FCP_YOUNG_WOLF Rarity="16">
+    <DescriptionInfo Name="Young Wolf Encampment" Description="DES_FCP_CREATURE_YOUNG_WOLF" IconName="FCPLineageWolf" />
+    <TerrainModel Value="Nest1" />
+    <EventsCollection Value="EVENTC-FCP_YOUNG_WOLF" />
+    <SpawnGroup Group="GROUP-FCP_YOUNG_WOLF_L3" />
+    <DefaultDefender Group="GROUP-FCP_YOUNG_WOLF_L3" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS1" Requirement="OptionalType" />
+    <SpawnTerrain Terrain="TERRAIN-DARK_GRASS2" Requirement="OptionalType" />
+  </SET-FCP_YOUNG_WOLF>
+
 </SETTLEMENT>

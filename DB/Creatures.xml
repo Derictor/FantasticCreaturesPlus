@@ -1,6 +1,6 @@
-﻿<SUBRACES>
+<SUBRACES>
   <SUBRACE-FCP_GRIFFIN>
-    <DescriptionInfo Name="Griffin" Description="DES_FCP_CREATURE_GRIFFIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Griffin" Description="DES_FCP_CREATURE_GRIFFIN" IconName="FCPLineageGriffin" />
     <Race Value="RACE-FCPGRIFFIN" />
     <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="14" Tag="TAG-STRENGTH" />
@@ -17,13 +17,16 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_GRIFFIN" />
     <GraphicMale Value="FCPGriffin" />
     <GraphicFemale Value="FCPGriffin" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_GRIFFIN_TALON_BLADE" />
   </SUBRACE-FCP_GRIFFIN>
   <SUBRACE-FCP_KIRIN>
-    <DescriptionInfo Name="Kirin" Description="DES_FCP_CREATURE_KIRIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Kirin" Description="DES_FCP_CREATURE_KIRIN" IconName="FCPLineageKirin" />
     <Race Value="RACE-FCPKIRIN" />
     <MainSubraceAttributes Amount="10" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="12" Tag="TAG-STRENGTH" />
@@ -40,13 +43,16 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_KIRIN" />
     <GraphicMale Value="FCPKirin" />
     <GraphicFemale Value="FCPKirin" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_KIRIN_HORN_STAFF" />
   </SUBRACE-FCP_KIRIN>
   <SUBRACE-FCP_MERMAID>
-    <DescriptionInfo Name="Mermaid" Description="DES_FCP_CREATURE_MERMAID" IconName="ClassMythical" />
+    <DescriptionInfo Name="Mermaid" Description="DES_FCP_CREATURE_MERMAID" IconName="FCPLineageMermaid" />
     <Race Value="RACE-FCPMERMAID" />
     <MainSubraceAttributes Amount="9" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="8" Tag="TAG-STRENGTH" />
@@ -63,13 +69,16 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="100">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_MERMAID" />
     <GraphicMale Value="FCPMermaid" />
     <GraphicFemale Value="FCPMermaid" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_ABYSSAL_TRIDENT" />
   </SUBRACE-FCP_MERMAID>
   <SUBRACE-FCP_PHOENIX>
-    <DescriptionInfo Name="Phoenix" Description="DES_FCP_CREATURE_PHOENIX" IconName="ClassMythical" />
+    <DescriptionInfo Name="Phoenix" Description="DES_FCP_CREATURE_PHOENIX" IconName="FCPLineagePhoenix" />
     <Race Value="RACE-FCPPHOENIX" />
     <MainSubraceAttributes Amount="8" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="12" Tag="TAG-STRENGTH" />
@@ -86,13 +95,16 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_PHOENIX" />
     <GraphicMale Value="FCPPhoenix" />
     <GraphicFemale Value="FCPPhoenix" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_PHOENIX_FEATHER_BOW" />
   </SUBRACE-FCP_PHOENIX>
   <SUBRACE-FCP_UNICORN>
-    <DescriptionInfo Name="Unicorn" Description="DES_FCP_CREATURE_UNICORN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Unicorn" Description="DES_FCP_CREATURE_UNICORN" IconName="FCPLineageUnicorn" />
     <Race Value="RACE-FCPUNICORN" />
     <MainSubraceAttributes Amount="10" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
@@ -109,13 +121,16 @@
     <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_UNICORN" />
     <GraphicMale Value="FCPUnicorn" />
     <GraphicFemale Value="FCPUnicorn" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_LUNAR_HORN_LANCE" />
   </SUBRACE-FCP_UNICORN>
   <SUBRACE-FCP_ENT>
-    <DescriptionInfo Name="Ent" Description="DES_FCP_CREATURE_ENT" IconName="ClassMythical" />
+    <DescriptionInfo Name="Ent" Description="DES_FCP_CREATURE_ENT" IconName="FCPLineageEnt" />
     <Race Value="RACE-FCPENT" />
     <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="15" Tag="TAG-STRENGTH" />
@@ -132,13 +147,16 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="300" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_ENT" />
     <GraphicMale Value="FCPEnt" />
     <GraphicFemale Value="FCPEnt" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_BRANCH_MACE" />
   </SUBRACE-FCP_ENT>
   <SUBRACE-FCP_BASILISK>
-    <DescriptionInfo Name="Basilisk" Description="DES_FCP_CREATURE_BASILISK" IconName="ClassMythical" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_CREATURE_BASILISK" IconName="FCPLineageBasilisk" />
     <Race Value="RACE-FCPBASILISK" />
     <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
@@ -155,13 +173,16 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_BASILISK" />
     <GraphicMale Value="FCPBasilisk" />
     <GraphicFemale Value="FCPBasilisk" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_BASILISK_FANG_DAGGER" />
   </SUBRACE-FCP_BASILISK>
   <SUBRACE-FCP_WOLF>
-    <DescriptionInfo Name="Wolf" Description="DES_FCP_CREATURE_WOLF" IconName="ClassMythical" />
+    <DescriptionInfo Name="Wolf" Description="DES_FCP_CREATURE_WOLF" IconName="FCPLineageWolf" />
     <Race Value="RACE-FCPWOLF" />
     <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="13" Tag="TAG-STRENGTH" />
@@ -178,13 +199,16 @@
     <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="250" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_WOLF" />
     <GraphicMale Value="FCPWolf" />
     <GraphicFemale Value="FCPWolf" />
     <DefaultCargo Chance="100" ItemCargo="ITEM_CARGO-FCP_LUNAR_FANG_SWORD" />
   </SUBRACE-FCP_WOLF>
   <SUBRACE-FCP_CHILD_GRIFFIN>
-    <DescriptionInfo Name="Griffin Chick" Description="DES_FCP_CREATURE_CHILD_GRIFFIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Griffin Chick" Description="DES_FCP_CREATURE_CHILD_GRIFFIN" IconName="FCPLineageGriffin" />
     <Race Value="RACE-FCPCHILDGRIFFIN" />
     <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="6" Tag="TAG-STRENGTH" />
@@ -193,6 +217,7 @@
     <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="6" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -201,12 +226,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_GRIFFIN" />
-    <GraphicMale Value="FCPGriffinChild" />
-    <GraphicFemale Value="FCPGriffinChild" />
+    <GraphicMale Value="FCPChildGriffin" />
+    <GraphicFemale Value="FCPChildGriffin" />
   </SUBRACE-FCP_CHILD_GRIFFIN>
   <SUBRACE-FCP_CHILD_KIRIN>
-    <DescriptionInfo Name="Kirin Foal" Description="DES_FCP_CREATURE_CHILD_KIRIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Kirin Foal" Description="DES_FCP_CREATURE_CHILD_KIRIN" IconName="FCPLineageKirin" />
     <Race Value="RACE-FCPCHILDKIRIN" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="6" Tag="TAG-STRENGTH" />
@@ -215,6 +243,7 @@
     <MainSubraceAttributes Amount="7" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="25" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="18" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -223,12 +252,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="7" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_KIRIN" />
-    <GraphicMale Value="FCPKirinChild" />
-    <GraphicFemale Value="FCPKirinChild" />
+    <GraphicMale Value="FCPChildKirin" />
+    <GraphicFemale Value="FCPChildKirin" />
   </SUBRACE-FCP_CHILD_KIRIN>
   <SUBRACE-FCP_CHILD_MERMAID>
-    <DescriptionInfo Name="Mermaid Spawn" Description="DES_FCP_CREATURE_CHILD_MERMAID" IconName="ClassMythical" />
+    <DescriptionInfo Name="Mermaid Spawn" Description="DES_FCP_CREATURE_CHILD_MERMAID" IconName="FCPLineageMermaid" />
     <Race Value="RACE-FCPCHILDMERMAID" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="4" Tag="TAG-STRENGTH" />
@@ -237,6 +269,7 @@
     <MainSubraceAttributes Amount="7" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="22" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="18" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="20" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -245,12 +278,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="6" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="100">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_MERMAID" />
-    <GraphicMale Value="FCPMermaidChild" />
-    <GraphicFemale Value="FCPMermaidChild" />
+    <GraphicMale Value="FCPChildMermaid" />
+    <GraphicFemale Value="FCPChildMermaid" />
   </SUBRACE-FCP_CHILD_MERMAID>
   <SUBRACE-FCP_CHILD_PHOENIX>
-    <DescriptionInfo Name="Phoenix Hatchling" Description="DES_FCP_CREATURE_CHILD_PHOENIX" IconName="ClassMythical" />
+    <DescriptionInfo Name="Phoenix Hatchling" Description="DES_FCP_CREATURE_CHILD_PHOENIX" IconName="FCPLineagePhoenix" />
     <Race Value="RACE-FCPCHILDPHOENIX" />
     <MainSubraceAttributes Amount="4" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="6" Tag="TAG-STRENGTH" />
@@ -259,6 +295,7 @@
     <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="8" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="28" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -267,12 +304,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="7" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_PHOENIX" />
-    <GraphicMale Value="FCPPhoenixChild" />
-    <GraphicFemale Value="FCPPhoenixChild" />
+    <GraphicMale Value="FCPChildPhoenix" />
+    <GraphicFemale Value="FCPChildPhoenix" />
   </SUBRACE-FCP_CHILD_PHOENIX>
   <SUBRACE-FCP_CHILD_UNICORN>
-    <DescriptionInfo Name="Unicorn Foal" Description="DES_FCP_CREATURE_CHILD_UNICORN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Unicorn Foal" Description="DES_FCP_CREATURE_CHILD_UNICORN" IconName="FCPLineageUnicorn" />
     <Race Value="RACE-FCPCHILDUNICORN" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="7" Tag="TAG-STRENGTH" />
@@ -281,6 +321,7 @@
     <MainSubraceAttributes Amount="6" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="6" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="18" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -289,12 +330,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="7" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_UNICORN" />
-    <GraphicMale Value="FCPUnicornChild" />
-    <GraphicFemale Value="FCPUnicornChild" />
+    <GraphicMale Value="FCPChildUnicorn" />
+    <GraphicFemale Value="FCPChildUnicorn" />
   </SUBRACE-FCP_CHILD_UNICORN>
   <SUBRACE-FCP_CHILD_ENT>
-    <DescriptionInfo Name="Ent Sapling" Description="DES_FCP_CREATURE_CHILD_ENT" IconName="ClassMythical" />
+    <DescriptionInfo Name="Ent Sapling" Description="DES_FCP_CREATURE_CHILD_ENT" IconName="FCPLineageEnt" />
     <Race Value="RACE-FCPCHILDENT" />
     <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="8" Tag="TAG-STRENGTH" />
@@ -303,6 +347,7 @@
     <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="4" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="38" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="12" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -311,12 +356,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="6" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="150" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_ENT" />
-    <GraphicMale Value="FCPEntChild" />
-    <GraphicFemale Value="FCPEntChild" />
+    <GraphicMale Value="FCPChildEnt" />
+    <GraphicFemale Value="FCPChildEnt" />
   </SUBRACE-FCP_CHILD_ENT>
   <SUBRACE-FCP_CHILD_BASILISK>
-    <DescriptionInfo Name="Basilisk Hatchling" Description="DES_FCP_CREATURE_CHILD_BASILISK" IconName="ClassMythical" />
+    <DescriptionInfo Name="Basilisk Hatchling" Description="DES_FCP_CREATURE_CHILD_BASILISK" IconName="FCPLineageBasilisk" />
     <Race Value="RACE-FCPCHILDBASILISK" />
     <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="7" Tag="TAG-STRENGTH" />
@@ -325,6 +373,7 @@
     <MainSubraceAttributes Amount="4" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="3" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="5" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -333,12 +382,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="5" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_BASILISK" />
-    <GraphicMale Value="FCPBasiliskChild" />
-    <GraphicFemale Value="FCPBasiliskChild" />
+    <GraphicMale Value="FCPChildBasilisk" />
+    <GraphicFemale Value="FCPChildBasilisk" />
   </SUBRACE-FCP_CHILD_BASILISK>
   <SUBRACE-FCP_CHILD_WOLF>
-    <DescriptionInfo Name="Wolf Pup" Description="DES_FCP_CREATURE_CHILD_WOLF" IconName="ClassMythical" />
+    <DescriptionInfo Name="Wolf Pup" Description="DES_FCP_CREATURE_CHILD_WOLF" IconName="FCPLineageWolf" />
     <Race Value="RACE-FCPCHILDWOLF" />
     <MainSubraceAttributes Amount="3" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="7" Tag="TAG-STRENGTH" />
@@ -347,6 +399,7 @@
     <MainSubraceAttributes Amount="3" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="2" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="6" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="28" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -355,12 +408,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="7" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="120" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_CHILD_WOLF" />
-    <GraphicMale Value="FCPWolfChild" />
-    <GraphicFemale Value="FCPWolfChild" />
+    <GraphicMale Value="FCPChildWolf" />
+    <GraphicFemale Value="FCPChildWolf" />
   </SUBRACE-FCP_CHILD_WOLF>
   <SUBRACE-FCP_YOUNG_GRIFFIN>
-    <DescriptionInfo Name="Young Griffin" Description="DES_FCP_CREATURE_YOUNG_GRIFFIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Griffin" Description="DES_FCP_CREATURE_YOUNG_GRIFFIN" IconName="FCPLineageGriffin" />
     <Race Value="RACE-FCPYOUNGGRIFFIN" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="10" Tag="TAG-STRENGTH" />
@@ -369,6 +425,7 @@
     <MainSubraceAttributes Amount="6" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="9" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="48" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -377,12 +434,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="9" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_GRIFFIN" />
-    <GraphicMale Value="FCPGriffin" />
-    <GraphicFemale Value="FCPGriffin" />
+    <GraphicMale Value="FCPYoungGriffin" />
+    <GraphicFemale Value="FCPYoungGriffin" />
   </SUBRACE-FCP_YOUNG_GRIFFIN>
   <SUBRACE-FCP_YOUNG_KIRIN>
-    <DescriptionInfo Name="Young Kirin" Description="DES_FCP_CREATURE_YOUNG_KIRIN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Kirin" Description="DES_FCP_CREATURE_YOUNG_KIRIN" IconName="FCPLineageKirin" />
     <Race Value="RACE-FCPYOUNGKIRIN" />
     <MainSubraceAttributes Amount="8" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="9" Tag="TAG-STRENGTH" />
@@ -391,6 +451,7 @@
     <MainSubraceAttributes Amount="10" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="10" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="10" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="40" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="23" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="27" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -399,12 +460,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_KIRIN" />
-    <GraphicMale Value="FCPKirin" />
-    <GraphicFemale Value="FCPKirin" />
+    <GraphicMale Value="FCPYoungKirin" />
+    <GraphicFemale Value="FCPYoungKirin" />
   </SUBRACE-FCP_YOUNG_KIRIN>
   <SUBRACE-FCP_YOUNG_MERMAID>
-    <DescriptionInfo Name="Young Mermaid" Description="DES_FCP_CREATURE_YOUNG_MERMAID" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Mermaid" Description="DES_FCP_CREATURE_YOUNG_MERMAID" IconName="FCPLineageMermaid" />
     <Race Value="RACE-FCPYOUNGMERMAID" />
     <MainSubraceAttributes Amount="7" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="6" Tag="TAG-STRENGTH" />
@@ -413,6 +477,7 @@
     <MainSubraceAttributes Amount="10" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="10" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="8" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="36" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="27" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="30" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -421,12 +486,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="100">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_MERMAID" />
-    <GraphicMale Value="FCPMermaid" />
-    <GraphicFemale Value="FCPMermaid" />
+    <GraphicMale Value="FCPYoungMermaid" />
+    <GraphicFemale Value="FCPYoungMermaid" />
   </SUBRACE-FCP_YOUNG_MERMAID>
   <SUBRACE-FCP_YOUNG_PHOENIX>
-    <DescriptionInfo Name="Young Phoenix" Description="DES_FCP_CREATURE_YOUNG_PHOENIX" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Phoenix" Description="DES_FCP_CREATURE_YOUNG_PHOENIX" IconName="FCPLineagePhoenix" />
     <Race Value="RACE-FCPYOUNGPHOENIX" />
     <MainSubraceAttributes Amount="6" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="9" Tag="TAG-STRENGTH" />
@@ -435,6 +503,7 @@
     <MainSubraceAttributes Amount="8" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="10" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="11" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="42" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="19" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="23" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -443,12 +512,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_PHOENIX" />
-    <GraphicMale Value="FCPPhoenix" />
-    <GraphicFemale Value="FCPPhoenix" />
+    <GraphicMale Value="FCPYoungPhoenix" />
+    <GraphicFemale Value="FCPYoungPhoenix" />
   </SUBRACE-FCP_YOUNG_PHOENIX>
   <SUBRACE-FCP_YOUNG_UNICORN>
-    <DescriptionInfo Name="Young Unicorn" Description="DES_FCP_CREATURE_YOUNG_UNICORN" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Unicorn" Description="DES_FCP_CREATURE_YOUNG_UNICORN" IconName="FCPLineageUnicorn" />
     <Race Value="RACE-FCPYOUNGUNICORN" />
     <MainSubraceAttributes Amount="8" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="10" Tag="TAG-STRENGTH" />
@@ -457,6 +529,7 @@
     <MainSubraceAttributes Amount="9" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="9" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="11" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="45" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="23" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="27" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -465,12 +538,15 @@
     <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_UNICORN" />
-    <GraphicMale Value="FCPUnicorn" />
-    <GraphicFemale Value="FCPUnicorn" />
+    <GraphicMale Value="FCPYoungUnicorn" />
+    <GraphicFemale Value="FCPYoungUnicorn" />
   </SUBRACE-FCP_YOUNG_UNICORN>
   <SUBRACE-FCP_YOUNG_ENT>
-    <DescriptionInfo Name="Young Ent" Description="DES_FCP_CREATURE_YOUNG_ENT" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Ent" Description="DES_FCP_CREATURE_YOUNG_ENT" IconName="FCPLineageEnt" />
     <Race Value="RACE-FCPYOUNGENT" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="12" Tag="TAG-STRENGTH" />
@@ -479,6 +555,7 @@
     <MainSubraceAttributes Amount="8" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="6" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="57" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="19" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -487,12 +564,15 @@
     <SecondSubraceAttributes Amount="1" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="8" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="225" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_ENT" />
-    <GraphicMale Value="FCPEnt" />
-    <GraphicFemale Value="FCPEnt" />
+    <GraphicMale Value="FCPYoungEnt" />
+    <GraphicFemale Value="FCPYoungEnt" />
   </SUBRACE-FCP_YOUNG_ENT>
   <SUBRACE-FCP_YOUNG_BASILISK>
-    <DescriptionInfo Name="Young Basilisk" Description="DES_FCP_CREATURE_YOUNG_BASILISK" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Basilisk" Description="DES_FCP_CREATURE_YOUNG_BASILISK" IconName="FCPLineageBasilisk" />
     <Race Value="RACE-FCPYOUNGBASILISK" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="10" Tag="TAG-STRENGTH" />
@@ -501,6 +581,7 @@
     <MainSubraceAttributes Amount="6" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="5" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="7" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="45" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -509,12 +590,15 @@
     <SecondSubraceAttributes Amount="2" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="7" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_BASILISK" />
-    <GraphicMale Value="FCPBasilisk" />
-    <GraphicFemale Value="FCPBasilisk" />
+    <GraphicMale Value="FCPYoungBasilisk" />
+    <GraphicFemale Value="FCPYoungBasilisk" />
   </SUBRACE-FCP_YOUNG_BASILISK>
   <SUBRACE-FCP_YOUNG_WOLF>
-    <DescriptionInfo Name="Young Wolf" Description="DES_FCP_CREATURE_YOUNG_WOLF" IconName="ClassMythical" />
+    <DescriptionInfo Name="Young Wolf" Description="DES_FCP_CREATURE_YOUNG_WOLF" IconName="FCPLineageWolf" />
     <Race Value="RACE-FCPYOUNGWOLF" />
     <MainSubraceAttributes Amount="5" Tag="TAG-WITS" />
     <MainSubraceAttributes Amount="10" Tag="TAG-STRENGTH" />
@@ -523,6 +607,7 @@
     <MainSubraceAttributes Amount="5" Tag="TAG-WISDOM" />
     <MainSubraceAttributes Amount="4" Tag="TAG-MYSTICISM" />
     <MainSubraceAttributes Amount="9" Tag="TAG-DESTINY" />
+    <SecondSubraceAttributes Amount="1" Tag="TAG-CHILD" />
     <SecondSubraceAttributes Amount="42" Tag="TAG-MAX_HEALTH_PHYSICAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_MENTAL" />
     <SecondSubraceAttributes Amount="15" Tag="TAG-MAX_HEALTH_SPIRIT" />
@@ -531,9 +616,12 @@
     <SecondSubraceAttributes Amount="3" Tag="TAG-RANGE_OF_SIGHT_NIGHT" />
     <SecondSubraceAttributes Amount="10" Tag="TAG-MORALE" />
     <SecondSubraceAttributes Amount="185" Tag="TAG-PERSONAL_CARRY_LIMIT" />
+    <CommonSubraceAttributes Chance="50">
+      <CountedTag Amount="1" Tag="TAG-GENDER_FEMALE" />
+    </CommonSubraceAttributes>
     <NaturalSkills Value="SKILL_PACK-FCP_YOUNG_WOLF" />
-    <GraphicMale Value="FCPWolf" />
-    <GraphicFemale Value="FCPWolf" />
+    <GraphicMale Value="FCPYoungWolf" />
+    <GraphicFemale Value="FCPYoungWolf" />
   </SUBRACE-FCP_YOUNG_WOLF>
 </SUBRACES>
 

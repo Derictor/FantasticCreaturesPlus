@@ -1,0 +1,204 @@
+<DATABASE_DES_LOCALIZATION-NO_HSH>
+  <LOC_LIBRARY-EN_FCP_LINEAGES>
+    <Entry Key="DES_FCP_HALF_RACE_GRIFFIN" Val="Descendência com traços da linhagem de grifo." />
+    <Entry Key="DES_FCP_HALF_HUMAN_GRIFFIN_CHILD" Val="Filhote de linhagem humana e de grifo." />
+    <Entry Key="DES_FCP_HALF_HUMAN_GRIFFIN_YOUNG" Val="Jovem de linhagem humana e de grifo." />
+    <Entry Key="DES_FCP_HALF_HUMAN_GRIFFIN_ADULT" Val="Adulto de linhagem humana e de grifo." />
+    <Entry Key="DES_FCP_HALF_ELF_GRIFFIN_CHILD" Val="Filhote de linhagem élfica e de grifo." />
+    <Entry Key="DES_FCP_HALF_ELF_GRIFFIN_YOUNG" Val="Jovem de linhagem élfica e de grifo." />
+    <Entry Key="DES_FCP_HALF_ELF_GRIFFIN_ADULT" Val="Adulto de linhagem élfica e de grifo." />
+    <Entry Key="DES_FCP_HALF_ORC_GRIFFIN_CHILD" Val="Filhote de linhagem orc e de grifo." />
+    <Entry Key="DES_FCP_HALF_ORC_GRIFFIN_YOUNG" Val="Jovem de linhagem orc e de grifo." />
+    <Entry Key="DES_FCP_HALF_ORC_GRIFFIN_ADULT" Val="Adulto de linhagem orc e de grifo." />
+    <Entry Key="DES_FCP_HALF_DWARF_GRIFFIN_CHILD" Val="Filhote de linhagem anã e de grifo." />
+    <Entry Key="DES_FCP_HALF_DWARF_GRIFFIN_YOUNG" Val="Jovem de linhagem anã e de grifo." />
+    <Entry Key="DES_FCP_HALF_DWARF_GRIFFIN_ADULT" Val="Adulto de linhagem anã e de grifo." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_GRIFFIN_CHILD" Val="Filhote de linhagem goblin e de grifo." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_GRIFFIN_YOUNG" Val="Jovem de linhagem goblin e de grifo." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_GRIFFIN_ADULT" Val="Adulto de linhagem goblin e de grifo." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_GRIFFIN_CHILD" Val="Filhote de linhagem élfica sombria e de grifo." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_GRIFFIN_YOUNG" Val="Jovem de linhagem élfica sombria e de grifo." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_GRIFFIN_ADULT" Val="Adulto de linhagem élfica sombria e de grifo." />
+    <Entry Key="DES_FCP_HALF_DEMON_GRIFFIN_CHILD" Val="Filhote de linhagem demoníaca e de grifo." />
+    <Entry Key="DES_FCP_HALF_DEMON_GRIFFIN_YOUNG" Val="Jovem de linhagem demoníaca e de grifo." />
+    <Entry Key="DES_FCP_HALF_DEMON_GRIFFIN_ADULT" Val="Adulto de linhagem demoníaca e de grifo." />
+    <Entry Key="DES_FCP_HALF_BEAST_GRIFFIN_CHILD" Val="Filhote de linhagem bestial e de grifo." />
+    <Entry Key="DES_FCP_HALF_BEAST_GRIFFIN_YOUNG" Val="Jovem de linhagem bestial e de grifo." />
+    <Entry Key="DES_FCP_HALF_BEAST_GRIFFIN_ADULT" Val="Adulto de linhagem bestial e de grifo." />
+    <Entry Key="DES_FCP_HALF_RACE_KIRIN" Val="Descendência com traços da linhagem de kirin." />
+    <Entry Key="DES_FCP_HALF_HUMAN_KIRIN_CHILD" Val="Filhote de linhagem humana e de kirin." />
+    <Entry Key="DES_FCP_HALF_HUMAN_KIRIN_YOUNG" Val="Jovem de linhagem humana e de kirin." />
+    <Entry Key="DES_FCP_HALF_HUMAN_KIRIN_ADULT" Val="Adulto de linhagem humana e de kirin." />
+    <Entry Key="DES_FCP_HALF_ELF_KIRIN_CHILD" Val="Filhote de linhagem élfica e de kirin." />
+    <Entry Key="DES_FCP_HALF_ELF_KIRIN_YOUNG" Val="Jovem de linhagem élfica e de kirin." />
+    <Entry Key="DES_FCP_HALF_ELF_KIRIN_ADULT" Val="Adulto de linhagem élfica e de kirin." />
+    <Entry Key="DES_FCP_HALF_ORC_KIRIN_CHILD" Val="Filhote de linhagem orc e de kirin." />
+    <Entry Key="DES_FCP_HALF_ORC_KIRIN_YOUNG" Val="Jovem de linhagem orc e de kirin." />
+    <Entry Key="DES_FCP_HALF_ORC_KIRIN_ADULT" Val="Adulto de linhagem orc e de kirin." />
+    <Entry Key="DES_FCP_HALF_DWARF_KIRIN_CHILD" Val="Filhote de linhagem anã e de kirin." />
+    <Entry Key="DES_FCP_HALF_DWARF_KIRIN_YOUNG" Val="Jovem de linhagem anã e de kirin." />
+    <Entry Key="DES_FCP_HALF_DWARF_KIRIN_ADULT" Val="Adulto de linhagem anã e de kirin." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_KIRIN_CHILD" Val="Filhote de linhagem goblin e de kirin." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_KIRIN_YOUNG" Val="Jovem de linhagem goblin e de kirin." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_KIRIN_ADULT" Val="Adulto de linhagem goblin e de kirin." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_KIRIN_CHILD" Val="Filhote de linhagem élfica sombria e de kirin." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_KIRIN_YOUNG" Val="Jovem de linhagem élfica sombria e de kirin." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_KIRIN_ADULT" Val="Adulto de linhagem élfica sombria e de kirin." />
+    <Entry Key="DES_FCP_HALF_DEMON_KIRIN_CHILD" Val="Filhote de linhagem demoníaca e de kirin." />
+    <Entry Key="DES_FCP_HALF_DEMON_KIRIN_YOUNG" Val="Jovem de linhagem demoníaca e de kirin." />
+    <Entry Key="DES_FCP_HALF_DEMON_KIRIN_ADULT" Val="Adulto de linhagem demoníaca e de kirin." />
+    <Entry Key="DES_FCP_HALF_BEAST_KIRIN_CHILD" Val="Filhote de linhagem bestial e de kirin." />
+    <Entry Key="DES_FCP_HALF_BEAST_KIRIN_YOUNG" Val="Jovem de linhagem bestial e de kirin." />
+    <Entry Key="DES_FCP_HALF_BEAST_KIRIN_ADULT" Val="Adulto de linhagem bestial e de kirin." />
+    <Entry Key="DES_FCP_HALF_RACE_MERMAID" Val="Descendência com traços da linhagem de sereia." />
+    <Entry Key="DES_FCP_HALF_HUMAN_MERMAID_CHILD" Val="Filhote de linhagem humana e de sereia." />
+    <Entry Key="DES_FCP_HALF_HUMAN_MERMAID_YOUNG" Val="Jovem de linhagem humana e de sereia." />
+    <Entry Key="DES_FCP_HALF_HUMAN_MERMAID_ADULT" Val="Adulto de linhagem humana e de sereia." />
+    <Entry Key="DES_FCP_HALF_ELF_MERMAID_CHILD" Val="Filhote de linhagem élfica e de sereia." />
+    <Entry Key="DES_FCP_HALF_ELF_MERMAID_YOUNG" Val="Jovem de linhagem élfica e de sereia." />
+    <Entry Key="DES_FCP_HALF_ELF_MERMAID_ADULT" Val="Adulto de linhagem élfica e de sereia." />
+    <Entry Key="DES_FCP_HALF_ORC_MERMAID_CHILD" Val="Filhote de linhagem orc e de sereia." />
+    <Entry Key="DES_FCP_HALF_ORC_MERMAID_YOUNG" Val="Jovem de linhagem orc e de sereia." />
+    <Entry Key="DES_FCP_HALF_ORC_MERMAID_ADULT" Val="Adulto de linhagem orc e de sereia." />
+    <Entry Key="DES_FCP_HALF_DWARF_MERMAID_CHILD" Val="Filhote de linhagem anã e de sereia." />
+    <Entry Key="DES_FCP_HALF_DWARF_MERMAID_YOUNG" Val="Jovem de linhagem anã e de sereia." />
+    <Entry Key="DES_FCP_HALF_DWARF_MERMAID_ADULT" Val="Adulto de linhagem anã e de sereia." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_MERMAID_CHILD" Val="Filhote de linhagem goblin e de sereia." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_MERMAID_YOUNG" Val="Jovem de linhagem goblin e de sereia." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_MERMAID_ADULT" Val="Adulto de linhagem goblin e de sereia." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_MERMAID_CHILD" Val="Filhote de linhagem élfica sombria e de sereia." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_MERMAID_YOUNG" Val="Jovem de linhagem élfica sombria e de sereia." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_MERMAID_ADULT" Val="Adulto de linhagem élfica sombria e de sereia." />
+    <Entry Key="DES_FCP_HALF_DEMON_MERMAID_CHILD" Val="Filhote de linhagem demoníaca e de sereia." />
+    <Entry Key="DES_FCP_HALF_DEMON_MERMAID_YOUNG" Val="Jovem de linhagem demoníaca e de sereia." />
+    <Entry Key="DES_FCP_HALF_DEMON_MERMAID_ADULT" Val="Adulto de linhagem demoníaca e de sereia." />
+    <Entry Key="DES_FCP_HALF_BEAST_MERMAID_CHILD" Val="Filhote de linhagem bestial e de sereia." />
+    <Entry Key="DES_FCP_HALF_BEAST_MERMAID_YOUNG" Val="Jovem de linhagem bestial e de sereia." />
+    <Entry Key="DES_FCP_HALF_BEAST_MERMAID_ADULT" Val="Adulto de linhagem bestial e de sereia." />
+    <Entry Key="DES_FCP_HALF_RACE_PHOENIX" Val="Descendência com traços da linhagem de fênix." />
+    <Entry Key="DES_FCP_HALF_HUMAN_PHOENIX_CHILD" Val="Filhote de linhagem humana e de fênix." />
+    <Entry Key="DES_FCP_HALF_HUMAN_PHOENIX_YOUNG" Val="Jovem de linhagem humana e de fênix." />
+    <Entry Key="DES_FCP_HALF_HUMAN_PHOENIX_ADULT" Val="Adulto de linhagem humana e de fênix." />
+    <Entry Key="DES_FCP_HALF_ELF_PHOENIX_CHILD" Val="Filhote de linhagem élfica e de fênix." />
+    <Entry Key="DES_FCP_HALF_ELF_PHOENIX_YOUNG" Val="Jovem de linhagem élfica e de fênix." />
+    <Entry Key="DES_FCP_HALF_ELF_PHOENIX_ADULT" Val="Adulto de linhagem élfica e de fênix." />
+    <Entry Key="DES_FCP_HALF_ORC_PHOENIX_CHILD" Val="Filhote de linhagem orc e de fênix." />
+    <Entry Key="DES_FCP_HALF_ORC_PHOENIX_YOUNG" Val="Jovem de linhagem orc e de fênix." />
+    <Entry Key="DES_FCP_HALF_ORC_PHOENIX_ADULT" Val="Adulto de linhagem orc e de fênix." />
+    <Entry Key="DES_FCP_HALF_DWARF_PHOENIX_CHILD" Val="Filhote de linhagem anã e de fênix." />
+    <Entry Key="DES_FCP_HALF_DWARF_PHOENIX_YOUNG" Val="Jovem de linhagem anã e de fênix." />
+    <Entry Key="DES_FCP_HALF_DWARF_PHOENIX_ADULT" Val="Adulto de linhagem anã e de fênix." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_PHOENIX_CHILD" Val="Filhote de linhagem goblin e de fênix." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_PHOENIX_YOUNG" Val="Jovem de linhagem goblin e de fênix." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_PHOENIX_ADULT" Val="Adulto de linhagem goblin e de fênix." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_PHOENIX_CHILD" Val="Filhote de linhagem élfica sombria e de fênix." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_PHOENIX_YOUNG" Val="Jovem de linhagem élfica sombria e de fênix." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_PHOENIX_ADULT" Val="Adulto de linhagem élfica sombria e de fênix." />
+    <Entry Key="DES_FCP_HALF_DEMON_PHOENIX_CHILD" Val="Filhote de linhagem demoníaca e de fênix." />
+    <Entry Key="DES_FCP_HALF_DEMON_PHOENIX_YOUNG" Val="Jovem de linhagem demoníaca e de fênix." />
+    <Entry Key="DES_FCP_HALF_DEMON_PHOENIX_ADULT" Val="Adulto de linhagem demoníaca e de fênix." />
+    <Entry Key="DES_FCP_HALF_BEAST_PHOENIX_CHILD" Val="Filhote de linhagem bestial e de fênix." />
+    <Entry Key="DES_FCP_HALF_BEAST_PHOENIX_YOUNG" Val="Jovem de linhagem bestial e de fênix." />
+    <Entry Key="DES_FCP_HALF_BEAST_PHOENIX_ADULT" Val="Adulto de linhagem bestial e de fênix." />
+    <Entry Key="DES_FCP_HALF_RACE_UNICORN" Val="Descendência com traços da linhagem de unicórnio." />
+    <Entry Key="DES_FCP_HALF_HUMAN_UNICORN_CHILD" Val="Filhote de linhagem humana e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_HUMAN_UNICORN_YOUNG" Val="Jovem de linhagem humana e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_HUMAN_UNICORN_ADULT" Val="Adulto de linhagem humana e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ELF_UNICORN_CHILD" Val="Filhote de linhagem élfica e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ELF_UNICORN_YOUNG" Val="Jovem de linhagem élfica e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ELF_UNICORN_ADULT" Val="Adulto de linhagem élfica e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ORC_UNICORN_CHILD" Val="Filhote de linhagem orc e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ORC_UNICORN_YOUNG" Val="Jovem de linhagem orc e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_ORC_UNICORN_ADULT" Val="Adulto de linhagem orc e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DWARF_UNICORN_CHILD" Val="Filhote de linhagem anã e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DWARF_UNICORN_YOUNG" Val="Jovem de linhagem anã e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DWARF_UNICORN_ADULT" Val="Adulto de linhagem anã e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_UNICORN_CHILD" Val="Filhote de linhagem goblin e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_UNICORN_YOUNG" Val="Jovem de linhagem goblin e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_UNICORN_ADULT" Val="Adulto de linhagem goblin e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_UNICORN_CHILD" Val="Filhote de linhagem élfica sombria e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_UNICORN_YOUNG" Val="Jovem de linhagem élfica sombria e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_UNICORN_ADULT" Val="Adulto de linhagem élfica sombria e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DEMON_UNICORN_CHILD" Val="Filhote de linhagem demoníaca e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DEMON_UNICORN_YOUNG" Val="Jovem de linhagem demoníaca e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_DEMON_UNICORN_ADULT" Val="Adulto de linhagem demoníaca e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_BEAST_UNICORN_CHILD" Val="Filhote de linhagem bestial e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_BEAST_UNICORN_YOUNG" Val="Jovem de linhagem bestial e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_BEAST_UNICORN_ADULT" Val="Adulto de linhagem bestial e de unicórnio." />
+    <Entry Key="DES_FCP_HALF_RACE_ENT" Val="Descendência com traços da linhagem de ent." />
+    <Entry Key="DES_FCP_HALF_HUMAN_ENT_CHILD" Val="Filhote de linhagem humana e de ent." />
+    <Entry Key="DES_FCP_HALF_HUMAN_ENT_YOUNG" Val="Jovem de linhagem humana e de ent." />
+    <Entry Key="DES_FCP_HALF_HUMAN_ENT_ADULT" Val="Adulto de linhagem humana e de ent." />
+    <Entry Key="DES_FCP_HALF_ELF_ENT_CHILD" Val="Filhote de linhagem élfica e de ent." />
+    <Entry Key="DES_FCP_HALF_ELF_ENT_YOUNG" Val="Jovem de linhagem élfica e de ent." />
+    <Entry Key="DES_FCP_HALF_ELF_ENT_ADULT" Val="Adulto de linhagem élfica e de ent." />
+    <Entry Key="DES_FCP_HALF_ORC_ENT_CHILD" Val="Filhote de linhagem orc e de ent." />
+    <Entry Key="DES_FCP_HALF_ORC_ENT_YOUNG" Val="Jovem de linhagem orc e de ent." />
+    <Entry Key="DES_FCP_HALF_ORC_ENT_ADULT" Val="Adulto de linhagem orc e de ent." />
+    <Entry Key="DES_FCP_HALF_DWARF_ENT_CHILD" Val="Filhote de linhagem anã e de ent." />
+    <Entry Key="DES_FCP_HALF_DWARF_ENT_YOUNG" Val="Jovem de linhagem anã e de ent." />
+    <Entry Key="DES_FCP_HALF_DWARF_ENT_ADULT" Val="Adulto de linhagem anã e de ent." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_ENT_CHILD" Val="Filhote de linhagem goblin e de ent." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_ENT_YOUNG" Val="Jovem de linhagem goblin e de ent." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_ENT_ADULT" Val="Adulto de linhagem goblin e de ent." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_ENT_CHILD" Val="Filhote de linhagem élfica sombria e de ent." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_ENT_YOUNG" Val="Jovem de linhagem élfica sombria e de ent." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_ENT_ADULT" Val="Adulto de linhagem élfica sombria e de ent." />
+    <Entry Key="DES_FCP_HALF_DEMON_ENT_CHILD" Val="Filhote de linhagem demoníaca e de ent." />
+    <Entry Key="DES_FCP_HALF_DEMON_ENT_YOUNG" Val="Jovem de linhagem demoníaca e de ent." />
+    <Entry Key="DES_FCP_HALF_DEMON_ENT_ADULT" Val="Adulto de linhagem demoníaca e de ent." />
+    <Entry Key="DES_FCP_HALF_BEAST_ENT_CHILD" Val="Filhote de linhagem bestial e de ent." />
+    <Entry Key="DES_FCP_HALF_BEAST_ENT_YOUNG" Val="Jovem de linhagem bestial e de ent." />
+    <Entry Key="DES_FCP_HALF_BEAST_ENT_ADULT" Val="Adulto de linhagem bestial e de ent." />
+    <Entry Key="DES_FCP_HALF_RACE_BASILISK" Val="Descendência com traços da linhagem de basilisco." />
+    <Entry Key="DES_FCP_HALF_HUMAN_BASILISK_CHILD" Val="Filhote de linhagem humana e de basilisco." />
+    <Entry Key="DES_FCP_HALF_HUMAN_BASILISK_YOUNG" Val="Jovem de linhagem humana e de basilisco." />
+    <Entry Key="DES_FCP_HALF_HUMAN_BASILISK_ADULT" Val="Adulto de linhagem humana e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ELF_BASILISK_CHILD" Val="Filhote de linhagem élfica e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ELF_BASILISK_YOUNG" Val="Jovem de linhagem élfica e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ELF_BASILISK_ADULT" Val="Adulto de linhagem élfica e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ORC_BASILISK_CHILD" Val="Filhote de linhagem orc e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ORC_BASILISK_YOUNG" Val="Jovem de linhagem orc e de basilisco." />
+    <Entry Key="DES_FCP_HALF_ORC_BASILISK_ADULT" Val="Adulto de linhagem orc e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DWARF_BASILISK_CHILD" Val="Filhote de linhagem anã e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DWARF_BASILISK_YOUNG" Val="Jovem de linhagem anã e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DWARF_BASILISK_ADULT" Val="Adulto de linhagem anã e de basilisco." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_BASILISK_CHILD" Val="Filhote de linhagem goblin e de basilisco." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_BASILISK_YOUNG" Val="Jovem de linhagem goblin e de basilisco." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_BASILISK_ADULT" Val="Adulto de linhagem goblin e de basilisco." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_BASILISK_CHILD" Val="Filhote de linhagem élfica sombria e de basilisco." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_BASILISK_YOUNG" Val="Jovem de linhagem élfica sombria e de basilisco." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_BASILISK_ADULT" Val="Adulto de linhagem élfica sombria e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DEMON_BASILISK_CHILD" Val="Filhote de linhagem demoníaca e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DEMON_BASILISK_YOUNG" Val="Jovem de linhagem demoníaca e de basilisco." />
+    <Entry Key="DES_FCP_HALF_DEMON_BASILISK_ADULT" Val="Adulto de linhagem demoníaca e de basilisco." />
+    <Entry Key="DES_FCP_HALF_BEAST_BASILISK_CHILD" Val="Filhote de linhagem bestial e de basilisco." />
+    <Entry Key="DES_FCP_HALF_BEAST_BASILISK_YOUNG" Val="Jovem de linhagem bestial e de basilisco." />
+    <Entry Key="DES_FCP_HALF_BEAST_BASILISK_ADULT" Val="Adulto de linhagem bestial e de basilisco." />
+    <Entry Key="DES_FCP_HALF_RACE_WOLF" Val="Descendência com traços da linhagem de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_HUMAN_WOLF_CHILD" Val="Filhote de linhagem humana e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_HUMAN_WOLF_YOUNG" Val="Jovem de linhagem humana e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_HUMAN_WOLF_ADULT" Val="Adulto de linhagem humana e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ELF_WOLF_CHILD" Val="Filhote de linhagem élfica e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ELF_WOLF_YOUNG" Val="Jovem de linhagem élfica e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ELF_WOLF_ADULT" Val="Adulto de linhagem élfica e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ORC_WOLF_CHILD" Val="Filhote de linhagem orc e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ORC_WOLF_YOUNG" Val="Jovem de linhagem orc e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_ORC_WOLF_ADULT" Val="Adulto de linhagem orc e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DWARF_WOLF_CHILD" Val="Filhote de linhagem anã e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DWARF_WOLF_YOUNG" Val="Jovem de linhagem anã e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DWARF_WOLF_ADULT" Val="Adulto de linhagem anã e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_WOLF_CHILD" Val="Filhote de linhagem goblin e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_WOLF_YOUNG" Val="Jovem de linhagem goblin e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_GOBLIN_WOLF_ADULT" Val="Adulto de linhagem goblin e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_WOLF_CHILD" Val="Filhote de linhagem élfica sombria e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_WOLF_YOUNG" Val="Jovem de linhagem élfica sombria e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_SHADOWELF_WOLF_ADULT" Val="Adulto de linhagem élfica sombria e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DEMON_WOLF_CHILD" Val="Filhote de linhagem demoníaca e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DEMON_WOLF_YOUNG" Val="Jovem de linhagem demoníaca e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_DEMON_WOLF_ADULT" Val="Adulto de linhagem demoníaca e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_BEAST_WOLF_CHILD" Val="Filhote de linhagem bestial e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_BEAST_WOLF_YOUNG" Val="Jovem de linhagem bestial e de lobo lunar." />
+    <Entry Key="DES_FCP_HALF_BEAST_WOLF_ADULT" Val="Adulto de linhagem bestial e de lobo lunar." />
+  </LOC_LIBRARY-EN_FCP_LINEAGES>
+</DATABASE_DES_LOCALIZATION-NO_HSH>

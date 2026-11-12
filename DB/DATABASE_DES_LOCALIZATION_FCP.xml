@@ -25,15 +25,15 @@
     <Entry Key="DES_FCP_ABILITY_PETRIFYING_GAZE" Val="Um olhar gélido desacelera os inimigos e atrasa suas ações." />
     <Entry Key="DES_FCP_ABILITY_MOON_HOWL" Val="Um uivo de incentivo fortalece a matilha." />
     <Entry Key="DES_FCP_ABILITY_STORM_TALONS" Val="Garras afiadas atingem o inimigo em uma sequência de golpes." />
-    <Entry Key="DES_FCP_ABILITY_EMBER_BURST" Val="Uma explosão de chamas queima o inimigo." />
-    <Entry Key="DES_FCP_TRAIT_KEEN_EYES" Val="Aumenta a Percepção." />
-    <Entry Key="DES_FCP_TRAIT_ANCIENT_WISDOM" Val="Aumenta a Sabedoria." />
-    <Entry Key="DES_FCP_TRAIT_WATER_BREATHING" Val="Concede um pequeno bônus à Proteção Espiritual." />
-    <Entry Key="DES_FCP_TRAIT_FIRE_IMMUNE" Val="Concede um pequeno bônus à Proteção Física." />
-    <Entry Key="DES_FCP_TRAIT_MOON_BLESSED" Val="Aumenta o Destino." />
-    <Entry Key="DES_FCP_TRAIT_STONE_BARK" Val="Concede um pequeno bônus à Proteção Física." />
-    <Entry Key="DES_FCP_TRAIT_POISON_SKIN" Val="Adiciona uma mordida venenosa." />
-    <Entry Key="DES_FCP_TRAIT_NIGHT_HUNTER" Val="Aumenta ligeiramente a Percepção." />
+    <Entry Key="DES_FCP_ABILITY_EMBER_BURST" Val="Sopra chamas sobre os inimigos." />
+    <Entry Key="DES_FCP_TRAIT_KEEN_EYES" Val="A percepção aguçada do grifo melhora sua capacidade de detectar ameaças." />
+    <Entry Key="DES_FCP_TRAIT_ANCIENT_WISDOM" Val="A sabedoria ancestral fortalece o discernimento do kirin." />
+    <Entry Key="DES_FCP_TRAIT_WATER_BREATHING" Val="A adaptação às profundezas aumenta a proteção mental e espiritual." />
+    <Entry Key="DES_FCP_TRAIT_FIRE_IMMUNE" Val="As chamas da fênix aumentam sua proteção física e espiritual." />
+    <Entry Key="DES_FCP_TRAIT_MOON_BLESSED" Val="A bênção lunar aumenta o destino do unicórnio." />
+    <Entry Key="DES_FCP_TRAIT_STONE_BARK" Val="A casca ancestral aumenta a proteção física e mental." />
+    <Entry Key="DES_FCP_TRAIT_POISON_SKIN" Val="As escamas venenosas aumentam a proteção física e espiritual." />
+    <Entry Key="DES_FCP_TRAIT_NIGHT_HUNTER" Val="Os sentidos do lobo lunar aumentam sua percepção." />
     <Entry Key="DES_FCP_TRAIT_SWIFT_WINGS" Val="Aumenta o alcance de movimento." />
     <Entry Key="DES_FCP_TRAIT_DEEP_SIGHT" Val="Aumenta a Percepção." />
     <Entry Key="DES_FCP_TRAIT_EMBER_HEART" Val="Uma explosão de chamas queima o inimigo." />
@@ -70,14 +70,14 @@
     <Entry Key="DES_FCP_CREATURE_CHILD_ENT" Val="Um rebento de ent ancestral, crescendo da terra mais antiga." />
     <Entry Key="DES_FCP_CREATURE_CHILD_BASILISK" Val="Uma cria de basilisco, com olhar já petrificante." />
     <Entry Key="DES_FCP_CREATURE_CHILD_WOLF" Val="Um filhote de lobo lunar, uivando para a lua nascente." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW" Val="O filhote cresce forte, ganhando força e percepção." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_KIRIN_GROW" Val="O potro amadurece, ganhando sabedoria e misticismo." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_MERMAID_GROW" Val="O rebento se desenvolve, ganhando inteligência e misticismo." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_PHOENIX_GROW" Val="A cria se fortalece, seu destino queima com fogo." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_UNICORN_GROW" Val="O potro cresce, seu destino e sabedoria aumentam." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_ENT_GROW" Val="O rebento cresce forte como carvalho, ganhando força." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_BASILISK_GROW" Val="A cria amadurece, seu olhar se torna petrificante." />
-    <Entry Key="DES_FCP_ABILITY_CHILD_WOLF_GROW" Val="O filhote cresce rápido e forte, ganhando velocidade." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_GRIFFIN_GROW" Val="A visão do filhote concede um pequeno bônus de percepção." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_KIRIN_GROW" Val="O potro recebe um pequeno bônus de sabedoria." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_MERMAID_GROW" Val="O rebento recebe um pequeno bônus de misticismo." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_PHOENIX_GROW" Val="A primeira chama concede um pequeno bônus de destino." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_UNICORN_GROW" Val="A luz lunar concede ao potro um pequeno bônus de destino." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_ENT_GROW" Val="Os galhos do rebento lhe dão um pequeno bônus de força." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_BASILISK_GROW" Val="O olhar atento da cria concede um pequeno bônus de percepção." />
+    <Entry Key="DES_FCP_ABILITY_CHILD_WOLF_GROW" Val="Os sentidos do filhote concedem um pequeno bônus de percepção." />
     <Entry Key="DES_FCP_ABILITY_PHOENIX_ASHES_T3" Val="As cinzas da fênix queimam os inimigos com fogo puro." />
     <Entry Key="DES_FCP_ABILITY_KIRIN_BLESSING_T3" Val="A bênção do kirin cura e protege todos os aliados." />
     <Entry Key="DES_FCP_ABILITY_BASILISK_VENOM_T3" Val="O veneno do basilisco corrói e enfraquece os inimigos." />
@@ -129,6 +129,14 @@
     <Entry Key="DES_FCP_SETTLEMENT_CHILD_ENT" Val="Um bosque onde brotos de Ancient Ent podem ser encontrados." />
     <Entry Key="DES_FCP_SETTLEMENT_CHILD_BASILISK" Val="Uma fenda onde filhotes de Basilisk podem ser encontrados." />
     <Entry Key="DES_FCP_SETTLEMENT_CHILD_WOLF" Val="Uma toca onde filhotes de Lunar Wolf podem ser encontrados." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_GRIFFIN_ACTIVE" Val="Golpeia com as garras." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_KIRIN_ACTIVE" Val="Concede proteção em desafios físicos." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_MERMAID_ACTIVE" Val="Atrasa a próxima ação de um inimigo." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_PHOENIX_ACTIVE" Val="Lança uma bola de fogo." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_UNICORN_ACTIVE" Val="Concede proteção em desafios espirituais." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_ENT_ACTIVE" Val="Golpeia com os galhos." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_BASILISK_ACTIVE" Val="Ataca com uma mordida venenosa." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_WOLF_ACTIVE" Val="Ataca com uma mordida." />
     <Entry Key="DES_FCP_CREATURE_YOUNG_GRIFFIN" Val="Um grifo jovem, mais forte e ágil, ainda a caminho da maturidade." />
     <Entry Key="DES_FCP_CREATURE_YOUNG_KIRIN" Val="Um kirin jovem, cuja sabedoria ancestral começa a despertar." />
     <Entry Key="DES_FCP_CREATURE_YOUNG_MERMAID" Val="Uma sereia jovem, já adaptada às profundezas e às suas correntes." />
@@ -167,7 +175,7 @@
     <Entry Key="DES_FCP_ABILITY_YOUNG_PHOENIX_AWAKENING" Val="Aumenta o Destino da jovem fênix." />
     <Entry Key="DES_FCP_ABILITY_YOUNG_UNICORN_AWAKENING" Val="Aumenta o Destino do jovem unicórnio." />
     <Entry Key="DES_FCP_ABILITY_YOUNG_ENT_AWAKENING" Val="Aumenta a saúde física máxima do ent jovem." />
-    <Entry Key="DES_FCP_ABILITY_YOUNG_BASILISK_AWAKENING" Val="Aumenta a resistência a veneno do basilisco jovem." />
+    <Entry Key="DES_FCP_ABILITY_YOUNG_BASILISK_AWAKENING" Val="As escamas endurecem e aumentam a proteção física." />
     <Entry Key="DES_FCP_ABILITY_YOUNG_WOLF_AWAKENING" Val="Aumenta o alcance de movimento do lobo jovem." />
   </LOC_LIBRARY-EN_FCP>
 </DATABASE_DES_LOCALIZATION-NO_HSH>

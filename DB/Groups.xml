@@ -1,7 +1,7 @@
-﻿<GROUP>
+<GROUP>
   <GROUP-FCP_GRIFFIN_L5>
     <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
-    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="FCPLineageGriffin" />
     <EventsLoyalty Value="EVENTC-FCP_GRIFFIN" />
     <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -12,7 +12,7 @@
   </GROUP-FCP_GRIFFIN_L5>
   <GROUP-FCP_GRIFFIN_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="FCPLineageGriffin" />
     <EventsLoyalty Value="EVENTC-FCP_GRIFFIN" />
     <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -23,7 +23,7 @@
   </GROUP-FCP_GRIFFIN_L6>
   <GROUP-FCP_GRIFFIN_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="FCPLineageGriffin" />
     <EventsLoyalty Value="EVENTC-FCP_GRIFFIN" />
     <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -34,7 +34,7 @@
   </GROUP-FCP_GRIFFIN_L7>
   <GROUP-FCP_GRIFFIN_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Celestial" Description="DES_FCP_GROUP_GRIFFIN" IconName="FCPLineageGriffin" />
     <EventsLoyalty Value="EVENTC-FCP_GRIFFIN" />
     <EventsRoaming Value="EVENTC-FCP_GRIFFIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -45,7 +45,7 @@
   </GROUP-FCP_GRIFFIN_L8>
   <GROUP-FCP_KIRIN_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="FCPLineageKirin" />
     <EventsLoyalty Value="EVENTC-FCP_KIRIN" />
     <EventsRoaming Value="EVENTC-FCP_KIRIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -56,7 +56,7 @@
   </GROUP-FCP_KIRIN_L6>
   <GROUP-FCP_KIRIN_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="FCPLineageKirin" />
     <EventsLoyalty Value="EVENTC-FCP_KIRIN" />
     <EventsRoaming Value="EVENTC-FCP_KIRIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -67,7 +67,7 @@
   </GROUP-FCP_KIRIN_L7>
   <GROUP-FCP_KIRIN_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="FCPLineageKirin" />
     <EventsLoyalty Value="EVENTC-FCP_KIRIN" />
     <EventsRoaming Value="EVENTC-FCP_KIRIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -78,7 +78,7 @@
   </GROUP-FCP_KIRIN_L8>
   <GROUP-FCP_KIRIN_L9>
     <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
-    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin Ancient" Description="DES_FCP_GROUP_KIRIN" IconName="FCPLineageKirin" />
     <EventsLoyalty Value="EVENTC-FCP_KIRIN" />
     <EventsRoaming Value="EVENTC-FCP_KIRIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -89,7 +89,7 @@
   </GROUP-FCP_KIRIN_L9>
   <GROUP-FCP_MERMAID_L4>
     <ChallengeLvl Physical="4" Mental="4" Spirit="4" />
-    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="FCPLineageMermaid" />
     <EventsLoyalty Value="EVENTC-FCP_MERMAID" />
     <EventsRoaming Value="EVENTC-FCP_MERMAID" />
     <PreferredChallenge Value="TypePhysical" />
@@ -100,7 +100,7 @@
   </GROUP-FCP_MERMAID_L4>
   <GROUP-FCP_MERMAID_L5>
     <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
-    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="FCPLineageMermaid" />
     <EventsLoyalty Value="EVENTC-FCP_MERMAID" />
     <EventsRoaming Value="EVENTC-FCP_MERMAID" />
     <PreferredChallenge Value="TypePhysical" />
@@ -111,7 +111,7 @@
   </GROUP-FCP_MERMAID_L5>
   <GROUP-FCP_MERMAID_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="FCPLineageMermaid" />
     <EventsLoyalty Value="EVENTC-FCP_MERMAID" />
     <EventsRoaming Value="EVENTC-FCP_MERMAID" />
     <PreferredChallenge Value="TypePhysical" />
@@ -122,7 +122,7 @@
   </GROUP-FCP_MERMAID_L6>
   <GROUP-FCP_MERMAID_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Abyssal Mermaid" Description="DES_FCP_GROUP_MERMAID" IconName="FCPLineageMermaid" />
     <EventsLoyalty Value="EVENTC-FCP_MERMAID" />
     <EventsRoaming Value="EVENTC-FCP_MERMAID" />
     <PreferredChallenge Value="TypePhysical" />
@@ -133,7 +133,7 @@
   </GROUP-FCP_MERMAID_L7>
   <GROUP-FCP_PHOENIX_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="FCPLineagePhoenix" />
     <EventsLoyalty Value="EVENTC-FCP_PHOENIX" />
     <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
     <PreferredChallenge Value="TypePhysical" />
@@ -144,7 +144,7 @@
   </GROUP-FCP_PHOENIX_L7>
   <GROUP-FCP_PHOENIX_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="FCPLineagePhoenix" />
     <EventsLoyalty Value="EVENTC-FCP_PHOENIX" />
     <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
     <PreferredChallenge Value="TypePhysical" />
@@ -155,7 +155,7 @@
   </GROUP-FCP_PHOENIX_L8>
   <GROUP-FCP_PHOENIX_L9>
     <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
-    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="FCPLineagePhoenix" />
     <EventsLoyalty Value="EVENTC-FCP_PHOENIX" />
     <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
     <PreferredChallenge Value="TypePhysical" />
@@ -166,7 +166,7 @@
   </GROUP-FCP_PHOENIX_L9>
   <GROUP-FCP_PHOENIX_L10>
     <ChallengeLvl Physical="10" Mental="10" Spirit="10" />
-    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ember Phoenix" Description="DES_FCP_GROUP_PHOENIX" IconName="FCPLineagePhoenix" />
     <EventsLoyalty Value="EVENTC-FCP_PHOENIX" />
     <EventsRoaming Value="EVENTC-FCP_PHOENIX" />
     <PreferredChallenge Value="TypePhysical" />
@@ -177,7 +177,7 @@
   </GROUP-FCP_PHOENIX_L10>
   <GROUP-FCP_UNICORN_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="FCPLineageUnicorn" />
     <EventsLoyalty Value="EVENTC-FCP_UNICORN" />
     <EventsRoaming Value="EVENTC-FCP_UNICORN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -188,7 +188,7 @@
   </GROUP-FCP_UNICORN_L6>
   <GROUP-FCP_UNICORN_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="FCPLineageUnicorn" />
     <EventsLoyalty Value="EVENTC-FCP_UNICORN" />
     <EventsRoaming Value="EVENTC-FCP_UNICORN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -199,7 +199,7 @@
   </GROUP-FCP_UNICORN_L7>
   <GROUP-FCP_UNICORN_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="FCPLineageUnicorn" />
     <EventsLoyalty Value="EVENTC-FCP_UNICORN" />
     <EventsRoaming Value="EVENTC-FCP_UNICORN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -210,7 +210,7 @@
   </GROUP-FCP_UNICORN_L8>
   <GROUP-FCP_UNICORN_L9>
     <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
-    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Unicorn" Description="DES_FCP_GROUP_UNICORN" IconName="FCPLineageUnicorn" />
     <EventsLoyalty Value="EVENTC-FCP_UNICORN" />
     <EventsRoaming Value="EVENTC-FCP_UNICORN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -221,7 +221,7 @@
   </GROUP-FCP_UNICORN_L9>
   <GROUP-FCP_ENT_L5>
     <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
-    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="FCPLineageEnt" />
     <EventsLoyalty Value="EVENTC-FCP_ENT" />
     <EventsRoaming Value="EVENTC-FCP_ENT" />
     <PreferredChallenge Value="TypePhysical" />
@@ -232,7 +232,7 @@
   </GROUP-FCP_ENT_L5>
   <GROUP-FCP_ENT_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="FCPLineageEnt" />
     <EventsLoyalty Value="EVENTC-FCP_ENT" />
     <EventsRoaming Value="EVENTC-FCP_ENT" />
     <PreferredChallenge Value="TypePhysical" />
@@ -243,7 +243,7 @@
   </GROUP-FCP_ENT_L6>
   <GROUP-FCP_ENT_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="FCPLineageEnt" />
     <EventsLoyalty Value="EVENTC-FCP_ENT" />
     <EventsRoaming Value="EVENTC-FCP_ENT" />
     <PreferredChallenge Value="TypePhysical" />
@@ -254,7 +254,7 @@
   </GROUP-FCP_ENT_L7>
   <GROUP-FCP_ENT_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ancient Ent" Description="DES_FCP_GROUP_ENT" IconName="FCPLineageEnt" />
     <EventsLoyalty Value="EVENTC-FCP_ENT" />
     <EventsRoaming Value="EVENTC-FCP_ENT" />
     <PreferredChallenge Value="TypePhysical" />
@@ -265,7 +265,7 @@
   </GROUP-FCP_ENT_L8>
   <GROUP-FCP_BASILISK_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="FCPLineageBasilisk" />
     <EventsLoyalty Value="EVENTC-FCP_BASILISK" />
     <EventsRoaming Value="EVENTC-FCP_BASILISK" />
     <PreferredChallenge Value="TypePhysical" />
@@ -276,7 +276,7 @@
   </GROUP-FCP_BASILISK_L6>
   <GROUP-FCP_BASILISK_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="FCPLineageBasilisk" />
     <EventsLoyalty Value="EVENTC-FCP_BASILISK" />
     <EventsRoaming Value="EVENTC-FCP_BASILISK" />
     <PreferredChallenge Value="TypePhysical" />
@@ -287,7 +287,7 @@
   </GROUP-FCP_BASILISK_L7>
   <GROUP-FCP_BASILISK_L8>
     <ChallengeLvl Physical="8" Mental="8" Spirit="8" />
-    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="FCPLineageBasilisk" />
     <EventsLoyalty Value="EVENTC-FCP_BASILISK" />
     <EventsRoaming Value="EVENTC-FCP_BASILISK" />
     <PreferredChallenge Value="TypePhysical" />
@@ -298,7 +298,7 @@
   </GROUP-FCP_BASILISK_L8>
   <GROUP-FCP_BASILISK_L9>
     <ChallengeLvl Physical="9" Mental="9" Spirit="9" />
-    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk" Description="DES_FCP_GROUP_BASILISK" IconName="FCPLineageBasilisk" />
     <EventsLoyalty Value="EVENTC-FCP_BASILISK" />
     <EventsRoaming Value="EVENTC-FCP_BASILISK" />
     <PreferredChallenge Value="TypePhysical" />
@@ -309,7 +309,7 @@
   </GROUP-FCP_BASILISK_L9>
   <GROUP-FCP_WOLF_L4>
     <ChallengeLvl Physical="4" Mental="4" Spirit="4" />
-    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="FCPLineageWolf" />
     <EventsLoyalty Value="EVENTC-FCP_WOLF" />
     <EventsRoaming Value="EVENTC-FCP_WOLF" />
     <PreferredChallenge Value="TypePhysical" />
@@ -320,7 +320,7 @@
   </GROUP-FCP_WOLF_L4>
   <GROUP-FCP_WOLF_L5>
     <ChallengeLvl Physical="5" Mental="5" Spirit="5" />
-    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="FCPLineageWolf" />
     <EventsLoyalty Value="EVENTC-FCP_WOLF" />
     <EventsRoaming Value="EVENTC-FCP_WOLF" />
     <PreferredChallenge Value="TypePhysical" />
@@ -331,7 +331,7 @@
   </GROUP-FCP_WOLF_L5>
   <GROUP-FCP_WOLF_L6>
     <ChallengeLvl Physical="6" Mental="6" Spirit="6" />
-    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="FCPLineageWolf" />
     <EventsLoyalty Value="EVENTC-FCP_WOLF" />
     <EventsRoaming Value="EVENTC-FCP_WOLF" />
     <PreferredChallenge Value="TypePhysical" />
@@ -342,7 +342,7 @@
   </GROUP-FCP_WOLF_L6>
   <GROUP-FCP_WOLF_L7>
     <ChallengeLvl Physical="7" Mental="7" Spirit="7" />
-    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Lunar Wolf" Description="DES_FCP_GROUP_WOLF" IconName="FCPLineageWolf" />
     <EventsLoyalty Value="EVENTC-FCP_WOLF" />
     <EventsRoaming Value="EVENTC-FCP_WOLF" />
     <PreferredChallenge Value="TypePhysical" />
@@ -353,7 +353,7 @@
   </GROUP-FCP_WOLF_L7>
   <GROUP-FCP_CHILD_GRIFFIN_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Griffin Chick" Description="DES_FCP_GROUP_CHILD_GRIFFIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Griffin Chick" Description="DES_FCP_GROUP_CHILD_GRIFFIN" IconName="FCPLineageGriffin" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_GRIFFIN" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_GRIFFIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -364,7 +364,7 @@
   </GROUP-FCP_CHILD_GRIFFIN_L1>
   <GROUP-FCP_CHILD_KIRIN_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Kirin Foal" Description="DES_FCP_GROUP_CHILD_KIRIN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Kirin Foal" Description="DES_FCP_GROUP_CHILD_KIRIN" IconName="FCPLineageKirin" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_KIRIN" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_KIRIN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -375,7 +375,7 @@
   </GROUP-FCP_CHILD_KIRIN_L1>
   <GROUP-FCP_CHILD_MERMAID_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Mermaid Spawn" Description="DES_FCP_GROUP_CHILD_MERMAID" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Mermaid Spawn" Description="DES_FCP_GROUP_CHILD_MERMAID" IconName="FCPLineageMermaid" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_MERMAID" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_MERMAID" />
     <PreferredChallenge Value="TypePhysical" />
@@ -386,7 +386,7 @@
   </GROUP-FCP_CHILD_MERMAID_L1>
   <GROUP-FCP_CHILD_PHOENIX_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Phoenix Hatchling" Description="DES_FCP_GROUP_CHILD_PHOENIX" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Phoenix Hatchling" Description="DES_FCP_GROUP_CHILD_PHOENIX" IconName="FCPLineagePhoenix" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_PHOENIX" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_PHOENIX" />
     <PreferredChallenge Value="TypePhysical" />
@@ -397,7 +397,7 @@
   </GROUP-FCP_CHILD_PHOENIX_L1>
   <GROUP-FCP_CHILD_UNICORN_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Unicorn Foal" Description="DES_FCP_GROUP_CHILD_UNICORN" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Unicorn Foal" Description="DES_FCP_GROUP_CHILD_UNICORN" IconName="FCPLineageUnicorn" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_UNICORN" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_UNICORN" />
     <PreferredChallenge Value="TypePhysical" />
@@ -408,7 +408,7 @@
   </GROUP-FCP_CHILD_UNICORN_L1>
   <GROUP-FCP_CHILD_ENT_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Ent Sapling" Description="DES_FCP_GROUP_CHILD_ENT" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Ent Sapling" Description="DES_FCP_GROUP_CHILD_ENT" IconName="FCPLineageEnt" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_ENT" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_ENT" />
     <PreferredChallenge Value="TypePhysical" />
@@ -419,7 +419,7 @@
   </GROUP-FCP_CHILD_ENT_L1>
   <GROUP-FCP_CHILD_BASILISK_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Basilisk Hatchling" Description="DES_FCP_GROUP_CHILD_BASILISK" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Basilisk Hatchling" Description="DES_FCP_GROUP_CHILD_BASILISK" IconName="FCPLineageBasilisk" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_BASILISK" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_BASILISK" />
     <PreferredChallenge Value="TypePhysical" />
@@ -430,7 +430,7 @@
   </GROUP-FCP_CHILD_BASILISK_L1>
   <GROUP-FCP_CHILD_WOLF_L1>
     <ChallengeLvl Physical="1" Mental="1" Spirit="1" />
-    <DescriptionInfo Name="Wolf Pup" Description="DES_FCP_GROUP_CHILD_WOLF" IconName="IconPlaceholder" />
+    <DescriptionInfo Name="Wolf Pup" Description="DES_FCP_GROUP_CHILD_WOLF" IconName="FCPLineageWolf" />
     <EventsLoyalty Value="EVENTC-FCP_CHILD_WOLF" />
     <EventsRoaming Value="EVENTC-FCP_CHILD_WOLF" />
     <PreferredChallenge Value="TypePhysical" />
@@ -439,4 +439,100 @@
       <MemberCount MinimumCount="2" MaximumCount="4" />
     </Member>
   </GROUP-FCP_CHILD_WOLF_L1>
+  <GROUP-FCP_YOUNG_GRIFFIN_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Griffin" Description="DES_FCP_CREATURE_YOUNG_GRIFFIN" IconName="FCPLineageGriffin" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_GRIFFIN" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_GRIFFIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_GRIFFIN" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_YOUNG_GRIFFIN_L3>
+
+  <GROUP-FCP_YOUNG_KIRIN_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Kirin" Description="DES_FCP_CREATURE_YOUNG_KIRIN" IconName="FCPLineageKirin" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_KIRIN" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_KIRIN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_KIRIN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_YOUNG_KIRIN_L3>
+
+  <GROUP-FCP_YOUNG_MERMAID_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Mermaid" Description="DES_FCP_CREATURE_YOUNG_MERMAID" IconName="FCPLineageMermaid" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_MERMAID" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_MERMAID" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_MERMAID" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_YOUNG_MERMAID_L3>
+
+  <GROUP-FCP_YOUNG_PHOENIX_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Phoenix" Description="DES_FCP_CREATURE_YOUNG_PHOENIX" IconName="FCPLineagePhoenix" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_PHOENIX" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_PHOENIX" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_PHOENIX" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_YOUNG_PHOENIX_L3>
+
+  <GROUP-FCP_YOUNG_UNICORN_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Unicorn" Description="DES_FCP_CREATURE_YOUNG_UNICORN" IconName="FCPLineageUnicorn" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_UNICORN" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_UNICORN" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_UNICORN" />
+      <MemberCount MinimumCount="1" MaximumCount="1" />
+    </Member>
+  </GROUP-FCP_YOUNG_UNICORN_L3>
+
+  <GROUP-FCP_YOUNG_ENT_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Ent" Description="DES_FCP_CREATURE_YOUNG_ENT" IconName="FCPLineageEnt" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_ENT" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_ENT" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_ENT" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_YOUNG_ENT_L3>
+
+  <GROUP-FCP_YOUNG_BASILISK_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Basilisk" Description="DES_FCP_CREATURE_YOUNG_BASILISK" IconName="FCPLineageBasilisk" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_BASILISK" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_BASILISK" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_BASILISK" />
+      <MemberCount MinimumCount="1" MaximumCount="2" />
+    </Member>
+  </GROUP-FCP_YOUNG_BASILISK_L3>
+
+  <GROUP-FCP_YOUNG_WOLF_L3>
+    <ChallengeLvl Physical="3" Mental="3" Spirit="3" />
+    <DescriptionInfo Name="Young Wolf" Description="DES_FCP_CREATURE_YOUNG_WOLF" IconName="FCPLineageWolf" />
+    <EventsLoyalty Value="EVENTC-FCP_YOUNG_WOLF" />
+    <EventsRoaming Value="EVENTC-FCP_YOUNG_WOLF" />
+    <PreferredChallenge Value="TypePhysical" />
+    <Member>
+      <MemberSubrace Value="SUBRACE-FCP_YOUNG_WOLF" />
+      <MemberCount MinimumCount="2" MaximumCount="4" />
+    </Member>
+  </GROUP-FCP_YOUNG_WOLF_L3>
+
 </GROUP>

@@ -1,0 +1,33 @@
+<SUBSKILLS_WORLD>
+  <SUBSKILL-FCP_GROWTH_COUNTDOWN Delay="0.0" Animation="" Sound="">
+    <DescriptionInfo Name="DES_SUBSKILL_CHILD_GROW_UP" Description="DES_SUBSKILL_CHILD_GROW_UP_DES" IconName="SubskillChildGrowUp" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_PASSIVE" DamageIcon="TAG-DAMAGE_GROW_UP" TargetIcon="TAG-TARGET_SELF" AttackInfo="{SCRIPT:SI_DefaultAttributeChange}" />
+    <Trigger Priority="10" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="Passive" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_Self" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="WAct_AttributeChange" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="0.0">
+      <SubskillAttribute Identifier="TAG-CHILD" AttributeStringValue="+" AttributeFloatValue="0.0" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_GROWTH_COUNTDOWN>
+</SUBSKILLS_WORLD>

@@ -29,7 +29,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -81,7 +81,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -133,7 +133,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -185,7 +185,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -237,7 +237,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -289,7 +289,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -341,7 +341,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
@@ -393,7 +393,7 @@ A criatura foi derrotada.
 [/STORY]
 [OUT]Continuar
 [/NODE]
-+[NODE]8
++[NODE]13
 [STORY]
 A criatura se junta a você.
 [/STORY]
