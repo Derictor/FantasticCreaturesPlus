@@ -10,7 +10,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="100" />
     </SubskillAttributesOnLevel>
@@ -41,7 +41,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-WISDOM" AttributeStringValue="*" AttributeFloatValue="100" />
     </SubskillAttributesOnLevel>
@@ -72,7 +72,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-PERCEPTION" AttributeStringValue="*" AttributeFloatValue="100" />
     </SubskillAttributesOnLevel>
@@ -103,7 +103,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
       <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="0.0" />
@@ -140,7 +140,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
       <SubskillAttribute Identifier="TAG-SHIELDING_SPIRIT" AttributeStringValue="*" AttributeFloatValue="0.0" />
@@ -177,7 +177,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-DESTINY" AttributeStringValue="*" AttributeFloatValue="100" />
     </SubskillAttributesOnLevel>
@@ -208,7 +208,7 @@
       <TargetScript ScriptName="Trg_Self" />
       <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
     </Targets>
-    <Activation ScriptName="WAct_FCP_MapAttributes" />
+    <Activation ScriptName="WAct_AttributeChange" />
     <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
       <SubskillAttribute Identifier="TAG-SHIELDING_PHYSICAL" AttributeStringValue="*" AttributeFloatValue="0.0" />
       <SubskillAttribute Identifier="TAG-SHIELDING_MENTAL" AttributeStringValue="*" AttributeFloatValue="0.0" />

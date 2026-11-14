@@ -1,7 +1,7 @@
 <RECIPES_ITEMS>
-  <ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE ItemsAmount="0" WeightMultiplier="1.0">
+  <ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE ItemsAmount="1" WeightMultiplier="1.0">
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Griffin Sun Blade" Description="DES_FCP_WEAPON_GRIFFIN_SUN_BLADE_T3" IconName="RecipeSword1H" />
       <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
       <MaterialRow>
@@ -36,10 +36,10 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
   </ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE>
-  <ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF ItemsAmount="0" WeightMultiplier="0.8">
+  <ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF ItemsAmount="1" WeightMultiplier="0.8">
     <InventorySlot Value="LeftHand" />
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Kirin Moon Staff" Description="DES_FCP_WEAPON_KIRIN_MOON_STAFF_T3" IconName="RecipeWand" />
       <CountedTag Tag="TAG-WAND" Amount="1.0" />
       <MaterialRow>
@@ -74,10 +74,10 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_KIRIN_MOON_STAFF" />
   </ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF>
-  <ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT ItemsAmount="0" WeightMultiplier="0.9">
+  <ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT ItemsAmount="1" WeightMultiplier="0.9">
     <InventorySlot Value="LeftHand" />
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Abyssal Depths Trident" Description="DES_FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT_T3" IconName="RecipePolearm2H" />
       <CountedTag Tag="TAG-POLEARM_2H" Amount="1.0" />
       <MaterialRow>
@@ -112,10 +112,10 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
   </ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT>
-  <ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW ItemsAmount="0" WeightMultiplier="1.0">
+  <ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW ItemsAmount="1" WeightMultiplier="1.0">
     <InventorySlot Value="LeftHand" />
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Phoenix Ashes Bow" Description="DES_FCP_WEAPON_PHOENIX_ASHES_BOW_T3" IconName="RecipeBow" />
       <CountedTag Tag="TAG-BOW" Amount="1.0" />
       <MaterialRow>
@@ -150,10 +150,10 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_PHOENIX_ASHES_BOW" />
   </ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW>
-  <ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE ItemsAmount="0" WeightMultiplier="0.9">
+  <ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE ItemsAmount="1" WeightMultiplier="0.9">
     <InventorySlot Value="LeftHand" />
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Unicorn Starlight Lance" Description="DES_FCP_WEAPON_UNICORN_STARLIGHT_LANCE_T3" IconName="RecipePolearm2H" />
       <CountedTag Tag="TAG-POLEARM_2H" Amount="1.0" />
       <MaterialRow>
@@ -188,10 +188,10 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
   </ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE>
-  <ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE ItemsAmount="0" WeightMultiplier="0.9">
+  <ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE ItemsAmount="1" WeightMultiplier="0.9">
     <InventorySlot Value="LeftHand" />
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Ent Root Mace" Description="DES_FCP_WEAPON_ENT_ROOT_MACE_T3" IconName="RecipeClub2H" />
       <CountedTag Tag="TAG-CLUB_2H" Amount="1.0" />
       <MaterialRow>
@@ -226,9 +226,9 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_ENT_ROOT_MACE" />
   </ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE>
-  <ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER ItemsAmount="0" WeightMultiplier="1.0">
+  <ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER ItemsAmount="1" WeightMultiplier="1.0">
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Basilisk Petrify Dagger" Description="DES_FCP_WEAPON_BASILISK_PETRIFY_DAGGER_T3" IconName="RecipeSword1H" />
       <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
       <MaterialRow>
@@ -263,9 +263,9 @@
     </RecipeBase>
     <Skills Value="SKILL_PACK-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
   </ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER>
-  <ITEM_REC-FCP_WEAPON_WOLF_MOON_FANG_SWORD ItemsAmount="0" WeightMultiplier="1.0">
+  <ITEM_REC-FCP_WEAPON_WOLF_MOON_FANG_SWORD ItemsAmount="1" WeightMultiplier="1.0">
     <InventorySlot Value="RightHand" />
-    <RecipeBase ResearchCost="-2" ResChildForbid="FALSE">
+    <RecipeBase ResearchCost="1" ResChildForbid="FALSE">
       <DescriptionInfo Name="Wolf Moon Fang Sword" Description="DES_FCP_WEAPON_WOLF_MOON_FANG_SWORD_T3" IconName="RecipeSword1H" />
       <CountedTag Tag="TAG-SWORD_1H" Amount="1.0" />
       <MaterialRow>

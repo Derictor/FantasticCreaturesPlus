@@ -1,0 +1,70 @@
+<SUBSKILLS_CHALLENGES>
+  <SUBSKILL-FCP_WEAPON_MELEE Delay="4.0" Animation="Slash1" Sound="SubskillConceptDefaultMelee">
+    <DescriptionInfo Name="DES_SUBSKILL_CON_DEFAULT_MELEE" Description="DES_SUBSKILL_CON_DEFAULT_MELEE_DES" IconName="SubskillConceptDefaultMelee" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_DO_ATTACK_MELEE" DamageIcon="TAG-DAMAGE_NORMAL" TargetIcon="TAG-TARGET_SINGLE_MELEE_ENEMY" AttackInfo="{SCRIPT:SI_Damage}" />
+    <Trigger Priority="1" RequiredToBeInFrontline="TRUE" RequiredToBeInBackline="FALSE">
+      <TriggerGroup Value="DoAttack" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_MeleeTargeting" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Random" />
+    </Targets>
+    <Activation ScriptName="Act_Damage" />
+    <ChallengeType Value="TypePhysical" />
+    <ChallengeType Value="TypeMental" />
+    <ChallengeType Value="TypeSpirit" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <MainAtt Amount="0.9" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="10.0">
+      <MainAtt Amount="1.2" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="30.0">
+      <MainAtt Amount="1.5" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="90.0">
+      <MainAtt Amount="1.8" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="250.0">
+      <MainAtt Amount="2.1" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="500.0">
+      <MainAtt Amount="2.5" Tag="TAG-CA_1" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_WEAPON_MELEE>
+  <SUBSKILL-FCP_WEAPON_RANGE Delay="6.0" Animation="BloodyHit5" Sound="SubskillConceptDefaultRange">
+    <DescriptionInfo Name="DES_SUBSKILL_CON_DEFAULT_RANGE" Description="DES_SUBSKILL_CON_DEFAULT_RANGE_DES" IconName="SubskillConceptDefaultRange" />
+    <ShortInfo TriggerIcon="TAG-TRIGGER_DO_ATTACK_RANGED" DamageIcon="TAG-DAMAGE_NORMAL" TargetIcon="TAG-TARGET_SELECTED_ENEMY" AttackInfo="{SCRIPT:SI_Damage}" />
+    <Trigger Priority="5" RequiredToBeInFrontline="FALSE" RequiredToBeInBackline="TRUE">
+      <TriggerGroup Value="DoAttack" />
+      <TriggerScript ScriptName="" />
+    </Trigger>
+    <Targets>
+      <TargetScript ScriptName="Trg_OpponentBattlefieldOrHandPositions" />
+      <TargetCountRange MinimumCount="1" MaximumCount="1" TargetIndication="Chosen" />
+    </Targets>
+    <Activation ScriptName="Act_Damage" />
+    <ChallengeType Value="TypePhysical" />
+    <ChallengeType Value="TypeMental" />
+    <ChallengeType Value="TypeSpirit" />
+    <SubskillAttributesOnLevel Level="0" PowerLevel="0.0">
+      <MainAtt Amount="1.0" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="1" PowerLevel="10.0">
+      <MainAtt Amount="1.5" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="2" PowerLevel="30.0">
+      <MainAtt Amount="1.8" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="3" PowerLevel="90.0">
+      <MainAtt Amount="2.3" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="4" PowerLevel="250.0">
+      <MainAtt Amount="3.0" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+    <SubskillAttributesOnLevel Level="5" PowerLevel="500.0">
+      <MainAtt Amount="3.5" Tag="TAG-CA_2" />
+    </SubskillAttributesOnLevel>
+  </SUBSKILL-FCP_WEAPON_RANGE>
+</SUBSKILLS_CHALLENGES>

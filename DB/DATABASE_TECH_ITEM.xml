@@ -1,0 +1,74 @@
+<ITEMS_TECH>
+  <ITEM_TECH-SWORDS UpgradeCost="1">
+    <DescriptionInfo Name="DES_TECH_SWORDS" Description="DES_TECH_SWORDS_DES" IconName="RecipeSwords" />
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-SWORD_1H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-SWORD_2H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_GRIFFIN_SUN_BLADE" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_BASILISK_PETRIFY_DAGGER" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_WOLF_MOON_FANG_SWORD" />
+    </UnlockRecipe>
+  </ITEM_TECH-SWORDS>
+  <ITEM_TECH-ARTIFACTS UpgradeCost="1">
+    <DescriptionInfo Name="DES_TECH_ARTIFACTS" Description="DES_TECH_ARTIFACTS_DES" IconName="RecipeArtifacts" />
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-ARTIFACT_1H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-ARTIFACT_2H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_KIRIN_MOON_STAFF" />
+    </UnlockRecipe>
+  </ITEM_TECH-ARTIFACTS>
+  <ITEM_TECH-POLEARMS UpgradeCost="1">
+    <DescriptionInfo Name="DES_TECH_POLEARMS" Description="DES_TECH_POLEARMS_DES" IconName="RecipePolearms" />
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-POLEARM_1H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-POLEARM_2H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_ABYSSAL_DEPTHS_TRIDENT" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_UNICORN_STARLIGHT_LANCE" />
+    </UnlockRecipe>
+  </ITEM_TECH-POLEARMS>
+  <ITEM_TECH-RANGED_WEAPONS UpgradeCost="1">
+    <DescriptionInfo Name="DES_TECH_RANGED_WEAPONS" Description="DES_TECH_RANGED_WEAPONS_DES" IconName="RecipeRanged" />
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-BOW" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-WAND" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-THROWN_SPEARS" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_PHOENIX_ASHES_BOW" />
+    </UnlockRecipe>
+  </ITEM_TECH-RANGED_WEAPONS>
+  <ITEM_TECH-CLUBS UpgradeCost="1">
+    <DescriptionInfo Name="DES_TECH_CLUBS" Description="DES_TECH_CLUBS_DES" IconName="RecipeClubs" />
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-CLUB_1H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="2" UnlockSecRes="2">
+      <ItemRecipe Value="ITEM_REC-CLUB_2H" />
+    </UnlockRecipe>
+    <UnlockRecipe UnlockPrimeRes="4" UnlockSecRes="4">
+      <ItemRecipe Value="ITEM_REC-FCP_WEAPON_ENT_ROOT_MACE" />
+    </UnlockRecipe>
+  </ITEM_TECH-CLUBS>
+</ITEMS_TECH>

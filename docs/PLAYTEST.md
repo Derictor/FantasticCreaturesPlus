@@ -27,10 +27,9 @@ A chance de nascimento é de 1% por avaliação do evento. Cada combinação tem
 
 ## Modelos 3D no mapa
 
-- Coloque uma criatura em um grupo pequeno em terra e mova o grupo. O jogo pode mostrar até três membros, conforme o poder. Repita com cada espécie.
-- Compare Filhote, Jovem e Auge. Observe a escala, os chifres do Kirin e do Unicórnio, as asas do Grifo e da Fênix e a crista do Basilisco. Confira também os retratos da ficha.
-- Verifique o movimento das patas dos quadrúpedes e do Ent, o bater de asas do Grifo e da Fênix e o movimento da cauda da Sereia e do Basilisco.
-- O script usa Harmony quando a biblioteca está disponível na instalação. Se o carregador ou um modelo falhar, o jogo usa o modelo nativo de reserva daquela fase. Procure por [FCP] no log para distinguir os casos.
+- Coloque uma criatura em um grupo pequeno em terra e compare sua escala com a de um humano. O jogo pode mostrar até três membros, conforme o poder.
+- Confira a animação nativa no mapa e os retratos do Filhote, do Jovem e do Auge na ficha. Repita no solo e no cooperativo.
+- Em um save existente, confira se as criaturas voltam a usar os modelos nativos ao carregar e mover o grupo.
 
 
 ## Cooperativo com anfitrião e convidado

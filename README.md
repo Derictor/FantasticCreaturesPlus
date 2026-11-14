@@ -75,7 +75,7 @@ Para atualizar a instalação manual, feche o jogo e substitua a pasta do mod pe
 
 Todos os jogadores devem instalar a mesma versão do mod, ativar a mesma lista de mods na mesma ordem e reiniciar o jogo antes de entrar na sala. Use a mesma versão do Thea 2 em todos os computadores.
 
-Aliados podem participar dos encontros. O personagem ou pet conquistado entra no grupo que iniciou o encontro. Nascimentos e crescimento são processados para o grupo correspondente. No mapa online, todos usam os modelos nativos associados às criaturas. O 3D procedural fica disponível no modo solo com Harmony.
+Aliados podem participar dos encontros. O personagem ou pet conquistado entra no grupo que iniciou o encontro. Nascimentos e crescimento são processados para o grupo correspondente. As criaturas usam modelos nativos do Thea 2 no mapa em solo e no cooperativo.
 
 ## Compatibilidade e suporte
 
